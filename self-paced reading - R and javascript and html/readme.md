@@ -3,7 +3,7 @@ Self-Paced Reading scripts
 
 Summary:
 --------
-R script for self-paced reading task, and modified javascript and HTML files used in experiment design. Eventually reported as Experiment 3 in my dissertation, Kotek, Hadas. 2014. Composing Questions. Massachusetts Institute of Technology, as well as in my MIT Press 2019 book of the same title.	
+R script for self-paced reading task, and modified javascript and HTML files used in experiment design. Eventually reported as Experiment 3 in my dissertation, Kotek, Hadas. 2014. Composing Questions. Massachusetts Institute of Technology, as well as in my [MIT Press 2019 book](https://mitpress.mit.edu/books/composing-questions) of the same title.	
 
 
 Project description: 
