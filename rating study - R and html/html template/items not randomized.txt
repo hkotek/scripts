@@ -1,0 +1,431 @@
+# target 1 target
+Most of the dots are blue. 
+2C-1
+
+# target 2 target
+Most of the dots are blue. 
+2C-2
+
+# target 3 target
+Most of the dots are blue. 
+2C-3
+
+# target 4 target
+Most of the dots are blue. 
+2C-4
+
+# target 5 target
+Most of the dots are blue. 
+2C-5
+
+# target 6 target
+Most of the dots are blue. 
+2C-6
+
+# target 7 target
+Most of the dots are blue. 
+2C-7
+
+# target 8 target
+Most of the dots are blue. 
+2C-8
+
+# target 9 target
+Most of the dots are blue. 
+2C-9
+
+# target 10 target
+Most of the dots are blue. 
+3C_Unbal-1
+
+# target 11 target
+Most of the dots are blue. 
+3C_Unbal-2
+
+# target 12 target
+Most of the dots are blue. 
+3C_Unbal-3
+
+# target 13 target
+Most of the dots are blue. 
+3C_Unbal-4
+
+# target 14 target
+Most of the dots are blue. 
+3C_Unbal-5
+
+# target 15 target
+Most of the dots are blue. 
+3C_Unbal-6
+
+# target 16 target
+Most of the dots are blue. 
+3C_Unbal-7
+
+# target 17 target
+Most of the dots are blue. 
+3C_Unbal-8
+
+# target 18 target
+Most of the dots are blue. 
+3C_Unbal-9
+
+# target 19 target
+Most of the dots are blue. 
+3C_Mild-1
+
+# target 20 target
+Most of the dots are blue. 
+3C_Mild-2
+
+# target 21 target
+Most of the dots are blue. 
+3C_Mild-3
+
+# target 22 target
+Most of the dots are blue. 
+3C_Mild-4
+
+# target 23 target
+Most of the dots are blue. 
+3C_Mild-5
+
+# target 24 target
+Most of the dots are blue. 
+3C_Mild-6
+
+# target 25 target
+Most of the dots are blue. 
+3C_Mild-7
+
+# target 26 target
+Most of the dots are blue. 
+3C_Mild-8
+
+# target 27 target
+Most of the dots are blue. 
+3C_Mild-9
+
+# target 28 target
+Most of the dots are blue. 
+3C_Bal-1
+
+# target 29 target
+Most of the dots are blue. 
+3C_Bal-2
+
+# target 30 target
+Most of the dots are blue. 
+3C_Bal-3
+
+# target 31 target
+Most of the dots are blue. 
+3C_Bal-4
+
+# target 32 target
+Most of the dots are blue. 
+3C_Bal-5
+
+# target 33 target
+Most of the dots are blue. 
+3C_Bal-6
+
+# target 34 target
+Most of the dots are blue. 
+3C_Bal-7
+
+# target 35 target
+Most of the dots are blue. 
+3C_Bal-8
+
+# target 36 target
+Most of the dots are blue. 
+3C_Bal-9
+
+# filler 1 filler
+Many of the dots are blue. 
+Many-t01
+
+# filler 2 filler
+Many of the dots are blue. 
+Many-t02
+
+# filler 3 filler
+Many of the dots are blue. 
+Many-t03
+
+# filler 4 filler
+Many of the dots are blue. 
+Many-t04
+
+# filler 5 filler
+Many of the dots are blue. 
+Many-t05
+
+# filler 6 filler
+Many of the dots are blue. 
+Many-t06
+
+# filler 7 filler
+Many of the dots are blue. 
+Many-t07
+
+# filler 8 filler
+Many of the dots are blue. 
+Many-t08
+
+# filler 9 filler
+Many of the dots are blue. 
+Many-t09
+
+# filler 10 filler
+Many of the dots are blue. 
+Many-t10
+
+# filler 11 filler
+Many of the dots are blue. 
+Many-t11
+
+# filler 12 filler
+Many of the dots are blue. 
+Many-t12
+
+# filler 13 filler
+Many of the dots are blue. 
+Many-f01
+
+# filler 14 filler
+Many of the dots are blue. 
+Many-f02
+
+# filler 15 filler
+Many of the dots are blue. 
+Many-f03
+
+# filler 16 filler
+Many of the dots are blue. 
+Many-f04
+
+# filler 17 filler
+Many of the dots are blue. 
+Many-f05
+
+# filler 18 filler
+Many of the dots are blue. 
+Many-f06
+
+# filler 19 filler
+Many of the dots are blue. 
+Many-f07
+
+# filler 20 filler
+Many of the dots are blue. 
+Many-f08
+
+# filler 21 filler
+Many of the dots are blue. 
+Many-f09
+
+# filler 22 filler
+Many of the dots are blue. 
+Many-f10
+
+# filler 23 filler
+Many of the dots are blue. 
+Many-f11
+
+# filler 24 filler
+Many of the dots are blue. 
+Many-f12
+
+# filler 25 filler
+More than 11 of the dots are blue.
+Mtn-t01
+
+# filler 26 filler
+More than 11 of the dots are blue.
+Mtn-t02
+
+# filler 27 filler
+More than 11 of the dots are blue.
+Mtn-t03
+
+# filler 28 filler
+More than 11 of the dots are blue.
+Mtn-t04
+
+# filler 29 filler
+More than 11 of the dots are blue.
+Mtn-t05
+
+# filler 30 filler
+More than 11 of the dots are blue.
+Mtn-t06
+
+# filler 31 filler
+More than 11 of the dots are blue.
+Mtn-t07
+
+# filler 32 filler
+More than 11 of the dots are blue.
+Mtn-t08
+
+# filler 33 filler
+More than 11 of the dots are blue.
+Mtn-t09
+
+# filler 34 filler
+More than 11 of the dots are blue.
+Mtn-t10
+
+# filler 35 filler
+More than 11 of the dots are blue.
+Mtn-t11
+
+# filler 36 filler
+More than 11 of the dots are blue.
+Mtn-t12
+
+# filler 37 filler
+More than 11 of the dots are blue.
+Mtn-f01
+
+# filler 38 filler
+More than 11 of the dots are blue.
+Mtn-f02
+
+# filler 39 filler
+More than 11 of the dots are blue.
+Mtn-f03
+
+# filler 40 filler
+More than 11 of the dots are blue.
+Mtn-f04
+
+# filler 41 filler
+More than 11 of the dots are blue.
+Mtn-f05
+
+# filler 42 filler
+More than 11 of the dots are blue.
+Mnt-f06
+
+# filler 43 filler
+More than 11 of the dots are blue.
+Mtn-f07
+
+# filler 44 filler
+More than 11 of the dots are blue.
+Mtn-f08
+
+# filler 45 filler
+More than 11 of the dots are blue.
+Mtn-f09
+
+# filler 46 filler
+More than 11 of the dots are blue.
+Mtn-f10
+
+# filler 47 filler
+More than 11 of the dots are blue.
+Mtn-f11
+
+# filler 48 filler
+More than 11 of the dots are blue.
+Mtn-f12
+
+# filler 49 filler
+More than 50% of the dots are blue. 
+Prop-t01
+
+# filler 50 filler
+More than 10% of the dots are blue. 
+Prop-t02
+
+# filler 51 filler
+More than 1/5 of the dots are blue. 
+Prop-t03
+
+# filler 52 filler
+More than 75% of the dots are blue. 
+Prop-t04
+
+# filler 53 filler
+More than 1/4 of the dots are blue. 
+Prop-t05
+
+# filler 54 filler
+More than 3/4 of the dots are blue. 
+Prop-t06
+
+# filler 55 filler
+More than 25% of the dots are blue. 
+Prop-t07
+
+# filler 56 filler
+More than 1/8 of the dots are blue. 
+Prop-t08
+
+# filler 57 filler
+More than 4/5 of the dots are blue. 
+Prop-t09
+
+# filler 58 filler
+More than 33% of the dots are blue. 
+Prop-t10
+
+# filler 59 filler
+More than 80% of the dots are blue. 
+Prop-t11
+
+# filler 60 filler
+More than 2/3 of the dots are blue. 
+Prop-t12
+
+# filler 61 filler
+More than 30% of the dots are blue. 
+Prop-f01
+
+# filler 62 filler
+More than 90% of the dots are blue. 
+Prop-f02
+
+# filler 63 filler
+More than 2/7 of the dots are blue. 
+Prop-f03
+
+# filler 64 filler
+More than 50% of the dots are blue. 
+Prop-f04
+
+# filler 65 filler
+More than 3/4 of the dots are blue. 
+Prop-f05
+
+# filler 66 filler
+More than 2/5 of the dots are blue. 
+Prop-f06
+
+# filler 67 filler
+More than 60% of the dots are blue. 
+Prop-f07
+
+# filler 68 filler
+More than 3/7 of the dots are blue. 
+Prop-f08
+
+# filler 69 filler
+More than 5/6 of the dots are blue. 
+Prop-f09
+
+# filler 70 filler
+More than 80% of the dots are blue. 
+Prop-f10
+
+# filler 71 filler
+More than 40% of the dots are blue. 
+Prop-f11
+
+# filler 72 filler
+More than 3/5 of the dots are blue. 
+Prop-f12
