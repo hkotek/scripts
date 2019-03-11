@@ -1,0 +1,78 @@
+Hadas on Nov 19, 2010
+
+Changed output path for target+practice Colors files so that MST and MTH results are collected in the same folder. 
+
+=========================
+
+Hadas on Oct 29, 2010
+
+Script made compatible with both windows and OSX. (In RunExperimentWithoutInstructionsAndPractice.m)
+
+=========================
+
+Hadas on Oct 27, 2010
+
+- Modified the color green in drawList.m to [0 140 0]
+
+- Added 1 break to the colors experiment after 60 trials, 1 break to the priming experiment after 40 trials. 
+
+=========================
+
+Yasu on Oct 26, 2010
+
+Modified drawList.m to make squares as big as circles
+
+
+=========================
+
+Hadas on Oct 25, 2010
+
+fixed the two remaining Beehive bugs:
+- the regexp problem
+- the break problem.  Breaks are now another parameter set in the main
+experiment function (e.g., in ColorsMST).
+
+The new script is updated on dropbox and is attached here as well.
+
+=========================
+
+Hadas on Oct 26, 2010
+
+We now have a new script with several changes I've made, which I'll summarize below:
+
+1. *Randomization *(function: ShuffleGroups): the randomization function was
+not being seeded automatically by Matlab. Now fixed so we are in fact
+presenting stimuli to different participants in different orders.
+
+2. *Pseudo-randomization* (function: ShuffleGroups): code fixes so that it
+does not crash if there are more target items than filler items.
+
+3. *Preempt *(function: RunExperiment): it is now possible to not allow
+participants to answer before seeing all of the shapes in a given stimuli
+(this used to make the program get stuck).
+
+4. *Resizing*: (a) the *cover size* has been increased so the covers are now
+large enough to actually cover the shapes (function: DrawList).  (b) in
+order to *rescale *the shapes to a good size, we now use the following
+definitions: width = 0.20, height = 0.20; shape size = 0.4 (input file).
+
+5. *Answer to question 2* (function: WriteFile): when no Q2 is asked, the
+results file now leaves the column IsCorrect2 blank, instead of returning
+"incorrect".
+
+6. *New additions*: instead of using different versions of Yasu's script for
+each version of each experiment, we now have an easier *setup*.
+
+In dropbox and in the zipfile attached we now have a folder called
+"SharedExperiments".
+Inside "SharedExperiments", all of the Beehive scripts are in the "scripts"
+folder.
+Each experiment has its own short control script, for example PRM.m or
+ColorsMST.m.
+The control script refers to an instruction file and designates input and
+output file names.
+Each experiment has its own instructions file in the "scripts" folder.
+The are also "input" and "output" folders where we can save our input and
+output files.
+To use these scripts with your own experiment, it should be easy to follow
+what was done for PRM or ColorsMST or ColorsMTH. 

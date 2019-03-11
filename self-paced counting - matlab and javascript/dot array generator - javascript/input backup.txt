@@ -1,0 +1,71 @@
+Trial A
+B1
+This is trial A. Are more than half of the triangles yellow?
+YES
+yT,rS,rQ,gC,gT,gC,yQ,bC,yQ
+2,30
+YES
+3,2,1,3
+
+
+Press F(yes) or J(no) at any time.
+***
+Trial B
+B1
+This is trial B. Are more than half of the triangles yellow?
+NO
+yT,rS,rQ,gC,gT,gC,yQ,bC,yQ,yT,rS,rQ,gC,gT,gC,yQ,bC,yQ,yT,rS,rQ,gC,gT,gC,yQ,bC,yQ,yT,rS,rQ,gC,gT,gC,yQ,bC,yQ
+4,10
+YES
+ALL
+
+
+Press F(yes) or J(no) at any time.
+***
+Trial C
+B1
+This is trial C. Are more than half of the triangles yellow?
+YES
+yT,rS,rQ,gC,gT
+1,50
+YES
+ALL for 300ms
+How many triangles were red?
+400
+Press F(yes) or J(no) at any time.
+***
+Trial D
+B2
+This is trial D. Are more than half of the triangles yellow?
+YES
+yT,rS,rQ,gC,gT,gC,yQ,bC,yQ
+2,10
+YES
+3,2,1,3
+How many triangles were red?
+20000
+Press F(yes) or J(no) at any time.
+***
+Trial E
+B2
+This is trial E. Are more than half of the triangles yellow?
+NO
+yT,rS,rQ,gC,gT,gC,yQ,bC,yQ
+2,100
+YES
+3,2,1,3
+How many triangles were red?
+-10
+Press F(yes) or J(no) at any time.
+***
+Trial F
+B1
+This is trial F. Are more than half of the triangles yellow?
+YES
+yT,rS,rQ,gC,gT,gC,yQ,bC,yQ
+2,50
+NO
+3,2,1,3
+How many triangles were red?
+100
+NEVER EVER press F or J. I know where you live.

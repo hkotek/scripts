@@ -1,0 +1,2 @@
+TrialName,PreempAllowed,NumRows,NumShapes,[Shape Color Radius Position],TimeSpentOnFrame,UserAnswer1,CorrectAnswer1,IsCorrect1,UserAnswer2,CorrectAnswer2,IsCorrect2,Frame,FrameAnswered,TimeToAnswer1FromBegin,TimeToStart2,TimeToFinish2
+title91Tab395,no,3,5,[c g 0.040000 2] [c b 0.040000 3] [c b 0.040000 1] [c g 0.040000 5] [c r 0.040000 6] ,1.1470,yes,Yes,correct,,,,1,1,1.1470,,

@@ -1,0 +1,11 @@
+Trial A
+B1
+This is trial A. Are more than half of the triangles yellow?
+YES
+yT,rS,rQ,gC,gT,gC,yQ,bC,yQ
+2,30
+YES
+ALL
+
+
+Press F(yes) or J(no) at any time.

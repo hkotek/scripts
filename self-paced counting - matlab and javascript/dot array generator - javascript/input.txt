@@ -1,0 +1,131 @@
+Trial A
+B1
+A- Are most of the dots yellow?
+YES
+yC,yC,rC,yC,rC,rC,yC,yC,yC,gC,yC,rC,gC,yC,rC,yC,gC,yC,bC,yC,bC
+2,20
+YES
+3,2,3,3,3,3,2,2
+
+
+Are most of the dots yellow?
+***
+Trial B
+B1
+B- Are more than half of the dots blue?
+NO
+bC,rC,rC,bC,bC,rC,rC,bC,gC,bC,gC,rC,bC,bC,gC,bC,gC,rC,bC,gC,bC
+2,20
+YES
+2,3,3,2,3,3,2,3
+
+
+Are more than half of the dots blue?
+***
+Trial C
+B1
+C- Are more than eleven of the dots green?
+YES
+rC,gC,rC,rC,gC,gC,gC,rC,rC,rC,rC,gC,gC,gC,rC,gC,rC,gC,gC,gC,rC,rC,gC
+2,20
+YES
+3,3,3,3,3,2,3,3
+
+
+Are more than eleven of the dots green?
+***
+Trial D
+B1
+D- Are most of the dots red?
+NO
+rC,gC,gC,rC,rC,gC,gC,rC,yC,rC,yC,rC,yC,gC,rC,yC,rC,rC,bC,bC,yC,rC,rC
+2,20
+YES
+3,2,3,3,3,3,3,3
+
+
+Are most of the dots red?
+***
+Trial E
+B1
+E- Are more than half of the dots green?
+YES
+bC,gC,bC,gC,gC,gC,bC,bC,yC,gC,gC,yC,yC,gC,bC,gC,yC,gC,rC,gC,gC,gC,rC
+2,20
+YES
+2,3,3,3,3,3,3,3
+
+
+Are more than half of the dots green?
+***
+Trial F
+B1
+F- Are most of the dots green?
+NO
+gC,rC,gC,gC,gC,rC,rC,gC,bC,gC,rC,bC,gC,bC,rC,gC,gC,bC,gC,rC,bC
+2,20
+YES
+3,3,2,2,3,3,2,3
+
+
+Are most of the dots green?
+***
+Trial G
+B1
+G- Are more than half of the dots yellow?
+YES
+yC,gC,gC,yC,gC,yC,yC,gC,yC,yC,gC,gC,gC,yC,yC,gC,gC,gC,yC,yC,yC
+2,20
+YES
+2,2,3,3,3,3,3,2
+
+
+Are more than half of the dots yellow?
+***
+Trial H
+B1
+H- Are more than half of the dots red?
+NO
+bC,rC,bC,rC,rC,bC,bC,rC,yC,rC,rC,yC,bC,rC,yC,rC,bC,rC,rC,yC,bC,yC,rC
+2,20
+YES
+3,3,2,3,3,3,3,3
+
+
+Are more than half of the dots red?
+***
+Trial I
+B1
+H- Are more than ten of the dots red?
+YES
+rC,bC,bC,rC,rC,bC,rC,rC,bC,gC,rC,gC,bC,rC,gC,rC,bC,rC,gC,rC,rC
+2,20
+YES
+3,3,2,3,3,2,2,3
+
+
+Are more than ten of the dots red?
+***
+Trial J
+B1
+J- Are most of the dots blue?
+NO
+bC,bC,rC,bC,bC,rC,bC,rC,yC,bC,yC,bC,rC,yC,bC,bC,bC,yC,rC,bC,rC
+2,20
+YES
+2,3,2,3,3,3,2,3
+
+
+Are most of the dots blue?
+***
+Trial K
+B1
+K- Are more than half of the dots blue?
+YES
+rC,bC,bC,bC,bC,rC,bC,rC,yC,bC,rC,bC,yC,bC,bC,rC,bC,yC,gC,bC,rC,bC,gC
+2,20
+YES
+3,3,2,3,3,3,3,3
+
+
+Are more than half of the dots blue?

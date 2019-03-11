@@ -1,0 +1,2882 @@
+0.18	0.18	56
+******
+mtn_2C-4	1	3	18
+Are more than 9 of the circles yellow?	Press SPACE to continue
+Are more than 9 of the circles yellow?	Press SPACE to continue	1
+Are more than 9 of the circles yellow?	Press F(NO) or J(YES) to answer	no
+		
+c	y	0.04	1	(1,2)
+c	g	0.04	1	(1,1)
+c	g	0.04	1	(1,3)
+c	y	0.04	2	(2,2)
+c	g	0.04	2	(3,2)
+c	g	0.04	2	(2,1)
+c	g	0.04	3	(3,1)
+c	y	0.04	3	(4,1)
+c	y	0.04	3	(4,2)
+c	g	0.04	4	(2,3)
+c	y	0.04	4	(3,3)
+c	y	0.04	4	(4,3)
+c	y	0.04	5	(5,3)
+c	g	0.04	5	(5,2)
+c	y	0.04	5	(6,3)
+c	k	0.04	6	(6,2)
+c	g	0.04	6	(5,1)
+c	y	0.04	6	(6,1)
+******
+mtn_2C-8	1	3	18
+Are more than 6 of the circles green?	Press SPACE to continue
+Are more than 6 of the circles green?	Press SPACE to continue	1
+Are more than 6 of the circles green?	Press F(NO) or J(YES) to answer	yes
+		
+c	g	0.04	1	(1,3)
+c	r	0.04	1	(1,2)
+c	r	0.04	1	(1,1)
+c	k	0.04	2	(2,3)
+c	r	0.04	2	(3,2)
+c	g	0.04	2	(2,2)
+c	r	0.04	3	(2,1)
+c	g	0.04	3	(3,1)
+c	r	0.04	3	(4,1)
+c	k	0.04	4	(4,3)
+c	g	0.04	4	(3,3)
+c	g	0.04	4	(4,2)
+c	r	0.04	5	(5,1)
+c	g	0.04	5	(5,3)
+c	r	0.04	5	(5,2)
+c	k	0.04	6	(6,2)
+c	g	0.04	6	(6,1)
+c	r	0.04	6	(6,3)
+******
+mtn_2C-12	1	3	18
+Are more than 6 of the circles blue?	Press SPACE to continue
+Are more than 6 of the circles blue?	Press SPACE to continue	1
+Are more than 6 of the circles blue?	Press F(NO) or J(YES) to answer	no
+		
+c	w	0.04	1	(1,2)
+c	k	0.04	1	(1,3)
+c	b	0.04	1	(1,1)
+c	k	0.04	2	(2,2)
+c	w	0.04	2	(2,3)
+c	w	0.04	2	(3,2)
+c	w	0.04	3	(2,1)
+c	b	0.04	3	(3,1)
+c	b	0.04	3	(4,1)
+c	w	0.04	4	(4,3)
+c	b	0.04	4	(3,3)
+c	w	0.04	4	(4,2)
+c	b	0.04	5	(5,3)
+c	k	0.04	5	(5,1)
+c	b	0.04	5	(5,2)
+c	w	0.04	6	(6,2)
+c	w	0.04	6	(6,1)
+c	w	0.04	6	(6,3)
+******
+mtn_3C-3	1	3	18
+Are more than 7 of the circles white?	Press SPACE to continue
+Are more than 7 of the circles white?	Press SPACE to continue	1
+Are more than 7 of the circles white?	Press F(NO) or J(YES) to answer	yes
+		
+c	w	0.04	1	(1,2)
+c	k	0.04	1	(1,3)
+c	b	0.04	1	(1,1)
+c	b	0.04	2	(2,2)
+c	w	0.04	2	(2,3)
+c	w	0.04	2	(3,2)
+c	w	0.04	3	(2,1)
+c	b	0.04	3	(3,1)
+c	w	0.04	3	(4,1)
+c	w	0.04	4	(4,3)
+c	r	0.04	4	(3,3)
+c	r	0.04	4	(4,2)
+c	w	0.04	5	(5,3)
+c	r	0.04	5	(5,1)
+c	r	0.04	5	(5,2)
+c	b	0.04	6	(6,2)
+c	b	0.04	6	(6,1)
+c	w	0.04	6	(6,3)
+*******
+mtn_3C-7	1	3	18
+Are more than 8 of the circles white?	Press SPACE to continue
+Are more than 8 of the circles white?	Press SPACE to continue	1
+Are more than 8 of the circles white?	Press F(NO) or J(YES) to answer	yes
+		
+c	w	0.04	1	(1,2)
+c	w	0.04	1	(1,3)
+c	k	0.04	1	(1,1)
+c	y	0.04	2	(2,2)
+c	w	0.04	2	(2,1)
+c	y	0.04	2	(2,3)
+c	w	0.04	3	(3,2)
+c	w	0.04	3	(3,1)
+c	w	0.04	3	(3,3)
+c	b	0.04	4	(4,1)
+c	k	0.04	4	(5,1)
+c	b	0.04	4	(4,2)
+c	b	0.04	5	(5,2)
+c	k	0.04	5	(5,3)
+c	b	0.04	5	(4,3)
+c	w	0.04	6	(6,2)
+c	w	0.04	6	(6,1)
+c	w	0.04	6	(6,3)
+******
+mtn_3C-11	1	3	18
+Are more than 7 of the circles green?	Press SPACE to continue
+Are more than 7 of the circles green?	Press SPACE to continue	1
+Are more than 7 of the circles green?	Press F(NO) or J(YES) to answer	no
+		
+c	r	0.04	1	(1,2)
+c	k	0.04	1	(1,3)
+c	g	0.04	1	(1,1)
+c	r	0.04	2	(2,3)
+c	g	0.04	2	(2,2)
+c	r	0.04	2	(2,1)
+c	g	0.04	3	(4,2)
+c	g	0.04	3	(3,2)
+c	g	0.04	3	(3,1)
+c	b	0.04	4	(3,3)
+c	b	0.04	4	(4,3)
+c	k	0.04	4	(5,3)
+c	b	0.04	5	(4,1)
+c	b	0.04	5	(5,1)
+c	g	0.04	5	(6,1)
+c	r	0.04	6	(5,2)
+c	g	0.04	6	(6,2)
+c	k	0.04	6	(6,3)
+******
+mth_2C-2	1	3	18
+Are more than half of the circles white?	Press SPACE to continue
+Are more than half of the circles white?	Press SPACE to continue	1
+Are more than half of the circles white?	Press F(NO) or J(YES) to answer	yes
+		
+c	w	0.04	1	(1,1)
+c	w	0.04	1	(1,2)
+c	k	0.04	1	(2,1)
+c	w	0.04	2	(1,3)
+c	r	0.04	2	(2,3)
+c	r	0.04	2	(3,3)
+c	w	0.04	3	(3,2)
+c	w	0.04	3	(3,1)
+c	r	0.04	3	(2,2)
+c	r	0.04	4	(4,2)
+c	r	0.04	4	(4,1)
+c	w	0.04	4	(5,2)
+c	w	0.04	5	(4,3)
+c	r	0.04	5	(5,3)
+c	w	0.04	5	(6,3)
+c	r	0.04	6	(5,1)
+c	r	0.04	6	(6,1)
+c	w	0.04	6	(6,2)
+******
+mth_2C-6	1	3	18
+Are more than half of the circles green?	Press SPACE to continue
+Are more than half of the circles green?	Press SPACE to continue	1
+Are more than half of the circles green?	Press F(NO) or J(YES) to answer	no		
+		
+c	g	0.04	1	(1,3)
+c	r	0.04	1	(1,2)
+c	g	0.04	1	(1,1)
+c	k	0.04	2	(2,1)
+c	r	0.04	2	(2,2)
+c	r	0.04	2	(2,3)
+c	r	0.04	3	(3,1)
+c	g	0.04	3	(3,2)
+c	r	0.04	3	(3,3)
+c	g	0.04	4	(4,2)
+c	g	0.04	4	(5,2)
+c	r	0.04	4	(4,1)
+c	g	0.04	5	(5,1)
+c	r	0.04	5	(6,1)
+c	r	0.04	5	(6,2)
+c	g	0.04	6	(5,3)
+c	g	0.04	6	(4,3)
+c	r	0.04	6	(6,3)
+******
+mth_2C-10	1	3	18
+Are more than half of the circles blue?	Press SPACE to continue
+Are more than half of the circles blue?	Press SPACE to continue	1
+Are more than half of the circles blue?	Press F(NO) or J(YES) to answer	no
+		
+c	r	0.04	1	(1,2)
+c	b	0.04	1	(1,3)
+c	k	0.04	1	(2,2)
+c	b	0.04	2	(1,1)
+c	r	0.04	2	(2,1)
+c	b	0.04	2	(3,1)
+c	r	0.04	3	(2,3)
+c	r	0.04	3	(3,2)
+c	b	0.04	3	(3,3)
+c	r	0.04	4	(4,2)
+c	k	0.04	4	(4,1)
+c	b	0.04	4	(5,1)
+c	r	0.04	5	(4,3)
+c	b	0.04	5	(5,3)
+c	r	0.04	5	(5,2)
+c	r	0.04	6	(6,2)
+c	k	0.04	6	(6,1)
+c	b	0.04	6	(6,3)
+*******
+mth_3C-1	1	3	18
+Are more than half of the circles yellow?	Press SPACE to continue
+Are more than half of the circles yellow?	Press SPACE to continue	1
+Are more than half of the circles yellow?	Press F(NO) or J(YES) to answer	yes
+		
+c	y	0.04	1	(1,2)
+c	y	0.04	1	(1,1)
+c	k	0.04	1	(2,1)
+c	g	0.04	2	(2,2)
+c	y	0.04	2	(3,2)
+c	y	0.04	2	(3,1)
+c	g	0.04	3	(1,3)
+c	y	0.04	3	(2,3)
+c	y	0.04	3	(3,3)
+c	b	0.04	4	(4,2)
+c	b	0.04	4	(5,2)
+c	y	0.04	4	(4,1)
+c	y	0.04	5	(4,3)
+c	b	0.04	5	(5,3)
+c	b	0.04	5	(6,3)
+c	g	0.04	6	(6,1)
+c	g	0.04	6	(6,2)
+c	y	0.04	6	(5,1)
+******
+mth_3C-5	1	3	18
+Are more than half of the circles red?	Press SPACE to continue
+Are more than half of the circles red?	Press SPACE to continue	1
+Are more than half of the circles red?	Press F(NO) or J(YES) to answer	no
+		
+c	r	0.04	1	(1,2)
+c	w	0.04	1	(1,3)
+c	r	0.04	1	(1,1)
+c	r	0.04	2	(2,2)
+c	w	0.04	2	(2,1)
+c	r	0.04	2	(3,1)
+c	w	0.04	3	(2,3)
+c	w	0.04	3	(3,2)
+c	r	0.04	3	(3,3)
+c	r	0.04	4	(4,2)
+c	g	0.04	4	(5,2)
+c	g	0.04	4	(4,1)
+c	g	0.04	5	(5,1)
+c	r	0.04	5	(6,2)
+c	g	0.04	5	(6,1)
+c	r	0.04	6	(5,3)
+c	k	0.04	6	(4,3)
+c	w	0.04	6	(6,3)
+******
+mth_3C-9	1	3	18
+Are more than half of the circles blue?	Press SPACE to continue
+Are more than half of the circles blue?	Press SPACE to continue	1
+Are more than half of the circles blue?	Press F(NO) or J(YES) to answer	yes
+		
+c	b	0.04	1	(1,2)
+c	b	0.04	1	(1,3)
+c	k	0.04	1	(2,2)
+c	b	0.04	2	(1,1)
+c	b	0.04	2	(2,1)
+c	g	0.04	2	(3,1)
+c	k	0.04	3	(2,3)
+c	b	0.04	3	(3,2)
+c	g	0.04	3	(3,3)
+c	r	0.04	4	(4,2)
+c	b	0.04	4	(4,1)
+c	r	0.04	4	(5,1)
+c	r	0.04	5	(4,3)
+c	b	0.04	5	(5,3)
+c	r	0.04	5	(5,2)
+c	b	0.04	6	(6,2)
+c	g	0.04	6	(6,1)
+c	k	0.04	6	(6,3)
+*******
+exn_2C-f4	2	3	18
+Are exactly 9 of the circles red?	Press SPACE to continue
+Are exactly 9 of the circles red?	Press SPACE to continue	1
+Are exactly 9 of the circles red?	Press F(NO) or J(YES) to answer	no
+		
+c	r	0.04	1	(1,2)
+c	w	0.04	1	(1,3)
+c	w	0.04	1	(2,3)
+c	r	0.04	2	(1,1)
+c	w	0.04	2	(2,2)
+c	w	0.04	2	(2,1)
+c	r	0.04	3	(3,2)
+c	k	0.04	3	(3,3)
+c	r	0.04	3	(3,1)
+c	r	0.04	4	(4,2)
+c	w	0.04	4	(4,1)
+c	w	0.04	4	(4,3)
+c	w	0.04	5	(5,1)
+c	r	0.04	5	(5,2)
+c	r	0.04	5	(6,1)
+c	w	0.04	6	(6,2)
+c	w	0.04	6	(5,3)
+c	r	0.04	6	(6,3)
+*******
+exn_2C-f8	2	3	18
+Are exactly 7 of the circles blue?	Press SPACE to continue
+Are exactly 7 of the circles blue?	Press SPACE to continue	1
+Are exactly 7 of the circles blue?	Press F(NO) or J(YES) to answer	yes
+		
+c	k	0.04	1	(1,2)
+c	b	0.04	1	(1,3)
+c	b	0.04	1	(2,2)
+c	g	0.04	2	(1,1)
+c	b	0.04	2	(2,1)
+c	k	0.04	2	(3,1)
+c	g	0.04	3	(2,3)
+c	k	0.04	3	(3,2)
+c	g	0.04	3	(3,3)
+c	g	0.04	4	(4,1)
+c	b	0.04	4	(5,1)
+c	b	0.04	4	(4,2)
+c	g	0.04	5	(4,3)
+c	b	0.04	5	(5,3)
+c	g	0.04	5	(5,2)
+c	g	0.04	6	(6,2)
+c	g	0.04	6	(6,1)
+c	b	0.04	6	(6,3)
+******
+exn_2C-f12	2	3	18
+Are exactly 6 of the circles red?	Press SPACE to continue
+Are exactly 6 of the circles red?	Press SPACE to continue	1
+Are exactly 6 of the circles red?	Press F(NO) or J(YES) to answer	no
+		
+c	r	0.04	1	(1,2)
+c	r	0.04	1	(1,1)
+c	k	0.04	1	(2,1)
+c	r	0.04	2	(1,3)
+c	b	0.04	2	(2,3)
+c	b	0.04	2	(2,2)
+c	b	0.04	3	(3,2)
+c	k	0.04	3	(3,3)
+c	b	0.04	3	(3,1)
+c	b	0.04	4	(4,2)
+c	r	0.04	4	(5,2)
+c	r	0.04	4	(4,3)
+c	b	0.04	5	(5,1)
+c	r	0.04	5	(6,1)
+c	b	0.04	5	(4,1)
+c	k	0.04	6	(5,3)
+c	r	0.04	6	(6,2)
+c	b	0.04	6	(6,3)
+******
+exn_3C-f3	2	3	18
+Are exactly 7 of the circles green?	Press SPACE to continue
+Are exactly 7 of the circles green?	Press SPACE to continue	1
+Are exactly 7 of the circles green?	Press F(NO) or J(YES) to answer	yes
+		
+c	r	0.04	1	(1,2)
+c	g	0.04	1	(1,3)
+c	g	0.04	1	(2,2)
+c	b	0.04	2	(1,1)
+c	g	0.04	2	(2,1)
+c	b	0.04	2	(3,1)
+c	r	0.04	3	(2,3)
+c	g	0.04	3	(3,2)
+c	b	0.04	3	(3,3)
+c	b	0.04	4	(4,1)
+c	r	0.04	4	(5,1)
+c	g	0.04	4	(6,1)
+c	b	0.04	5	(4,3)
+c	r	0.04	5	(5,3)
+c	r	0.04	5	(4,2)
+c	g	0.04	6	(6,2)
+c	g	0.04	6	(5,2)
+c	r	0.04	6	(6,3)
+******
+exn_3C-f7	2	3	18
+Are exactly 8 of the circles red?	Press SPACE to continue
+Are exactly 8 of the circles red?	Press SPACE to continue	1
+Are exactly 8 of the circles red?	Press F(NO) or J(YES) to answer	yes
+		
+c	y	0.04	1	(1,1)
+c	r	0.04	1	(2,1)
+c	k	0.04	2	(1,2)
+c	b	0.04	2	(1,3)
+c	k	0.04	2	(2,3)
+c	r	0.04	2	(2,2)
+c	r	0.04	3	(3,2)
+c	r	0.04	3	(3,1)
+c	y	0.04	3	(3,3)
+c	r	0.04	4	(4,2)
+c	b	0.04	4	(4,3)
+c	r	0.04	4	(4,1)
+c	b	0.04	5	(5,2)
+c	y	0.04	5	(5,3)
+c	r	0.04	5	(6,3)
+c	y	0.04	6	(6,2)
+c	r	0.04	6	(5,1)
+c	b	0.04	6	(6,1)
+******
+exn_3C-f11	2	3	18
+Are exactly 7 of the circles yellow?	Press SPACE to continue
+Are exactly 7 of the circles yellow?	Press SPACE to continue	1
+Are exactly 7 of the circles yellow?	Press F(NO) or J(YES) to answer	no
+		
+c	g	0.04	1	(1,2)
+c	w	0.04	1	(1,1)
+c	y	0.04	1	(1,3)
+c	w	0.04	2	(2,2)
+c	y	0.04	2	(2,3)
+c	y	0.04	2	(2,1)
+c	g	0.04	3	(3,2)
+c	k	0.04	3	(3,1)
+c	y	0.04	3	(3,3)
+c	w	0.04	4	(4,2)
+c	g	0.04	4	(5,2)
+c	w	0.04	4	(4,1)
+c	g	0.04	5	(5,1)
+c	g	0.04	5	(6,1)
+c	k	0.04	5	(6,2)
+c	y	0.04	6	(4,3)
+c	y	0.04	6	(5,3)
+c	w	0.04	6	(6,3)
+******
+aboutn-f2	2	3	18
+Are about 6 of the circles green?	Press SPACE to continue
+Are about 6 of the circles green?	Press SPACE to continue	1
+Are about 6 of the circles green?	Press F(NO) or J(YES) to answer	yes
+		
+c	g	0.04	1	(1,2)
+c	g	0.04	1	(1,3)
+c	w	0.04	1	(1,1)
+c	w	0.04	2	(2,2)
+c	w	0.04	2	(3,2)
+c	g	0.04	2	(2,3)
+c	g	0.04	3	(3,1)
+c	w	0.04	3	(4,1)
+c	w	0.04	3	(2,1)
+c	k	0.04	4	(3,3)
+c	g	0.04	4	(4,2)
+c	w	0.04	4	(4,3)
+c	g	0.04	5	(5,2)
+c	k	0.04	5	(5,3)
+c	g	0.04	5	(6,3)
+c	w	0.04	6	(6,2)
+c	w	0.04	6	(5,1)
+c	w	0.04	6	(6,1)
+******
+aboutn-f6	2	3	18
+Are about 5 of the circles green?	Press SPACE to continue
+Are about 5 of the circles green?	Press SPACE to continue	1
+Are about 5 of the circles green?	Press F(NO) or J(YES) to answer	yes
+		
+c	g	0.04	1	(1,2)
+c	y	0.04	1	(1,1)
+c	y	0.04	1	(1,3)
+c	y	0.04	2	(2,2)
+c	g	0.04	2	(2,3)
+c	y	0.04	2	(2,1)
+c	y	0.04	3	(3,1)
+c	y	0.04	3	(3,2)
+c	k	0.04	3	(3,3)
+c	y	0.04	4	(4,2)
+c	g	0.04	4	(5,2)
+c	y	0.04	4	(4,1)
+c	y	0.04	5	(5,1)
+c	y	0.04	5	(6,1)
+c	g	0.04	5	(6,2)
+c	y	0.04	6	(4,3)
+c	y	0.04	6	(5,3)
+c	y	0.04	6	(6,3)
+******
+aboutn-f10	2	3	18
+Are about 7 of the circles white?	Press SPACE to continue
+Are about 7 of the circles white?	Press SPACE to continue	1
+Are about 7 of the circles white?	Press F(NO) or J(YES) to answer	yes
+		
+c	y	0.04	1	(1,1)
+c	y	0.04	1	(1,2)
+c	w	0.04	1	(2,1)
+c	w	0.04	2	(2,2)
+c	k	0.04	2	(1,3)
+c	y	0.04	2	(2,3)
+c	y	0.04	3	(3,2)
+c	k	0.04	3	(3,1)
+c	w	0.04	3	(3,3)
+c	y	0.04	4	(4,2)
+c	y	0.04	4	(4,1)
+c	w	0.04	4	(4,3)
+c	w	0.04	5	(5,2)
+c	w	0.04	5	(5,3)
+c	k	0.04	5	(5,1)
+c	k	0.04	6	(6,2)
+c	y	0.04	6	(6,3)
+c	w	0.04	6	(6,1)
+******
+otherprop_2C-f1	2	3	18
+Are more than 1/3 of the circles red?	Press SPACE to continue
+Are more than 1/3 of the circles red?	Press SPACE to continue	1
+Are more than 1/3 of the circles red?	Press F(NO) or J(YES) to answer	no
+		
+c	w	0.04	1	(1,1)
+c	w	0.04	1	(1,2)
+c	w	0.04	1	(1,3)
+c	k	0.04	2	(2,2)
+c	w	0.04	2	(3,2)
+c	r	0.04	2	(2,3)
+c	w	0.04	3	(2,1)
+c	w	0.04	3	(3,1)
+c	k	0.04	3	(3,3)
+c	r	0.04	4	(4,3)
+c	k	0.04	4	(5,3)
+c	r	0.04	4	(4,2)
+c	w	0.04	5	(4,1)
+c	w	0.04	5	(5,1)
+c	k	0.04	5	(5,2)
+c	w	0.04	6	(6,2)
+c	k	0.04	6	(6,1)
+c	w	0.04	6	(6,3)
+******
+otherprop_2C-f5	2	3	18
+Are more than 2/3 of the circles green?	Press SPACE to continue
+Are more than 2/3 of the circles green?	Press SPACE to continue	1
+Are more than 2/3 of the circles green?	Press F(NO) or J(YES) to answer	no
+		
+c	r	0.04	1	(1,2)
+c	r	0.04	1	(1,1)
+c	g	0.04	1	(1,3)
+c	r	0.04	2	(2,2)
+c	g	0.04	2	(3,2)
+c	g	0.04	2	(2,3)
+c	r	0.04	3	(2,1)
+c	g	0.04	3	(3,1)
+c	r	0.04	3	(4,1)
+c	r	0.04	4	(3,3)
+c	g	0.04	4	(4,2)
+c	r	0.04	4	(4,3)
+c	r	0.04	5	(5,2)
+c	g	0.04	5	(5,3)
+c	g	0.04	5	(6,3)
+c	r	0.04	6	(6,2)
+c	g	0.04	6	(5,1)
+c	r	0.04	6	(6,1)
+******
+otherprop_2C-f9	2	3	18
+Are more than 3/4 of the circles yellow?	Press SPACE to continue
+Are more than 3/4 of the circles yellow?	Press SPACE to continue	1
+Are more than 3/4 of the circles yellow?	Press F(NO) or J(YES) to answer	no
+		
+c	w	0.04	1	(1,1)
+c	w	0.04	1	(1,2)
+c	y	0.04	1	(2,1)
+c	y	0.04	2	(2,2)
+c	w	0.04	2	(1,3)
+c	y	0.04	2	(2,3)
+c	w	0.04	3	(3,1)
+c	w	0.04	3	(3,2)
+c	w	0.04	3	(4,1)
+c	w	0.04	4	(3,3)
+c	k	0.04	4	(4,2)
+c	w	0.04	4	(4,3)
+c	y	0.04	5	(5,2)
+c	k	0.04	5	(5,1)
+c	y	0.04	5	(6,1)
+c	k	0.04	6	(5,3)
+c	w	0.04	6	(6,2)
+c	w	0.04	6	(6,3)
+******
+otherprop_3C-f4	2	3	18
+Are more than 75 percent of the circles white?	Press SPACE to continue
+Are more than 75 percent of the circles white?	Press SPACE to continue	1
+Are more than 75 percent of the circles white?	Press F(NO) or J(YES) to answer	no
+		
+c	b	0.04	1	(1,2)
+c	b	0.04	1	(1,1)
+c	b	0.04	1	(1,3)
+c	w	0.04	2	(2,2)
+c	w	0.04	2	(2,3)
+c	g	0.04	2	(2,1)
+c	g	0.04	3	(3,2)
+c	w	0.04	3	(3,1)
+c	g	0.04	3	(3,3)
+c	g	0.04	4	(4,2)
+c	w	0.04	4	(5,2)
+c	w	0.04	4	(4,3)
+c	w	0.04	5	(4,1)
+c	b	0.04	5	(5,1)
+c	b	0.04	5	(6,1)
+c	w	0.04	6	(5,3)
+c	g	0.04	6	(6,2)
+c	g	0.04	6	(6,3)
+******
+otherprop_3C-f8	2	3	18
+Are more than 1/5 of the circles red?	Press SPACE to continue
+Are more than 1/5 of the circles red?	Press SPACE to continue	1
+Are more than 1/5 of the circles red?	Press F(NO) or J(YES) to answer	no
+		
+c	k	0.04	1	(1,1)
+c	b	0.04	1	(2,2)
+c	w	0.04	1	(2,1)
+c	b	0.04	2	(1,2)
+c	b	0.04	2	(1,3)
+c	w	0.04	2	(2,3)
+c	b	0.04	3	(3,2)
+c	b	0.04	3	(3,3)
+c	w	0.04	3	(3,1)
+c	b	0.04	4	(4,2)
+c	b	0.04	4	(4,1)
+c	b	0.04	4	(5,2)
+c	w	0.04	5	(4,3)
+c	w	0.04	5	(5,3)
+c	r	0.04	5	(6,3)
+c	w	0.04	6	(5,1)
+c	b	0.04	6	(6,2)
+c	w	0.04	6	(6,1)
+******
+otherprop_3C-f12	2	3	18
+Are more than 50 percent of the circles blue?	Press SPACE to continue
+Are more than 50 percent of the circles blue?	Press SPACE to continue	1
+Are more than 50 percent of the circles blue?	Press F(NO) or J(YES) to answer	no
+		
+c	b	0.04	1	(1,1)
+c	r	0.04	1	(1,2)
+c	w	0.04	1	(1,3)
+c	k	0.04	2	(2,2)
+c	b	0.04	2	(2,3)
+c	r	0.04	2	(3,3)
+c	w	0.04	3	(2,1)
+c	b	0.04	3	(3,1)
+c	b	0.04	3	(3,2)
+c	r	0.04	4	(4,3)
+c	b	0.04	4	(5,3)
+c	r	0.04	4	(4,2)
+c	b	0.04	5	(4,1)
+c	w	0.04	5	(5,1)
+c	w	0.04	5	(5,2)
+c	r	0.04	6	(6,2)
+c	b	0.04	6	(6,1)
+c	r	0.04	6	(6,3)
+******
+few-f3	2	3	18
+Are few of the circles white?	Press SPACE to continue
+Are few of the circles white?	Press SPACE to continue	1
+Are few of the circles white?	Press F(NO) or J(YES) to answer	no
+		
+c	k	0.04	1	(1,2)
+c	w	0.04	1	(1,1)
+c	w	0.04	1	(2,1)
+c	r	0.04	2	(1,3)
+c	r	0.04	2	(2,3)
+c	k	0.04	2	(2,2)
+c	w	0.04	3	(3,1)
+c	w	0.04	3	(3,2)
+c	r	0.04	3	(4,2)
+c	w	0.04	4	(3,3)
+c	w	0.04	4	(4,3)
+c	r	0.04	4	(5,3)
+c	w	0.04	5	(4,1)
+c	r	0.04	5	(5,1)
+c	k	0.04	5	(6,1)
+c	w	0.04	6	(5,2)
+c	k	0.04	6	(6,2)
+c	w	0.04	6	(6,3)
+******
+many-f1	2	3	18
+Are many of the circles yellow?	Press SPACE to continue
+Are many of the circles yellow?	Press SPACE to continue	1
+Are many of the circles yellow?	Press F(NO) or J(YES) to answer	yes
+		
+c	y	0.04	1	(1,2)
+c	y	0.04	1	(1,1)
+c	r	0.04	1	(2,1)
+c	k	0.04	2	(1,3)
+c	y	0.04	2	(2,3)
+c	y	0.04	2	(2,2)
+c	y	0.04	3	(3,2)
+c	k	0.04	3	(3,1)
+c	r	0.04	3	(3,3)
+c	y	0.04	4	(4,2)
+c	y	0.04	4	(4,1)
+c	y	0.04	4	(5,1)
+c	y	0.04	5	(4,3)
+c	y	0.04	5	(5,3)
+c	r	0.04	5	(5,2)
+c	k	0.04	6	(6,2)
+c	y	0.04	6	(6,3)
+c	y	0.04	6	(6,1)
+******
+many-f5	2	3	18
+Are many of the circles blue?	Press SPACE to continue
+Are many of the circles blue?	Press SPACE to continue	1
+Are many of the circles blue?	Press F(NO) or J(YES) to answer	yes
+		
+c	b	0.04	1	(1,1)
+c	r	0.04	1	(1,2)
+c	k	0.04	1	(2,2)
+c	b	0.04	2	(1,3)
+c	r	0.04	2	(2,3)
+c	b	0.04	2	(3,2)
+c	b	0.04	3	(2,1)
+c	b	0.04	3	(3,1)
+c	b	0.04	3	(4,2)
+c	b	0.04	4	(3,3)
+c	b	0.04	4	(4,3)
+c	b	0.04	4	(5,2)
+c	b	0.04	5	(4,1)
+c	b	0.04	5	(5,1)
+c	b	0.04	5	(6,1)
+c	b	0.04	6	(6,2)
+c	r	0.04	6	(5,3)
+c	b	0.04	6	(6,3)
+******
+mtn_2C-3	1	3	18
+Are more than 7 of the stars blue?	Press SPACE to continue
+Are more than 7 of the stars blue?	Press SPACE to continue	1
+Are more than 7 of the stars blue?	Press F(NO) or J(YES) to answer	yes
+		
+s	w	0.04	1	(1,2)
+s	k	0.04	1	(1,3)
+s	b	0.04	1	(1,1)
+s	b	0.04	2	(2,2)
+s	w	0.04	2	(2,3)
+s	w	0.04	2	(3,2)
+s	w	0.04	3	(2,1)
+s	b	0.04	3	(3,1)
+s	b	0.04	3	(4,1)
+s	w	0.04	4	(4,3)
+s	b	0.04	4	(3,3)
+s	w	0.04	4	(4,2)
+s	b	0.04	5	(5,3)
+s	w	0.04	5	(5,1)
+s	w	0.04	5	(5,2)
+s	b	0.04	6	(6,2)
+s	b	0.04	6	(6,1)
+s	w	0.04	6	(6,3)
+******
+mtn_2C-7	1	3	18
+Are more than 7 of the stars white?	Press SPACE to continue
+Are more than 7 of the stars white?	Press SPACE to continue	1
+Are more than 7 of the stars white?	Press F(NO) or J(YES) to answer	yes
+		
+s	y	0.04	1	(1,2)
+s	w	0.04	1	(1,3)
+s	k	0.04	1	(1,1)
+s	y	0.04	2	(2,2)
+s	w	0.04	2	(2,1)
+s	y	0.04	2	(2,3)
+s	w	0.04	3	(3,2)
+s	y	0.04	3	(3,1)
+s	y	0.04	3	(3,3)
+s	w	0.04	4	(4,2)
+s	k	0.04	4	(5,1)
+s	w	0.04	4	(4,1)
+s	w	0.04	5	(5,2)
+s	k	0.04	5	(5,3)
+s	w	0.04	5	(4,3)
+s	y	0.04	6	(6,2)
+s	y	0.04	6	(6,1)
+s	w	0.04	6	(6,3)
+******
+mtn_2C-11	1	3	18
+Are more than 7 of the stars green?	Press SPACE to continue
+Are more than 7 of the stars green?	Press SPACE to continue	1
+Are more than 7 of the stars green?	Press F(NO) or J(YES) to answer	no
+		
+s	r	0.04	1	(1,2)
+s	k	0.04	1	(1,3)
+s	g	0.04	1	(1,1)
+s	r	0.04	2	(2,3)
+s	g	0.04	2	(2,2)
+s	r	0.04	2	(2,1)
+s	g	0.04	3	(4,2)
+s	r	0.04	3	(3,2)
+s	g	0.04	3	(3,1)
+s	r	0.04	4	(3,3)
+s	r	0.04	4	(4,3)
+s	g	0.04	4	(5,3)
+s	k	0.04	5	(4,1)
+s	r	0.04	5	(5,1)
+s	g	0.04	5	(6,1)
+s	r	0.04	6	(5,2)
+s	g	0.04	6	(6,2)
+s	k	0.04	6	(6,3)
+******
+mtn_3C-2	1	3	18
+Are more than 8 of the stars red?	Press SPACE to continue
+Are more than 8 of the stars red?	Press SPACE to continue	1
+Are more than 8 of the stars red?	Press F(NO) or J(YES) to answer	yes
+		
+s	r	0.04	1	(1,2)
+s	k	0.04	1	(1,3)
+s	g	0.04	1	(1,1)
+s	r	0.04	2	(2,3)
+s	g	0.04	2	(2,2)
+s	r	0.04	2	(2,1)
+s	r	0.04	3	(4,2)
+s	r	0.04	3	(3,2)
+s	r	0.04	3	(3,1)
+s	w	0.04	4	(3,3)
+s	w	0.04	4	(4,3)
+s	g	0.04	4	(5,3)
+s	w	0.04	5	(4,1)
+s	r	0.04	5	(5,1)
+s	w	0.04	5	(6,1)
+s	r	0.04	6	(5,2)
+s	r	0.04	6	(6,2)
+s	g	0.04	6	(6,3)
+******
+mtn_3C-6	1	3	18
+Are more than 7 of the stars yellow?	Press SPACE to continue
+Are more than 7 of the stars yellow?	Press SPACE to continue	1
+Are more than 7 of the stars yellow?	Press F(NO) or J(YES) to answer	no
+		
+s	y	0.04	1	(1,2)
+s	g	0.04	1	(1,1)
+s	g	0.04	1	(2,1)
+s	y	0.04	2	(2,2)
+s	k	0.04	2	(3,2)
+s	g	0.04	2	(3,1)
+s	y	0.04	3	(1,3)
+s	y	0.04	3	(2,3)
+s	g	0.04	3	(3,3)
+s	r	0.04	4	(5,2)
+s	r	0.04	4	(4,1)
+s	y	0.04	4	(4,2)
+s	r	0.04	5	(4,3)
+s	r	0.04	5	(5,3)
+s	y	0.04	5	(6,3)
+s	g	0.04	6	(6,1)
+s	g	0.04	6	(6,2)
+s	y	0.04	6	(5,1)
+******
+mtn_3C-10	1	3	18
+Are more than 8 of the stars yellow?	Press SPACE to continue
+Are more than 8 of the stars yellow?	Press SPACE to continue	1
+Are more than 8 of the stars yellow?	Press F(NO) or J(YES) to answer	no
+		
+s	k	0.04	1	(1,1)
+s	y	0.04	1	(1,2)
+s	y	0.04	1	(2,1)
+s	y	0.04	2	(1,3)
+s	b	0.04	2	(2,3)
+s	k	0.04	2	(2,2)
+s	y	0.04	3	(3,1)
+s	b	0.04	3	(3,2)
+s	y	0.04	3	(3,3)
+s	g	0.04	4	(4,1)
+s	y	0.04	4	(4,2)
+s	g	0.04	4	(5,2)
+s	y	0.04	5	(4,3)
+s	g	0.04	5	(5,3)
+s	g	0.04	5	(6,3)
+s	y	0.04	6	(5,1)
+s	k	0.04	6	(6,1)
+s	b	0.04	6	(6,2)
+******
+mth_2C-1	1	3	18
+Are more than half of the stars green?	Press SPACE to continue
+Are more than half of the stars green?	Press SPACE to continue	1
+Are more than half of the stars green?	Press F(NO) or J(YES) to answer	yes
+		
+s	b	0.04	1	(1,2)
+s	g	0.04	1	(1,1)
+s	k	0.04	1	(2,2)
+s	g	0.04	2	(1,3)
+s	b	0.04	2	(2,3)
+s	b	0.04	2	(3,2)
+s	g	0.04	3	(2,1)
+s	g	0.04	3	(3,1)
+s	b	0.04	3	(4,2)
+s	g	0.04	4	(3,3)
+s	b	0.04	4	(4,3)
+s	g	0.04	4	(5,2)
+s	b	0.04	5	(4,1)
+s	g	0.04	5	(5,1)
+s	b	0.04	5	(6,1)
+s	g	0.04	6	(6,2)
+s	b	0.04	6	(5,3)
+s	g	0.04	6	(6,3)
+******
+mth_2C-5	1	3	18
+Are more than half of the stars blue?	Press SPACE to continue
+Are more than half of the stars blue?	Press SPACE to continue	1
+Are more than half of the stars blue?	Press F(NO) or J(YES) to answer	no
+		
+s	w	0.04	1	(1,1)
+s	w	0.04	1	(1,2)
+s	b	0.04	1	(2,1)
+s	w	0.04	2	(1,3)
+s	w	0.04	2	(2,3)
+s	b	0.04	2	(2,2)
+s	w	0.04	3	(3,2)
+s	k	0.04	3	(3,3)
+s	b	0.04	3	(3,1)
+s	w	0.04	4	(4,2)
+s	b	0.04	4	(5,2)
+s	b	0.04	4	(4,3)
+s	w	0.04	5	(5,3)
+s	b	0.04	5	(6,2)
+s	b	0.04	5	(6,3)
+s	b	0.04	6	(4,1)
+s	w	0.04	6	(5,1)
+s	w	0.04	6	(6,1)
+******
+mth_2C-9	1	3	18
+Are more than half of the stars white?	Press SPACE to continue
+Are more than half of the stars white?	Press SPACE to continue	1
+Are more than half of the stars white?	Press F(NO) or J(YES) to answer	yes
+		
+s	g	0.04	1	(1,1)
+s	w	0.04	1	(1,3)
+s	g	0.04	1	(1,2)
+s	w	0.04	2	(2,1)
+s	g	0.04	2	(2,3)
+s	k	0.04	2	(2,2)
+s	g	0.04	3	(3,2)
+s	w	0.04	3	(3,1)
+s	w	0.04	3	(3,3)
+s	k	0.04	4	(4,3)
+s	w	0.04	4	(4,2)
+s	g	0.04	4	(4,1)
+s	w	0.04	5	(5,1)
+s	k	0.04	5	(6,2)
+s	w	0.04	5	(6,1)
+s	g	0.04	6	(6,3)
+s	g	0.04	6	(5,3)
+s	w	0.04	6	(5,2)
+******
+mth_3C-4	1	3	18
+Are more than half of the stars green?	Press SPACE to continue
+Are more than half of the stars green?	Press SPACE to continue	1
+Are more than half of the stars green?	Press F(NO) or J(YES) to answer	no
+		
+s	k	0.04	1	(1,1)
+s	r	0.04	1	(1,2)
+s	g	0.04	1	(2,1)
+s	r	0.04	2	(1,3)
+s	g	0.04	2	(2,3)
+s	g	0.04	2	(2,2)
+s	r	0.04	3	(3,2)
+s	g	0.04	3	(3,3)
+s	r	0.04	3	(3,1)
+s	g	0.04	4	(4,2)
+s	y	0.04	4	(5,3)
+s	y	0.04	4	(4,3)
+s	g	0.04	5	(5,2)
+s	y	0.04	5	(5,1)
+s	y	0.04	5	(4,1)
+s	g	0.04	6	(6,2)
+s	r	0.04	6	(6,1)
+s	g	0.04	6	(6,3)
+******
+mth_3C-8	1	3	18
+Are more than half of the stars red?	Press SPACE to continue
+Are more than half of the stars red?	Press SPACE to continue	1
+Are more than half of the stars red?	Press F(NO) or J(YES) to answer	yes
+		
+s	r	0.04	1	(1,1)
+s	r	0.04	1	(2,1)
+s	k	0.04	1	(1,2)
+s	r	0.04	2	(1,3)
+s	r	0.04	2	(2,3)
+s	y	0.04	2	(2,2)
+s	k	0.04	3	(3,2)
+s	r	0.04	3	(3,1)
+s	y	0.04	3	(3,3)
+s	g	0.04	4	(4,2)
+s	r	0.04	4	(4,3)
+s	g	0.04	4	(4,1)
+s	g	0.04	5	(5,2)
+s	g	0.04	5	(5,3)
+s	r	0.04	5	(6,3)
+s	r	0.04	6	(6,2)
+s	k	0.04	6	(5,1)
+s	y	0.04	6	(6,1)
+******
+mth_3C-12	1	3	18
+Are more than half of the stars white?	Press SPACE to continue
+Are more than half of the stars white?	Press SPACE to continue	1
+Are more than half of the stars white?	Press F(NO) or J(YES) to answer	no
+		
+s	k	0.04	1	(1,2)
+s	w	0.04	1	(1,1)
+s	r	0.04	1	(2,1)
+s	w	0.04	2	(2,2)
+s	w	0.04	2	(3,2)
+s	r	0.04	2	(3,1)
+s	k	0.04	3	(1,3)
+s	w	0.04	3	(2,3)
+s	r	0.04	3	(3,3)
+s	w	0.04	4	(4,2)
+s	y	0.04	4	(5,2)
+s	y	0.04	4	(4,1)
+s	y	0.04	5	(4,3)
+s	w	0.04	5	(5,3)
+s	y	0.04	5	(6,3)
+s	k	0.04	6	(5,1)
+s	r	0.04	6	(6,1)
+s	w	0.04	6	(6,2)
+******
+exn_2C-f3	2	3	18
+Are exactly 7 of the stars white?	Press SPACE to continue
+Are exactly 7 of the stars white?	Press SPACE to continue	1
+Are exactly 7 of the stars white?	Press F(NO) or J(YES) to answer	yes
+		
+s	b	0.04	1	(1,2)
+s	w	0.04	1	(1,3)
+s	b	0.04	1	(2,2)
+s	b	0.04	2	(1,1)
+s	w	0.04	2	(2,1)
+s	b	0.04	2	(3,1)
+s	w	0.04	3	(2,3)
+s	b	0.04	3	(3,2)
+s	w	0.04	3	(3,3)
+s	b	0.04	4	(4,1)
+s	w	0.04	4	(5,1)
+s	w	0.04	4	(6,1)
+s	b	0.04	5	(4,3)
+s	w	0.04	5	(5,3)
+s	k	0.04	5	(4,2)
+s	b	0.04	6	(6,2)
+s	b	0.04	6	(5,2)
+s	b	0.04	6	(6,3)
+******
+exn_2C-f7	2	3	18
+Are exactly 8 of the stars red?	Press SPACE to continue
+Are exactly 8 of the stars red?	Press SPACE to continue	1
+Are exactly 8 of the stars red?	Press F(NO) or J(YES) to answer	yes
+		
+s	y	0.04	1	(1,1)
+s	r	0.04	1	(2,1)
+s	k	0.04	2	(1,2)
+s	y	0.04	2	(1,3)
+s	k	0.04	2	(2,3)
+s	r	0.04	2	(2,2)
+s	r	0.04	3	(3,2)
+s	r	0.04	3	(3,1)
+s	r	0.04	3	(3,3)
+s	r	0.04	4	(4,2)
+s	y	0.04	4	(4,3)
+s	y	0.04	4	(4,1)
+s	y	0.04	5	(5,2)
+s	r	0.04	5	(5,3)
+s	y	0.04	5	(6,3)
+s	k	0.04	6	(6,2)
+s	r	0.04	6	(5,1)
+s	y	0.04	6	(6,1)
+******
+exn_2C-f11	2	3	18
+Are exactly 7 of the stars yellow?	Press SPACE to continue
+Are exactly 7 of the stars yellow?	Press SPACE to continue	1
+Are exactly 7 of the stars yellow?	Press F(NO) or J(YES) to answer	no
+		
+s	y	0.04	1	(1,2)
+s	k	0.04	1	(1,1)
+s	y	0.04	1	(1,3)
+s	g	0.04	2	(2,2)
+s	y	0.04	2	(2,3)
+s	y	0.04	2	(2,1)
+s	g	0.04	3	(3,2)
+s	k	0.04	3	(3,1)
+s	y	0.04	3	(3,3)
+s	g	0.04	4	(4,2)
+s	g	0.04	4	(5,2)
+s	y	0.04	4	(4,1)
+s	g	0.04	5	(5,1)
+s	g	0.04	5	(6,1)
+s	k	0.04	5	(6,2)
+s	y	0.04	6	(4,3)
+s	y	0.04	6	(5,3)
+s	g	0.04	6	(6,3)
+******
+exn_3C-f2	2	3	18
+Are exactly 8 of the stars green?	Press SPACE to continue
+Are exactly 8 of the stars green?	Press SPACE to continue	1
+Are exactly 8 of the stars green?	Press F(NO) or J(YES) to answer	yes
+		
+s	w	0.04	1	(1,1)
+s	g	0.04	1	(2,1)
+s	g	0.04	1	(1,2)
+s	g	0.04	2	(1,3)
+s	b	0.04	2	(2,3)
+s	g	0.04	2	(2,2)
+s	g	0.04	3	(3,2)
+s	w	0.04	3	(3,1)
+s	g	0.04	3	(3,3)
+s	b	0.04	4	(4,2)
+s	w	0.04	4	(4,3)
+s	b	0.04	4	(4,1)
+s	w	0.04	5	(5,2)
+s	b	0.04	5	(5,1)
+s	g	0.04	5	(6,1)
+s	b	0.04	6	(6,3)
+s	g	0.04	6	(5,3)
+s	w	0.04	6	(6,2)
+******
+exn_3C-f6	2	3	18
+Are exactly 7 of the stars red?	Press SPACE to continue
+Are exactly 7 of the stars red?	Press SPACE to continue	1
+Are exactly 7 of the stars red?	Press F(NO) or J(YES) to answer	no
+		
+s	g	0.04	1	(1,2)
+s	r	0.04	1	(1,1)
+s	b	0.04	1	(2,1)
+s	r	0.04	2	(1,3)
+s	b	0.04	2	(2,3)
+s	r	0.04	2	(2,2)
+s	b	0.04	3	(3,2)
+s	b	0.04	3	(3,3)
+s	r	0.04	3	(3,1)
+s	b	0.04	4	(4,2)
+s	b	0.04	4	(5,2)
+s	g	0.04	4	(4,3)
+s	b	0.04	5	(5,1)
+s	r	0.04	5	(6,1)
+s	g	0.04	5	(4,1)
+s	g	0.04	6	(5,3)
+s	r	0.04	6	(6,2)
+s	g	0.04	6	(6,3)
+******
+exn_3C-f10	2	3	18
+Are exactly 8 of the stars white?	Press SPACE to continue
+Are exactly 8 of the stars white?	Press SPACE to continue	1
+Are exactly 8 of the stars white?	Press F(NO) or J(YES) to answer	no
+		
+s	r	0.04	1	(1,2)
+s	w	0.04	1	(1,3)
+s	w	0.04	1	(2,3)
+s	k	0.04	2	(1,1)
+s	b	0.04	2	(2,2)
+s	w	0.04	2	(2,1)
+s	r	0.04	3	(3,2)
+s	r	0.04	3	(3,3)
+s	r	0.04	3	(3,1)
+s	w	0.04	4	(4,2)
+s	w	0.04	4	(4,1)
+s	b	0.04	4	(4,3)
+s	r	0.04	5	(5,1)
+s	w	0.04	5	(5,2)
+s	b	0.04	5	(6,1)
+s	b	0.04	6	(6,2)
+s	w	0.04	6	(5,3)
+s	k	0.04	6	(6,3)
+*******
+aboutn-f1	2	3	18
+Are about 6 of the stars yellow?	Press SPACE to continue
+Are about 6 of the stars yellow?	Press SPACE to continue	1
+Are about 6 of the stars yellow?	Press F(NO) or J(YES) to answer	no
+		
+s	y	0.04	1	(1,2)
+s	r	0.04	1	(1,3)
+s	y	0.04	1	(2,2)
+s	y	0.04	2	(1,1)
+s	k	0.04	2	(2,1)
+s	y	0.04	2	(3,1)
+s	y	0.04	3	(3,2)
+s	r	0.04	3	(2,3)
+s	y	0.04	3	(3,3)
+s	y	0.04	4	(4,2)
+s	y	0.04	4	(4,1)
+s	y	0.04	4	(5,1)
+s	r	0.04	5	(4,3)
+s	k	0.04	5	(5,3)
+s	y	0.04	5	(5,2)
+s	k	0.04	6	(6,2)
+s	y	0.04	6	(6,1)
+s	y	0.04	6	(6,3)
+******
+aboutn-f5	2	3	18
+Are about 5 of the stars blue?	Press SPACE to continue
+Are about 5 of the stars blue?	Press SPACE to continue	1
+Are about 5 of the stars blue?	Press F(NO) or J(YES) to answer	no
+		
+s	k	0.04	1	(1,2)
+s	b	0.04	1	(1,3)
+s	r	0.04	1	(2,3)
+s	b	0.04	2	(1,1)
+s	r	0.04	2	(2,2)
+s	b	0.04	2	(2,1)
+s	k	0.04	3	(3,2)
+s	b	0.04	3	(3,3)
+s	b	0.04	3	(3,1)
+s	b	0.04	4	(4,1)
+s	b	0.04	4	(4,2)
+s	r	0.04	4	(4,3)
+s	k	0.04	5	(5,2)
+s	r	0.04	5	(5,1)
+s	b	0.04	5	(6,1)
+s	b	0.04	6	(6,2)
+s	b	0.04	6	(5,3)
+s	k	0.04	6	(6,3)
+******
+aboutn-f9	2	3	18
+Are about 7 of the stars red?	Press SPACE to continue
+Are about 7 of the stars red?	Press SPACE to continue	1
+Are about 7 of the stars red?	Press F(NO) or J(YES) to answer	no
+		
+s	k	0.04	1	(1,1)
+s	r	0.04	1	(1,2)
+s	r	0.04	1	(1,3)
+s	b	0.04	2	(2,2)
+s	b	0.04	2	(3,2)
+s	r	0.04	2	(2,3)
+s	r	0.04	3	(2,1)
+s	r	0.04	3	(3,1)
+s	r	0.04	3	(4,2)
+s	k	0.04	4	(3,3)
+s	r	0.04	4	(4,3)
+s	r	0.04	4	(5,3)
+s	r	0.04	5	(4,1)
+s	r	0.04	5	(5,1)
+s	k	0.04	5	(5,2)
+s	r	0.04	6	(6,2)
+s	r	0.04	6	(6,1)
+s	r	0.04	6	(6,3)
+******
+otherprop_2C-f4	2	3	18
+Are about 1/4 of the stars white?	Press SPACE to continue
+Are about 1/4 of the stars white?	Press SPACE to continue	1
+Are about 1/4 of the stars white?	Press F(NO) or J(YES) to answer	yes
+		
+s	y	0.04	1	(1,2)
+s	y	0.04	1	(1,3)
+s	w	0.04	1	(2,2)
+s	w	0.04	2	(1,1)
+s	y	0.04	2	(2,1)
+s	k	0.04	2	(3,1)
+s	y	0.04	3	(2,3)
+s	y	0.04	3	(3,2)
+s	y	0.04	3	(3,3)
+s	y	0.04	4	(4,2)
+s	y	0.04	4	(5,1)
+s	w	0.04	4	(4,1)
+s	y	0.04	5	(5,3)
+s	w	0.04	5	(4,3)
+s	y	0.04	5	(5,2)
+s	y	0.04	6	(6,2)
+s	y	0.04	6	(6,1)
+s	y	0.04	6	(6,3)
+******
+otherprop_2C-f8	2	3	18
+Are about 50 percent of the stars blue?	Press SPACE to continue
+Are about 50 percent of the stars blue?	Press SPACE to continue	1
+Are about 50 percent of the stars blue?	Press F(NO) or J(YES) to answer	yes
+		
+s	b	0.04	2	(1,2)
+s	g	0.04	2	(1,3)
+s	k	0.04	2	(2,3)
+s	b	0.04	1	(1,1)
+s	b	0.04	1	(2,2)
+s	g	0.04	1	(2,1)
+s	k	0.04	3	(3,2)
+s	g	0.04	3	(3,3)
+s	b	0.04	3	(4,3)
+s	b	0.04	4	(3,1)
+s	b	0.04	4	(4,1)
+s	g	0.04	4	(4,2)
+s	g	0.04	5	(5,2)
+s	g	0.04	5	(5,1)
+s	b	0.04	5	(6,1)
+s	b	0.04	6	(6,2)
+s	g	0.04	6	(5,3)
+s	g	0.04	6	(6,3)
+******
+otherprop_2C-f12	2	3	18
+Are about 75 percent of the stars blue?	Press SPACE to continue
+Are about 75 percent of the stars blue?	Press SPACE to continue	1
+Are about 75 percent of the stars blue?	Press F(NO) or J(YES) to answer	yes
+		
+s	b	0.04	1	(1,1)
+s	y	0.04	1	(1,2)
+s	y	0.04	1	(1,3)
+s	b	0.04	2	(2,1)
+s	b	0.04	2	(3,1)
+s	b	0.04	2	(2,3)
+s	b	0.04	3	(2,2)
+s	k	0.04	3	(3,2)
+s	b	0.04	3	(3,3)
+s	y	0.04	4	(4,3)
+s	y	0.04	4	(5,3)
+s	k	0.04	4	(4,2)
+s	b	0.04	5	(4,1)
+s	b	0.04	5	(5,1)
+s	b	0.04	5	(6,1)
+s	y	0.04	6	(5,2)
+s	k	0.04	6	(6,2)
+s	b	0.04	6	(6,3)
+******
+otherprop_3C-f3	2	3	18
+Are more than 75 percent of the stars red?	Press SPACE to continue
+Are more than 75 percent of the stars red?	Press SPACE to continue	1
+Are more than 75 percent of the stars red?	Press F(NO) or J(YES) to answer	yes
+		
+s	r	0.04	1	(1,2)
+s	r	0.04	1	(1,3)
+s	r	0.04	1	(2,3)
+s	w	0.04	2	(1,1)
+s	k	0.04	2	(2,2)
+s	r	0.04	2	(2,1)
+s	r	0.04	3	(3,2)
+s	r	0.04	3	(3,3)
+s	k	0.04	3	(3,1)
+s	r	0.04	4	(4,2)
+s	r	0.04	4	(4,1)
+s	r	0.04	4	(4,3)
+s	k	0.04	5	(5,1)
+s	b	0.04	5	(5,2)
+s	r	0.04	5	(6,1)
+s	k	0.04	6	(6,2)
+s	r	0.04	6	(5,3)
+s	w	0.04	6	(6,3)
+*******
+otherprop_3C-f7	2	3	18
+Are more than 1/5 of the stars yellow?	Press SPACE to continue
+Are more than 1/5 of the stars yellow?	Press SPACE to continue	1
+Are more than 1/5 of the stars yellow?	Press F(NO) or J(YES) to answer	yes
+		
+s	y	0.04	1	(1,2)
+s	k	0.04	1	(1,1)
+s	g	0.04	1	(2,1)
+s	k	0.04	2	(2,2)
+s	y	0.04	2	(3,2)
+s	g	0.04	2	(3,1)
+s	r	0.04	3	(1,3)
+s	r	0.04	3	(2,3)
+s	y	0.04	3	(3,3)
+s	y	0.04	4	(4,2)
+s	y	0.04	4	(5,2)
+s	y	0.04	4	(4,1)
+s	r	0.04	5	(4,3)
+s	g	0.04	5	(5,3)
+s	y	0.04	5	(6,3)
+s	g	0.04	6	(5,1)
+s	r	0.04	6	(6,1)
+s	k	0.04	6	(6,2)
+******
+otherprop_3C-f11	2	3	18
+Are more than 50 percent of the stars white?	Press SPACE to continue
+Are more than 50 percent of the stars white?	Press SPACE to continue	1
+Are more than 50 percent of the stars white?	Press F(NO) or J(YES) to answer	yes
+		
+s	r	0.04	1	(1,2)
+s	r	0.04	1	(1,3)
+s	b	0.04	1	(1,1)
+s	b	0.04	2	(2,1)
+s	w	0.04	2	(2,2)
+s	w	0.04	2	(2,3)
+s	k	0.04	3	(3,2)
+s	b	0.04	3	(3,1)
+s	w	0.04	3	(3,3)
+s	w	0.04	4	(4,2)
+s	w	0.04	4	(5,2)
+s	k	0.04	4	(4,1)
+s	w	0.04	5	(4,3)
+s	k	0.04	5	(5,3)
+s	r	0.04	5	(6,3)
+s	w	0.04	6	(5,1)
+s	w	0.04	6	(6,2)
+s	b	0.04	6	(6,1)
+******
+few-f2	2	3	18
+Are few of the stars green?	Press SPACE to continue
+Are few of the stars green?	Press SPACE to continue	1
+Are few of the stars green?	Press F(NO) or J(YES) to answer	yes
+		
+s	b	0.04	1	(1,2)
+s	b	0.04	1	(1,3)
+s	g	0.04	1	(1,1)
+s	b	0.04	2	(2,3)
+s	g	0.04	2	(2,2)
+s	k	0.04	2	(3,3)
+s	b	0.04	3	(2,1)
+s	b	0.04	3	(3,2)
+s	b	0.04	3	(3,1)
+s	b	0.04	4	(4,2)
+s	b	0.04	4	(4,1)
+s	g	0.04	4	(4,3)
+s	b	0.04	5	(5,2)
+s	b	0.04	5	(5,1)
+s	b	0.04	5	(6,1)
+s	g	0.04	6	(6,2)
+s	b	0.04	6	(5,3)
+s	b	0.04	6	(6,3)
+******
+few-f6	2	3	18
+Are few of the stars blue?	Press SPACE to continue
+Are few of the stars blue?	Press SPACE to continue	1
+Are few of the stars blue?	Press F(NO) or J(YES) to answer	yes
+		
+s	b	0.04	1	(1,3)
+s	k	0.04	1	(1,2)
+s	w	0.04	1	(1,1)
+s	w	0.04	2	(2,2)
+s	w	0.04	2	(3,3)
+s	w	0.04	2	(2,3)
+s	w	0.04	3	(2,1)
+s	w	0.04	3	(3,1)
+s	b	0.04	3	(3,2)
+s	w	0.04	4	(4,3)
+s	w	0.04	4	(5,3)
+s	w	0.04	4	(4,2)
+s	b	0.04	5	(4,1)
+s	k	0.04	5	(5,1)
+s	b	0.04	5	(5,2)
+s	w	0.04	6	(6,2)
+s	w	0.04	6	(6,1)
+s	w	0.04	6	(6,3)
+******
+many-f4	2	3	18
+Are many of the stars white?	Press SPACE to continue
+Are many of the stars white?	Press SPACE to continue	1
+Are many of the stars white?	Press F(NO) or J(YES) to answer	no
+		
+s	g	0.04	1	(1,2)
+s	k	0.04	1	(1,1)
+s	w	0.04	1	(2,1)
+s	g	0.04	2	(2,2)
+s	w	0.04	2	(2,3)
+s	k	0.04	2	(1,3)
+s	w	0.04	3	(3,1)
+s	g	0.04	3	(4,1)
+s	w	0.04	3	(3,2)
+s	g	0.04	4	(3,3)
+s	w	0.04	4	(4,2)
+s	g	0.04	4	(4,3)
+s	g	0.04	5	(5,1)
+s	w	0.04	5	(5,2)
+s	k	0.04	5	(6,1)
+s	g	0.04	6	(6,3)
+s	g	0.04	6	(5,3)
+s	g	0.04	6	(6,2)
+******
+mtn_2C-2	1	3	18
+Are more than 8 of the squares red?	Press SPACE to continue
+Are more than 8 of the squares red?	Press SPACE to continue	1
+Are more than 8 of the squares red?	Press F(NO) or J(YES) to answer	yes
+		
+q	g	0.04	1	(1,2)
+q	k	0.04	1	(1,3)
+q	g	0.04	1	(1,1)
+q	r	0.04	2	(2,3)
+q	g	0.04	2	(2,2)
+q	r	0.04	2	(2,1)
+q	g	0.04	3	(4,2)
+q	r	0.04	3	(3,2)
+q	g	0.04	3	(3,1)
+q	r	0.04	4	(3,3)
+q	r	0.04	4	(4,3)
+q	g	0.04	4	(5,3)
+q	g	0.04	5	(4,1)
+q	r	0.04	5	(5,1)
+q	g	0.04	5	(6,1)
+q	r	0.04	6	(5,2)
+q	r	0.04	6	(6,2)
+q	r	0.04	6	(6,3)
+******
+mtn_2C-6	1	3	18
+Are more than 8 of the squares green?	Press SPACE to continue
+Are more than 8 of the squares green?	Press SPACE to continue	1
+Are more than 8 of the squares green?	Press F(NO) or J(YES) to answer	no
+		
+q	y	0.04	1	(1,2)
+q	g	0.04	1	(1,1)
+q	y	0.04	1	(2,1)
+q	g	0.04	2	(2,2)
+q	k	0.04	2	(3,2)
+q	g	0.04	2	(3,1)
+q	g	0.04	3	(1,3)
+q	y	0.04	3	(2,3)
+q	y	0.04	3	(3,3)
+q	g	0.04	4	(5,2)
+q	y	0.04	4	(4,1)
+q	y	0.04	4	(4,2)
+q	g	0.04	5	(4,3)
+q	g	0.04	5	(5,3)
+q	y	0.04	5	(6,3)
+q	y	0.04	6	(6,1)
+q	g	0.04	6	(6,2)
+q	y	0.04	6	(5,1)
+******
+mtn_2C-10	1	3	18
+Are more than 8 of the squares yellow?	Press SPACE to continue
+Are more than 8 of the squares yellow?	Press SPACE to continue	1
+Are more than 8 of the squares yellow?	Press F(NO) or J(YES) to answer	no
+		
+q	b	0.04	1	(1,1)
+q	y	0.04	1	(1,2)
+q	b	0.04	1	(2,1)
+q	y	0.04	2	(1,3)
+q	b	0.04	2	(2,3)
+q	k	0.04	2	(2,2)
+q	y	0.04	3	(3,1)
+q	b	0.04	3	(3,2)
+q	y	0.04	3	(3,3)
+q	b	0.04	4	(4,1)
+q	y	0.04	4	(4,2)
+q	k	0.04	4	(5,2)
+q	y	0.04	5	(4,3)
+q	b	0.04	5	(5,3)
+q	k	0.04	5	(6,3)
+q	y	0.04	6	(5,1)
+q	y	0.04	6	(6,1)
+q	b	0.04	6	(6,2)
+******
+mtn_3C-1	1	3	18
+Are more than 9 of the squares white?	Press SPACE to continue
+Are more than 9 of the squares white?	Press SPACE to continue	1
+Are more than 9 of the squares white?	Press F(NO) or J(YES) to answer	yes
+		
+q	w	0.04	1	(1,1)
+q	y	0.04	1	(1,2)
+q	w	0.04	1	(2,1)
+q	w	0.04	2	(1,3)
+q	w	0.04	2	(2,3)
+q	k	0.04	2	(2,2)
+q	y	0.04	3	(3,1)
+q	w	0.04	3	(3,2)
+q	y	0.04	3	(3,3)
+q	w	0.04	4	(4,1)
+q	b	0.04	4	(4,2)
+q	b	0.04	4	(5,2)
+q	w	0.04	5	(4,3)
+q	b	0.04	5	(5,3)
+q	b	0.04	5	(6,3)
+q	w	0.04	6	(5,1)
+q	w	0.04	6	(6,1)
+q	w	0.04	6	(6,2)
+******
+mtn_3C-5	1	3	18
+Are more than 8 of the squares blue?	Press SPACE to continue
+Are more than 8 of the squares blue?	Press SPACE to continue	1
+Are more than 8 of the squares blue?	Press F(NO) or J(YES) to answer	no
+		
+q	b	0.04	1	(1,2)
+q	k	0.04	1	(2,3)
+q	r	0.04	1	(1,3)
+q	r	0.04	2	(1,1)
+q	b	0.04	2	(2,2)
+q	b	0.04	2	(2,1)
+q	r	0.04	3	(3,1)
+q	b	0.04	3	(3,2)
+q	b	0.04	3	(3,3)
+q	b	0.04	4	(4,3)
+q	w	0.04	4	(5,2)
+q	w	0.04	4	(4,2)
+q	r	0.04	5	(4,1)
+q	w	0.04	5	(5,1)
+q	w	0.04	5	(6,1)
+q	b	0.04	6	(5,3)
+q	r	0.04	6	(6,2)
+q	b	0.04	6	(6,3)
+******
+mtn_3C-9	1	3	18
+Are more than 6 of the squares blue?	Press SPACE to continue
+Are more than 6 of the squares blue?	Press SPACE to continue	1
+Are more than 6 of the squares blue?	Press F(NO) or J(YES) to answer	yes
+		
+q	b	0.04	1	(1,1)
+q	b	0.04	1	(1,2)
+q	w	0.04	1	(2,1)
+q	k	0.04	2	(1,3)
+q	b	0.04	2	(2,3)
+q	k	0.04	2	(2,2)
+q	b	0.04	3	(3,2)
+q	w	0.04	3	(3,1)
+q	b	0.04	3	(3,3)
+q	g	0.04	4	(4,2)
+q	g	0.04	4	(4,1)
+q	b	0.04	4	(4,3)
+q	g	0.04	5	(5,2)
+q	g	0.04	5	(5,3)
+q	k	0.04	5	(5,1)
+q	w	0.04	6	(6,2)
+q	w	0.04	6	(6,3)
+q	b	0.04	6	(6,1)
+******
+mth_2C-4	1	3	18
+Are more than half of the squares red?	Press SPACE to continue
+Are more than half of the squares red?	Press SPACE to continue	1
+Are more than half of the squares red?	Press F(NO) or J(YES) to answer	no
+		
+q	r	0.04	1	(1,1)
+q	g	0.04	1	(1,2)
+q	g	0.04	1	(1,3)
+q	r	0.04	2	(2,2)
+q	g	0.04	2	(2,3)
+q	k	0.04	2	(2,1)
+q	g	0.04	3	(3,2)
+q	r	0.04	3	(3,1)
+q	g	0.04	3	(3,3)
+q	r	0.04	4	(4,2)
+q	g	0.04	4	(5,2)
+q	r	0.04	4	(4,1)
+q	g	0.04	5	(5,3)
+q	r	0.04	5	(4,3)
+q	g	0.04	5	(6,3)
+q	r	0.04	6	(5,1)
+q	g	0.04	6	(6,1)
+q	r	0.04	6	(6,2)
+******
+mth_2C-8	1	3	18
+Are more than half of the squares yellow?	Press SPACE to continue
+Are more than half of the squares yellow?	Press SPACE to continue	1
+Are more than half of the squares yellow?	Press F(NO) or J(YES) to answer	yes
+		
+q	y	0.04	1	(1,1)
+q	b	0.04	1	(1,2)
+q	b	0.04	1	(2,2)
+q	b	0.04	2	(1,3)
+q	y	0.04	2	(2,3)
+q	b	0.04	2	(3,2)
+q	y	0.04	3	(2,1)
+q	b	0.04	3	(3,1)
+q	y	0.04	3	(4,2)
+q	k	0.04	4	(3,3)
+q	y	0.04	4	(4,3)
+q	y	0.04	4	(5,2)
+q	b	0.04	5	(4,1)
+q	k	0.04	5	(5,1)
+q	y	0.04	5	(6,1)
+q	y	0.04	6	(5,3)
+q	k	0.04	6	(6,2)
+q	b	0.04	6	(6,3)
+******
+mth_2C-12	1	3	18
+Are more than half of the squares red?	Press SPACE to continue
+Are more than half of the squares red?	Press SPACE to continue	1
+Are more than half of the squares red?	Press F(NO) or J(YES) to answer	no
+		
+q	w	0.04	1	(1,2)
+q	w	0.04	1	(1,1)
+q	r	0.04	1	(2,2)
+q	k	0.04	2	(1,3)
+q	w	0.04	2	(2,3)
+q	r	0.04	2	(3,2)
+q	w	0.04	3	(2,1)
+q	k	0.04	3	(3,1)
+q	r	0.04	3	(4,2)
+q	r	0.04	4	(3,3)
+q	w	0.04	4	(4,3)
+q	r	0.04	4	(5,2)
+q	w	0.04	5	(4,1)
+q	r	0.04	5	(5,1)
+q	w	0.04	5	(6,1)
+q	r	0.04	6	(6,2)
+q	k	0.04	6	(5,3)
+q	w	0.04	6	(6,3)
+******
+mth_3C-3	1	3	18
+Are more than half of the squares white?	Press SPACE to continue
+Are more than half of the squares white?	Press SPACE to continue	1
+Are more than half of the squares white?	Press F(NO) or J(YES) to answer	yes
+		
+q	w	0.04	1	(1,2)
+q	y	0.04	1	(1,1)
+q	w	0.04	1	(1,3)
+q	y	0.04	2	(2,2)
+q	w	0.04	2	(2,3)
+q	k	0.04	2	(2,1)
+q	w	0.04	3	(3,2)
+q	w	0.04	3	(3,1)
+q	w	0.04	3	(4,2)
+q	w	0.04	4	(3,3)
+q	b	0.04	4	(4,3)
+q	b	0.04	4	(5,3)
+q	w	0.04	5	(5,2)
+q	b	0.04	5	(4,1)
+q	b	0.04	5	(5,1)
+q	y	0.04	6	(6,1)
+q	w	0.04	6	(6,2)
+q	y	0.04	6	(6,3)
+******
+mth_3C-7	1	3	18
+Are more than half of the squares yellow?	Press SPACE to continue
+Are more than half of the squares yellow?	Press SPACE to continue	1
+Are more than half of the squares yellow?	Press F(NO) or J(YES) to answer	yes
+		
+q	w	0.04	1	(1,2)
+q	y	0.04	1	(1,1)
+q	y	0.04	1	(2,1)
+q	k	0.04	2	(2,2)
+q	y	0.04	2	(1,3)
+q	w	0.04	2	(2,3)
+q	k	0.04	3	(3,2)
+q	y	0.04	3	(3,1)
+q	w	0.04	3	(3,3)
+q	y	0.04	4	(4,2)
+q	b	0.04	4	(4,1)
+q	b	0.04	4	(5,1)
+q	y	0.04	5	(4,3)
+q	b	0.04	5	(5,3)
+q	b	0.04	5	(5,2)
+q	y	0.04	6	(6,2)
+q	k	0.04	6	(6,3)
+q	y	0.04	6	(6,1)
+******
+mth_3C-11	1	3	18
+Are more than half of the squares green?	Press SPACE to continue
+Are more than half of the squares green?	Press SPACE to continue	1
+Are more than half of the squares green?	Press F(NO) or J(YES) to answer	no
+		
+q	b	0.04	1	(1,1)
+q	g	0.04	1	(1,2)
+q	b	0.04	1	(2,2)
+q	k	0.04	2	(1,3)
+q	g	0.04	2	(2,3)
+q	g	0.04	2	(3,2)
+q	k	0.04	3	(2,1)
+q	b	0.04	3	(3,1)
+q	g	0.04	3	(4,2)
+q	g	0.04	4	(3,3)
+q	w	0.04	4	(4,3)
+q	w	0.04	4	(5,2)
+q	b	0.04	5	(4,1)
+q	w	0.04	5	(5,1)
+q	g	0.04	5	(6,1)
+q	w	0.04	6	(6,2)
+q	g	0.04	6	(5,3)
+q	k	0.04	6	(6,3)
+******
+exn_2C-f2	2	3	18
+Are exactly 8 of the squares green?	Press SPACE to continue
+Are exactly 8 of the squares green?	Press SPACE to continue	1
+Are exactly 8 of the squares green?	Press F(NO) or J(YES) to answer	yes
+		
+q	w	0.04	1	(1,1)
+q	w	0.04	1	(2,1)
+q	g	0.04	1	(1,2)
+q	g	0.04	2	(1,3)
+q	w	0.04	2	(2,3)
+q	g	0.04	2	(2,2)
+q	g	0.04	3	(3,2)
+q	w	0.04	3	(3,1)
+q	g	0.04	3	(3,3)
+q	w	0.04	4	(4,2)
+q	w	0.04	4	(4,3)
+q	g	0.04	4	(4,1)
+q	g	0.04	5	(5,2)
+q	w	0.04	5	(5,1)
+q	w	0.04	5	(6,1)
+q	w	0.04	6	(6,3)
+q	g	0.04	6	(5,3)
+q	k	0.04	6	(6,2)
+******
+exn_2C-f6	2	3	18
+Are exactly 7 of the squares red?	Press SPACE to continue
+Are exactly 7 of the squares red?	Press SPACE to continue	1
+Are exactly 7 of the squares red?	Press F(NO) or J(YES) to answer	no
+		
+q	b	0.04	1	(1,2)
+q	r	0.04	1	(1,1)
+q	b	0.04	1	(2,1)
+q	r	0.04	2	(1,3)
+q	b	0.04	2	(2,3)
+q	b	0.04	2	(2,2)
+q	r	0.04	3	(3,2)
+q	k	0.04	3	(3,3)
+q	r	0.04	3	(3,1)
+q	r	0.04	4	(4,2)
+q	b	0.04	4	(5,2)
+q	b	0.04	4	(4,3)
+q	r	0.04	5	(5,1)
+q	r	0.04	5	(6,1)
+q	b	0.04	5	(4,1)
+q	b	0.04	6	(5,3)
+q	r	0.04	6	(6,2)
+q	b	0.04	6	(6,3)
+******
+exn_2C-f10	2	3	18
+Are exactly 8 of the squares white?	Press SPACE to continue
+Are exactly 8 of the squares white?	Press SPACE to continue	1
+Are exactly 8 of the squares white?	Press F(NO) or J(YES) to answer	no
+		
+q	r	0.04	1	(1,2)
+q	w	0.04	1	(1,3)
+q	w	0.04	1	(2,3)
+q	k	0.04	2	(1,1)
+q	w	0.04	2	(2,2)
+q	w	0.04	2	(2,1)
+q	r	0.04	3	(3,2)
+q	k	0.04	3	(3,3)
+q	r	0.04	3	(3,1)
+q	r	0.04	4	(4,2)
+q	w	0.04	4	(4,1)
+q	w	0.04	4	(4,3)
+q	w	0.04	5	(5,1)
+q	r	0.04	5	(5,2)
+q	w	0.04	5	(6,1)
+q	r	0.04	6	(6,2)
+q	w	0.04	6	(5,3)
+q	k	0.04	6	(6,3)
+*******
+exn_3C-f1	2	3	18
+Are exactly 9 of the squares yellow?	Press SPACE to continue
+Are exactly 9 of the squares yellow?	Press SPACE to continue	1
+Are exactly 9 of the squares yellow?	Press F(NO) or J(YES) to answer	yes
+		
+q	y	0.04	1	(1,2)
+q	y	0.04	1	(1,1)
+q	b	0.04	1	(2,2)
+q	y	0.04	2	(1,3)
+q	r	0.04	2	(2,3)
+q	r	0.04	2	(3,3)
+q	y	0.04	3	(2,1)
+q	b	0.04	3	(3,2)
+q	b	0.04	3	(3,1)
+q	y	0.04	4	(4,2)
+q	y	0.04	4	(4,1)
+q	b	0.04	4	(5,2)
+q	r	0.04	5	(4,3)
+q	y	0.04	5	(5,3)
+q	b	0.04	5	(6,3)
+q	r	0.04	6	(6,2)
+q	y	0.04	6	(5,1)
+q	y	0.04	6	(6,1)
+******
+exn_3C-f5	2	3	18
+Are exactly 8 of the squares blue?	Press SPACE to continue
+Are exactly 8 of the squares blue?	Press SPACE to continue	1
+Are exactly 8 of the squares blue?	Press F(NO) or J(YES) to answer	no
+		
+q	b	0.04	1	(1,2)
+q	g	0.04	1	(1,1)
+q	b	0.04	1	(1,3)
+q	r	0.04	2	(2,2)
+q	b	0.04	2	(2,3)
+q	b	0.04	2	(2,1)
+q	g	0.04	3	(3,2)
+q	g	0.04	3	(3,1)
+q	b	0.04	3	(3,3)
+q	r	0.04	4	(4,2)
+q	g	0.04	4	(5,2)
+q	g	0.04	4	(4,1)
+q	r	0.04	5	(5,1)
+q	b	0.04	5	(6,1)
+q	g	0.04	5	(6,2)
+q	b	0.04	6	(4,3)
+q	r	0.04	6	(5,3)
+q	g	0.04	6	(6,3)
+******
+exn_3C-f9	2	3	18
+Are exactly 6 of the squares yellow?	Press SPACE to continue
+Are exactly 6 of the squares yellow?	Press SPACE to continue	1
+Are exactly 6 of the squares yellow?	Press F(NO) or J(YES) to answer	yes
+		
+q	y	0.04	1	(1,3)
+q	w	0.04	1	(1,1)
+q	y	0.04	1	(1,2)
+q	r	0.04	2	(2,2)
+q	r	0.04	2	(3,2)
+q	y	0.04	2	(2,1)
+q	k	0.04	3	(3,1)
+q	y	0.04	3	(4,1)
+q	r	0.04	3	(4,2)
+q	w	0.04	4	(3,3)
+q	w	0.04	4	(2,3)
+q	y	0.04	4	(4,3)
+q	k	0.04	5	(6,2)
+q	w	0.04	5	(5,1)
+q	w	0.04	5	(6,1)
+q	w	0.04	6	(5,2)
+q	y	0.04	6	(5,3)
+q	r	0.04	6	(6,3)
+******
+aboutn-f4	2	3	18
+Are about 10 of the squares white?	Press SPACE to continue
+Are about 10 of the squares white?	Press SPACE to continue	1
+Are about 10 of the squares white?	Press F(NO) or J(YES) to answer	yes
+		
+q	w	0.04	1	(1,1)
+q	w	0.04	1	(1,2)
+q	r	0.04	1	(2,1)
+q	w	0.04	2	(2,2)
+q	k	0.04	2	(3,2)
+q	w	0.04	2	(3,1)
+q	r	0.04	3	(1,3)
+q	r	0.04	3	(2,3)
+q	r	0.04	3	(3,3)
+q	w	0.04	4	(4,1)
+q	w	0.04	4	(4,2)
+q	w	0.04	4	(5,2)
+q	k	0.04	5	(5,1)
+q	w	0.04	5	(6,2)
+q	r	0.04	5	(6,1)
+q	r	0.04	6	(4,3)
+q	w	0.04	6	(5,3)
+q	r	0.04	6	(6,3)
+******
+aboutn-f8	2	3	18
+Are about 3 of the squares yellow?	Press SPACE to continue
+Are about 3 of the squares yellow?	Press SPACE to continue	1
+Are about 3 of the squares yellow?	Press F(NO) or J(YES) to answer	yes
+		
+q	g	0.04	1	(1,2)
+q	y	0.04	1	(1,3)
+q	g	0.04	1	(1,1)
+q	g	0.04	2	(2,1)
+q	g	0.04	2	(2,2)
+q	g	0.04	2	(3,1)
+q	g	0.04	3	(2,3)
+q	y	0.04	3	(3,2)
+q	g	0.04	3	(3,3)
+q	g	0.04	4	(4,2)
+q	g	0.04	4	(5,2)
+q	y	0.04	4	(4,1)
+q	g	0.04	5	(4,3)
+q	g	0.04	5	(5,3)
+q	g	0.04	5	(6,3)
+q	k	0.04	6	(6,1)
+q	g	0.04	6	(5,1)
+q	y	0.04	6	(6,2)
+******
+aboutn-f12	2	3	18
+Are about 4 of the squares blue?	Press SPACE to continue
+Are about 4 of the squares blue?	Press SPACE to continue	1
+Are about 4 of the squares blue?	Press F(NO) or J(YES) to answer	no
+		
+q	w	0.04	1	(1,2)
+q	w	0.04	1	(1,3)
+q	b	0.04	1	(2,2)
+q	w	0.04	2	(1,1)
+q	w	0.04	2	(3,1)
+q	b	0.04	2	(2,1)
+q	w	0.04	3	(2,3)
+q	b	0.04	3	(3,2)
+q	b	0.04	3	(3,3)
+q	b	0.04	4	(4,2)
+q	b	0.04	4	(5,1)
+q	w	0.04	4	(4,1)
+q	b	0.04	5	(4,3)
+q	b	0.04	5	(5,3)
+q	w	0.04	5	(5,2)
+q	b	0.04	6	(6,2)
+q	w	0.04	6	(6,1)
+q	b	0.04	6	(6,3)
+******
+otherprop_2C-f3	2	3	18
+Are about 1/4 of the squares red?	Press SPACE to continue
+Are about 1/4 of the squares red?	Press SPACE to continue	1
+Are about 1/4 of the squares red?	Press F(NO) or J(YES) to answer	no
+		
+q	r	0.04	2	(1,2)
+q	r	0.04	2	(1,3)
+q	b	0.04	2	(2,3)
+q	r	0.04	1	(1,1)
+q	b	0.04	1	(2,1)
+q	r	0.04	1	(2,2)
+q	k	0.04	3	(3,2)
+q	b	0.04	3	(3,1)
+q	b	0.04	3	(3,3)
+q	r	0.04	4	(4,2)
+q	k	0.04	4	(4,3)
+q	b	0.04	4	(4,1)
+q	k	0.04	5	(5,3)
+q	r	0.04	5	(5,2)
+q	r	0.04	5	(6,3)
+q	b	0.04	6	(6,2)
+q	k	0.04	6	(5,1)
+q	b	0.04	6	(6,1)
+******
+otherprop_2C-f7	2	3	18
+Are about 50 percent of the squares red?	Press SPACE to continue
+Are about 50 percent of the squares red?	Press SPACE to continue	1
+Are about 50 percent of the squares red?	Press F(NO) or J(YES) to answer	no
+		
+q	r	0.04	1	(1,2)
+q	r	0.04	1	(2,1)
+q	y	0.04	1	(1,1)
+q	r	0.04	2	(2,2)
+q	r	0.04	2	(3,2)
+q	r	0.04	2	(3,1)
+q	r	0.04	3	(1,3)
+q	r	0.04	3	(2,3)
+q	r	0.04	3	(3,3)
+q	r	0.04	4	(4,2)
+q	r	0.04	4	(5,1)
+q	y	0.04	4	(4,1)
+q	r	0.04	5	(4,3)
+q	r	0.04	5	(5,3)
+q	y	0.04	5	(5,2)
+q	r	0.04	6	(6,1)
+q	r	0.04	6	(6,2)
+q	r	0.04	6	(6,3)
+******
+otherprop_2C-f11	2	3	18
+Are about 75 percent of the squares white?	Press SPACE to continue
+Are about 75 percent of the squares white?	Press SPACE to continue	1
+Are about 75 percent of the squares white?	Press F(NO) or J(YES) to answer	no
+		
+q	r	0.04	1	(1,2)
+q	r	0.04	1	(1,3)
+q	w	0.04	1	(1,1)
+q	k	0.04	2	(3,1)
+q	r	0.04	2	(2,2)
+q	r	0.04	2	(2,1)
+q	w	0.04	3	(2,3)
+q	r	0.04	3	(3,2)
+q	r	0.04	3	(3,3)
+q	r	0.04	4	(4,2)
+q	w	0.04	4	(4,3)
+q	r	0.04	4	(4,1)
+q	r	0.04	5	(5,1)
+q	w	0.04	5	(6,1)
+q	r	0.04	5	(5,2)
+q	k	0.04	6	(5,3)
+q	r	0.04	6	(6,2)
+q	w	0.04	6	(6,3)
+******
+otherprop_3C-f2	2	3	18
+Are more than 1/10 of the squares white?	Press SPACE to continue
+Are more than 1/10 of the squares white?	Press SPACE to continue	1
+Are more than 1/10 of the squares white?	Press F(NO) or J(YES) to answer	yes
+		
+q	w	0.04	1	(1,1)
+q	r	0.04	1	(2,1)
+q	r	0.04	1	(1,2)
+q	w	0.04	2	(1,3)
+q	w	0.04	2	(2,3)
+q	b	0.04	2	(2,2)
+q	k	0.04	3	(3,2)
+q	w	0.04	3	(3,1)
+q	b	0.04	3	(3,3)
+q	r	0.04	4	(4,1)
+q	w	0.04	4	(4,2)
+q	w	0.04	4	(5,2)
+q	k	0.04	5	(4,3)
+q	r	0.04	5	(5,3)
+q	b	0.04	5	(6,3)
+q	k	0.04	6	(6,2)
+q	w	0.04	6	(5,1)
+q	w	0.04	6	(6,1)
+******
+otherprop_3C-f6	2	3	18
+Are about 90 percent of the squares blue?	Press SPACE to continue
+Are about 90 percent of the squares blue?	Press SPACE to continue	1
+Are about 90 percent of the squares blue?	Press F(NO) or J(YES) to answer	yes
+		
+q	b	0.04	1	(1,1)
+q	b	0.04	1	(1,2)
+q	b	0.04	1	(2,2)
+q	b	0.04	2	(1,3)
+q	b	0.04	2	(3,2)
+q	g	0.04	2	(2,3)
+q	b	0.04	3	(2,1)
+q	b	0.04	3	(3,1)
+q	b	0.04	3	(4,1)
+q	b	0.04	4	(3,3)
+q	b	0.04	4	(4,3)
+q	b	0.04	4	(4,2)
+q	b	0.04	5	(5,2)
+q	b	0.04	5	(5,1)
+q	b	0.04	5	(6,1)
+q	r	0.04	6	(6,2)
+q	k	0.04	6	(5,3)
+q	b	0.04	6	(6,3)
+******
+otherprop_3C-f10	2	3	18
+Are more than 80 percent of the squares red?	Press SPACE to continue
+Are more than 80 percent of the squares red?	Press SPACE to continue	1
+Are more than 80 percent of the squares red?	Press F(NO) or J(YES) to answer	no
+		
+q	b	0.04	1	(1,2)
+q	g	0.04	1	(1,1)
+q	g	0.04	1	(2,1)
+q	b	0.04	2	(1,3)
+q	r	0.04	2	(2,3)
+q	r	0.04	2	(2,2)
+q	g	0.04	3	(3,2)
+q	r	0.04	3	(3,3)
+q	b	0.04	3	(3,1)
+q	g	0.04	4	(4,2)
+q	g	0.04	4	(5,2)
+q	b	0.04	4	(4,3)
+q	b	0.04	5	(4,1)
+q	g	0.04	5	(5,1)
+q	g	0.04	5	(6,1)
+q	r	0.04	6	(5,3)
+q	g	0.04	6	(6,2)
+q	b	0.04	6	(6,3)
+******
+few-f1	2	3	18
+Are few of the squares yellow?	Press SPACE to continue
+Are few of the squares yellow?	Press SPACE to continue	1
+Are few of the squares yellow?	Press F(NO) or J(YES) to answer	no
+		
+q	y	0.04	1	(1,2)
+q	w	0.04	1	(1,1)
+q	y	0.04	1	(2,1)
+q	y	0.04	2	(3,1)
+q	y	0.04	2	(3,2)
+q	w	0.04	2	(2,2)
+q	y	0.04	3	(1,3)
+q	y	0.04	3	(2,3)
+q	y	0.04	3	(3,3)
+q	w	0.04	4	(4,1)
+q	y	0.04	4	(4,2)
+q	y	0.04	4	(5,1)
+q	y	0.04	5	(4,3)
+q	w	0.04	5	(5,3)
+q	y	0.04	5	(5,2)
+q	y	0.04	6	(6,2)
+q	y	0.04	6	(6,1)
+q	y	0.04	6	(6,3)
+******
+few-f5	2	3	18
+Are few of the squares white?	Press SPACE to continue
+Are few of the squares white?	Press SPACE to continue	1
+Are few of the squares white?	Press F(NO) or J(YES) to answer	no
+		
+q	w	0.04	1	(1,2)
+q	g	0.04	1	(1,1)
+q	g	0.04	1	(2,1)
+q	w	0.04	2	(1,3)
+q	w	0.04	2	(2,2)
+q	w	0.04	2	(2,3)
+q	w	0.04	3	(3,2)
+q	g	0.04	3	(3,1)
+q	g	0.04	3	(3,3)
+q	w	0.04	4	(4,2)
+q	w	0.04	4	(5,2)
+q	w	0.04	4	(4,1)
+q	g	0.04	5	(4,3)
+q	g	0.04	5	(5,3)
+q	w	0.04	5	(6,3)
+q	w	0.04	6	(6,1)
+q	g	0.04	6	(5,1)
+q	w	0.04	6	(6,2)
+******
+many-f3	2	3	18
+Are many of the squares yellow?	Press SPACE to continue
+Are many of the squares yellow?	Press SPACE to continue	1
+Are many of the squares yellow?	Press F(NO) or J(YES) to answer	yes
+		
+q	y	0.04	1	(1,2)
+q	y	0.04	1	(1,3)
+q	y	0.04	1	(2,3)
+q	y	0.04	2	(1,1)
+q	y	0.04	2	(2,1)
+q	b	0.04	2	(3,1)
+q	y	0.04	3	(2,2)
+q	b	0.04	3	(3,2)
+q	b	0.04	3	(4,2)
+q	y	0.04	4	(4,1)
+q	y	0.04	4	(5,1)
+q	k	0.04	4	(6,1)
+q	y	0.04	5	(3,3)
+q	b	0.04	5	(4,3)
+q	y	0.04	5	(5,3)
+q	y	0.04	6	(5,2)
+q	y	0.04	6	(6,2)
+q	y	0.04	6	(6,3)
+*******
+mtn_2C-1	1	3	18
+Are more than 9 of the triangles blue?	Press SPACE to continue
+Are more than 9 of the triangles blue?	Press SPACE to continue	1
+Are more than 9 of the triangles blue?	Press F(NO) or J(YES) to answer	yes
+		
+t	b	0.04	1	(1,1)
+t	y	0.04	1	(1,2)
+t	b	0.04	1	(2,1)
+t	y	0.04	2	(1,3)
+t	b	0.04	2	(2,3)
+t	k	0.04	2	(2,2)
+t	y	0.04	3	(3,1)
+t	b	0.04	3	(3,2)
+t	b	0.04	3	(3,3)
+t	b	0.04	4	(4,1)
+t	b	0.04	4	(4,2)
+t	y	0.04	4	(5,2)
+t	y	0.04	5	(4,3)
+t	b	0.04	5	(5,3)
+t	y	0.04	5	(6,3)
+t	y	0.04	6	(5,1)
+t	b	0.04	6	(6,1)
+t	b	0.04	6	(6,2)
+******
+mtn_2C-5	1	3	18
+Are more than 8 of the triangles white?	Press SPACE to continue
+Are more than 8 of the triangles white?	Press SPACE to continue	1
+Are more than 8 of the triangles white?	Press F(NO) or J(YES) to answer	no
+		
+t	w	0.04	1	(1,2)
+t	k	0.04	1	(2,3)
+t	r	0.04	1	(1,3)
+t	r	0.04	2	(1,1)
+t	r	0.04	2	(2,2)
+t	w	0.04	2	(2,1)
+t	r	0.04	3	(3,1)
+t	w	0.04	3	(3,2)
+t	r	0.04	3	(3,3)
+t	w	0.04	4	(4,3)
+t	w	0.04	4	(5,2)
+t	w	0.04	4	(4,2)
+t	r	0.04	5	(4,1)
+t	r	0.04	5	(5,1)
+t	r	0.04	5	(6,1)
+t	w	0.04	6	(5,3)
+t	w	0.04	6	(6,2)
+t	r	0.04	6	(6,3)
+******
+mtn_2C-9	1	3	18
+Are more than 8 of the triangles green?	Press SPACE to continue
+Are more than 8 of the triangles green?	Press SPACE to continue	1
+Are more than 8 of the triangles green?	Press F(NO) or J(YES) to answer	yes
+		
+t	g	0.04	1	(1,1)
+t	g	0.04	1	(1,2)
+t	w	0.04	1	(2,1)
+t	g	0.04	2	(1,3)
+t	g	0.04	2	(2,3)
+t	k	0.04	2	(2,2)
+t	w	0.04	3	(3,2)
+t	g	0.04	3	(3,1)
+t	g	0.04	3	(3,3)
+t	w	0.04	4	(4,2)
+t	g	0.04	4	(4,1)
+t	w	0.04	4	(4,3)
+t	w	0.04	5	(5,2)
+t	g	0.04	5	(5,3)
+t	k	0.04	5	(5,1)
+t	k	0.04	6	(6,2)
+t	w	0.04	6	(6,3)
+t	g	0.04	6	(6,1)
+******
+mtn_3C-4	1	3	18
+Are more than 9 of the triangles white?	Press SPACE to continue
+Are more than 9 of the triangles white?	Press SPACE to continue	1
+Are more than 9 of the triangles white?	Press F(NO) or J(YES) to answer	no
+		
+t	w	0.04	1	(1,2)
+t	w	0.04	1	(1,1)
+t	g	0.04	1	(1,3)
+t	w	0.04	2	(2,2)
+t	w	0.04	2	(3,2)
+t	g	0.04	2	(2,1)
+t	g	0.04	3	(3,1)
+t	w	0.04	3	(4,1)
+t	w	0.04	3	(4,2)
+t	w	0.04	4	(2,3)
+t	y	0.04	4	(3,3)
+t	y	0.04	4	(4,3)
+t	w	0.04	5	(6,2)
+t	y	0.04	5	(5,1)
+t	y	0.04	5	(6,1)
+t	k	0.04	6	(5,3)
+t	g	0.04	6	(5,2)
+t	w	0.04	6	(6,3)
+******
+mtn_3C-8	1	3	18
+Are more than 7 of the triangles green?	Press SPACE to continue
+Are more than 7 of the triangles green?	Press SPACE to continue	1
+Are more than 7 of the triangles green?	Press F(NO) or J(YES) to answer	yes
+		
+t	g	0.04	1	(1,3)
+t	g	0.04	1	(1,2)
+t	r	0.04	1	(1,1)
+t	k	0.04	2	(2,3)
+t	r	0.04	2	(3,2)
+t	g	0.04	2	(2,2)
+t	g	0.04	3	(2,1)
+t	g	0.04	3	(3,1)
+t	k	0.04	3	(4,1)
+t	w	0.04	4	(4,3)
+t	w	0.04	4	(3,3)
+t	g	0.04	4	(4,2)
+t	w	0.04	5	(5,1)
+t	g	0.04	5	(5,3)
+t	w	0.04	5	(5,2)
+t	k	0.04	6	(6,2)
+t	g	0.04	6	(6,1)
+t	r	0.04	6	(6,3)
+******
+mtn_3C-12	1	3	18
+Are more than 6 of the triangles blue?	Press SPACE to continue
+Are more than 6 of the triangles blue?	Press SPACE to continue	1
+Are more than 6 of the triangles blue?	Press F(NO) or J(YES) to answer	no
+		
+t	w	0.04	1	(1,2)
+t	k	0.04	1	(1,3)
+t	b	0.04	1	(1,1)
+t	k	0.04	2	(2,2)
+t	w	0.04	2	(2,3)
+t	w	0.04	2	(3,2)
+t	k	0.04	3	(2,1)
+t	b	0.04	3	(3,1)
+t	b	0.04	3	(4,1)
+t	r	0.04	4	(4,3)
+t	w	0.04	4	(3,3)
+t	r	0.04	4	(4,2)
+t	b	0.04	5	(5,3)
+t	r	0.04	5	(5,1)
+t	r	0.04	5	(5,2)
+t	b	0.04	6	(6,2)
+t	b	0.04	6	(6,1)
+t	w	0.04	6	(6,3)
+******
+mth_2C-3	1	3	18
+Are more than half of the triangles yellow?	Press SPACE to continue
+Are more than half of the triangles yellow?	Press SPACE to continue	1
+Are more than half of the triangles yellow?	Press F(NO) or J(YES) to answer	yes
+		
+t	y	0.04	1	(1,2)
+t	b	0.04	1	(1,3)
+t	y	0.04	1	(2,3)
+t	b	0.04	2	(1,1)
+t	y	0.04	2	(2,2)
+t	y	0.04	2	(2,1)
+t	k	0.04	3	(3,2)
+t	b	0.04	3	(3,3)
+t	y	0.04	3	(3,1)
+t	y	0.04	4	(4,2)
+t	b	0.04	4	(4,1)
+t	b	0.04	4	(4,3)
+t	b	0.04	5	(5,2)
+t	y	0.04	5	(5,1)
+t	y	0.04	5	(6,1)
+t	y	0.04	6	(6,2)
+t	b	0.04	6	(5,3)
+t	b	0.04	6	(6,3)
+******
+mth_2c-7	1	3	18
+Are more than half of the triangles green?	Press SPACE to continue
+Are more than half of the triangles green?	Press SPACE to continue	1
+Are more than half of the triangles green?	Press F(NO) or J(YES) to answer	yes	
+		
+t	g	0.04	1	(1,1)
+t	w	0.04	1	(1,2)
+t	w	0.04	1	(1,3)
+t	w	0.04	2	(2,2)
+t	w	0.04	2	(2,3)
+t	g	0.04	2	(3,2)
+t	w	0.04	3	(2,1)
+t	g	0.04	3	(3,1)
+t	k	0.04	3	(4,2)
+t	k	0.04	4	(3,3)
+t	g	0.04	4	(4,3)
+t	g	0.04	4	(5,3)
+t	g	0.04	5	(4,1)
+t	g	0.04	5	(5,1)
+t	w	0.04	5	(6,1)
+t	g	0.04	6	(5,2)
+t	k	0.04	6	(6,2)
+t	w	0.04	6	(6,3)
+******
+mth_2C-11	1	3	18
+Are more than half of the triangles yellow?	Press SPACE to continue
+Are more than half of the triangles yellow?	Press SPACE to continue	1
+Are more than half of the triangles yellow?	Press F(NO) or J(YES) to answer	no
+		
+t	g	0.04	1	(1,2)
+t	k	0.04	1	(1,1)
+t	y	0.04	1	(1,3)
+t	g	0.04	2	(2,2)
+t	y	0.04	2	(3,2)
+t	g	0.04	2	(2,1)
+t	k	0.04	3	(3,1)
+t	y	0.04	3	(4,1)
+t	g	0.04	3	(4,2)
+t	y	0.04	4	(2,3)
+t	g	0.04	4	(3,3)
+t	g	0.04	4	(4,3)
+t	y	0.04	5	(5,3)
+t	g	0.04	5	(5,2)
+t	y	0.04	5	(6,3)
+t	y	0.04	6	(6,2)
+t	k	0.04	6	(5,1)
+t	g	0.04	6	(6,1)
+******
+mth_3C-2	1	3	18
+Are more than half of the triangles white?	Press SPACE to continue
+Are more than half of the triangles white?	Press SPACE to continue	1
+Are more than half of the triangles white?	Press F(NO) or J(YES) to answer	yes
+		
+t	w	0.04	1	(1,2)
+t	w	0.04	1	(1,3)
+t	w	0.04	1	(2,3)
+t	b	0.04	2	(1,1)
+t	w	0.04	2	(2,2)
+t	b	0.04	2	(2,1)
+t	w	0.04	3	(3,2)
+t	b	0.04	3	(3,3)
+t	w	0.04	3	(3,1)
+t	w	0.04	4	(4,2)
+t	g	0.04	4	(4,1)
+t	g	0.04	4	(4,3)
+t	w	0.04	5	(5,1)
+t	g	0.04	5	(5,2)
+t	g	0.04	5	(6,1)
+t	b	0.04	6	(6,2)
+t	k	0.04	6	(5,3)
+t	w	0.04	6	(6,3)
+*******
+mth_3C-6	1	3	18
+Are more than half of the triangles red?	Press SPACE to continue
+Are more than half of the triangles red?	Press SPACE to continue	1
+Are more than half of the triangles red?	Press F(NO) or J(YES) to answer	no
+		
+t	y	0.04	1	(1,2)
+t	r	0.04	1	(1,3)
+t	y	0.04	1	(1,1)
+t	k	0.04	2	(2,2)
+t	r	0.04	2	(2,3)
+t	y	0.04	2	(3,2)
+t	y	0.04	3	(2,1)
+t	r	0.04	3	(3,1)
+t	r	0.04	3	(3,3)
+t	w	0.04	4	(4,3)
+t	r	0.04	4	(5,3)
+t	w	0.04	4	(4,2)
+t	r	0.04	5	(4,1)
+t	w	0.04	5	(5,1)
+t	w	0.04	5	(5,2)
+t	y	0.04	6	(6,2)
+t	r	0.04	6	(6,1)
+t	r	0.04	6	(6,3)
+******
+mth_3C-10	1	3	18
+Are more than half of the triangles yellow?	Press SPACE to continue
+Are more than half of the triangles yellow?	Press SPACE to continue	1
+Are more than half of the triangles yellow?	Press F(NO) or J(YES) to answer	no
+		
+t	k	0.04	1	(1,2)
+t	y	0.04	1	(1,1)
+t	w	0.04	1	(1,3)
+t	y	0.04	2	(2,2)
+t	w	0.04	2	(3,2)
+t	k	0.04	2	(2,1)
+t	w	0.04	3	(3,1)
+t	y	0.04	3	(4,2)
+t	y	0.04	3	(4,1)
+t	b	0.04	4	(2,3)
+t	b	0.04	4	(3,3)
+t	y	0.04	4	(4,3)
+t	y	0.04	5	(5,3)
+t	b	0.04	5	(5,2)
+t	b	0.04	5	(6,3)
+t	w	0.04	6	(6,2)
+t	k	0.04	6	(5,1)
+t	y	0.04	6	(6,1)
+******
+exn_2C-f1	2	3	18
+Are exactly 9 of the triangles yellow?	Press SPACE to continue
+Are exactly 9 of the triangles yellow?	Press SPACE to continue	1
+Are exactly 9 of the triangles yellow?	Press F(NO) or J(YES) to answer	yes
+		
+t	y	0.04	1	(1,2)
+t	y	0.04	1	(1,1)
+t	r	0.04	1	(2,2)
+t	r	0.04	2	(1,3)
+t	y	0.04	2	(2,3)
+t	y	0.04	2	(3,3)
+t	y	0.04	3	(2,1)
+t	k	0.04	3	(3,2)
+t	r	0.04	3	(3,1)
+t	y	0.04	4	(4,2)
+t	r	0.04	4	(4,1)
+t	r	0.04	4	(5,2)
+t	y	0.04	5	(4,3)
+t	y	0.04	5	(5,3)
+t	r	0.04	5	(6,3)
+t	r	0.04	6	(6,2)
+t	y	0.04	6	(5,1)
+t	r	0.04	6	(6,1)
+******
+exn_2C-f5	2	3	18
+Are exactly 8 of the triangles blue?	Press SPACE to continue
+Are exactly 8 of the triangles blue?	Press SPACE to continue	1
+Are exactly 8 of the triangles blue?	Press F(NO) or J(YES) to answer	no
+		
+t	b	0.04	1	(1,2)
+t	g	0.04	1	(1,1)
+t	b	0.04	1	(1,3)
+t	g	0.04	2	(2,2)
+t	b	0.04	2	(2,3)
+t	b	0.04	2	(2,1)
+t	g	0.04	3	(3,2)
+t	g	0.04	3	(3,1)
+t	b	0.04	3	(3,3)
+t	g	0.04	4	(4,2)
+t	g	0.04	4	(5,2)
+t	b	0.04	4	(4,1)
+t	g	0.04	5	(5,1)
+t	b	0.04	5	(6,1)
+t	k	0.04	5	(6,2)
+t	b	0.04	6	(4,3)
+t	b	0.04	6	(5,3)
+t	g	0.04	6	(6,3)
+******
+exn_2C-f9	2	3	18
+Are exactly 6 of the triangles yellow?	Press SPACE to continue
+Are exactly 6 of the triangles yellow?	Press SPACE to continue	1
+Are exactly 6 of the triangles yellow?	Press F(NO) or J(YES) to answer	yes
+		
+t	y	0.04	1	(1,3)
+t	k	0.04	1	(1,1)
+t	y	0.04	1	(1,2)
+t	w	0.04	2	(2,2)
+t	w	0.04	2	(3,2)
+t	w	0.04	2	(2,1)
+t	k	0.04	3	(3,1)
+t	y	0.04	3	(4,1)
+t	w	0.04	3	(4,2)
+t	w	0.04	4	(3,3)
+t	w	0.04	4	(2,3)
+t	y	0.04	4	(4,3)
+t	k	0.04	5	(6,2)
+t	y	0.04	5	(5,1)
+t	w	0.04	5	(6,1)
+t	w	0.04	6	(5,2)
+t	y	0.04	6	(5,3)
+t	w	0.04	6	(6,3)
+******
+exn_3C-f4	2	3	18
+Are exactly 9 of the triangles red?	Press SPACE to continue
+Are exactly 9 of the triangles red?	Press SPACE to continue	1
+Are exactly 9 of the triangles red?	Press F(NO) or J(YES) to answer	no
+		
+t	b	0.04	1	(1,2)
+t	r	0.04	1	(1,3)
+t	w	0.04	1	(2,3)
+t	r	0.04	2	(1,1)
+t	w	0.04	2	(2,2)
+t	w	0.04	2	(2,1)
+t	r	0.04	3	(3,2)
+t	b	0.04	3	(3,3)
+t	r	0.04	3	(3,1)
+t	b	0.04	4	(4,2)
+t	r	0.04	4	(4,1)
+t	r	0.04	4	(4,3)
+t	b	0.04	5	(5,1)
+t	w	0.04	5	(5,2)
+t	r	0.04	5	(6,1)
+t	w	0.04	6	(6,2)
+t	b	0.04	6	(5,3)
+t	r	0.04	6	(6,3)
+*******
+exn_3C-f8	2	3	18
+Are exactly 7 of the triangles blue?	Press SPACE to continue
+Are exactly 7 of the triangles blue?	Press SPACE to continue	1
+Are exactly 7 of the triangles blue?	Press F(NO) or J(YES) to answer	yes
+		
+t	b	0.04	1	(1,2)
+t	b	0.04	1	(1,3)
+t	b	0.04	1	(2,2)
+t	g	0.04	2	(1,1)
+t	b	0.04	2	(2,1)
+t	k	0.04	2	(3,1)
+t	g	0.04	3	(2,3)
+t	k	0.04	3	(3,2)
+t	b	0.04	3	(3,3)
+t	g	0.04	4	(4,1)
+t	b	0.04	4	(5,1)
+t	w	0.04	4	(4,2)
+t	g	0.04	5	(4,3)
+t	w	0.04	5	(5,3)
+t	b	0.04	5	(5,2)
+t	g	0.04	6	(6,2)
+t	w	0.04	6	(6,1)
+t	w	0.04	6	(6,3)
+******
+exn_3C-f12	2	3	18
+Are exactly 6 of the triangles red?	Press SPACE to continue
+Are exactly 6 of the triangles red?	Press SPACE to continue	1
+Are exactly 6 of the triangles red?	Press F(NO) or J(YES) to answer	no
+		
+t	r	0.04	1	(1,2)
+t	g	0.04	1	(1,1)
+t	g	0.04	1	(2,1)
+t	r	0.04	2	(1,3)
+t	b	0.04	2	(2,3)
+t	b	0.04	2	(2,2)
+t	b	0.04	3	(3,2)
+t	k	0.04	3	(3,3)
+t	r	0.04	3	(3,1)
+t	b	0.04	4	(4,2)
+t	g	0.04	4	(5,2)
+t	b	0.04	4	(4,3)
+t	r	0.04	5	(5,1)
+t	g	0.04	5	(6,1)
+t	b	0.04	5	(4,1)
+t	k	0.04	6	(5,3)
+t	r	0.04	6	(6,2)
+t	g	0.04	6	(6,3)
+******
+aboutn-f3	2	3	18
+Are about 10 of the triangles yellow?	Press SPACE to continue
+Are about 10 of the triangles yellow?	Press SPACE to continue	1
+Are about 10 of the triangles yellow?	Press F(NO) or J(YES) to answer	no
+		
+t	y	0.04	1	(1,2)
+t	y	0.04	1	(2,1)
+t	b	0.04	1	(1,1)
+t	b	0.04	2	(2,3)
+t	b	0.04	2	(1,3)
+t	k	0.04	2	(2,2)
+t	y	0.04	3	(3,2)
+t	b	0.04	3	(3,1)
+t	b	0.04	3	(3,3)
+t	b	0.04	4	(4,3)
+t	y	0.04	4	(5,2)
+t	b	0.04	4	(4,2)
+t	k	0.04	5	(4,1)
+t	b	0.04	5	(5,1)
+t	b	0.04	5	(6,1)
+t	y	0.04	6	(6,2)
+t	k	0.04	6	(5,3)
+t	b	0.04	6	(6,3)
+******
+aboutn-f7	2	3	18
+Are about 3 of the triangles red?	Press SPACE to continue
+Are about 3 of the triangles red?	Press SPACE to continue	1
+Are about 3 of the triangles red?	Press F(NO) or J(YES) to answer	no
+		
+t	r	0.04	1	(1,2)
+t	r	0.04	1	(1,1)
+t	w	0.04	1	(2,1)
+t	r	0.04	2	(1,3)
+t	w	0.04	2	(2,3)
+t	r	0.04	2	(2,2)
+t	k	0.04	3	(3,2)
+t	r	0.04	3	(3,3)
+t	r	0.04	3	(3,1)
+t	r	0.04	4	(4,2)
+t	r	0.04	4	(5,2)
+t	r	0.04	4	(4,3)
+t	w	0.04	5	(4,1)
+t	w	0.04	5	(5,1)
+t	r	0.04	5	(6,1)
+t	r	0.04	6	(5,3)
+t	k	0.04	6	(6,2)
+t	r	0.04	6	(6,3)
+******
+aboutn-f11	2	3	18
+Are about 4 of the triangles green?	Press SPACE to continue
+Are about 4 of the triangles green?	Press SPACE to continue	1
+Are about 4 of the triangles green?	Press F(NO) or J(YES) to answer	yes
+		
+t	r	0.04	1	(1,1)
+t	r	0.04	1	(2,1)
+t	g	0.04	1	(1,2)
+t	r	0.04	2	(1,3)
+t	r	0.04	2	(2,3)
+t	r	0.04	2	(2,2)
+t	r	0.04	3	(3,2)
+t	r	0.04	3	(3,1)
+t	r	0.04	3	(3,3)
+t	r	0.04	4	(4,2)
+t	g	0.04	4	(4,3)
+t	r	0.04	4	(4,1)
+t	g	0.04	5	(5,2)
+t	r	0.04	5	(5,3)
+t	r	0.04	5	(5,1)
+t	r	0.04	6	(6,1)
+t	k	0.04	6	(6,2)
+t	r	0.04	6	(6,3)
+******
+otherprop_2C-f2	2	3	18
+Are more than 1/3 of the triangles yellow?	Press SPACE to continue
+Are more than 1/3 of the triangles yellow?	Press SPACE to continue	1
+Are more than 1/3 of the triangles yellow?	Press F(NO) or J(YES) to answer	yes
+		
+t	g	0.04	1	(1,2)
+t	k	0.04	1	(1,1)
+t	y	0.04	1	(2,1)
+t	y	0.04	2	(1,3)
+t	y	0.04	2	(2,3)
+t	y	0.04	2	(2,2)
+t	k	0.04	3	(3,2)
+t	y	0.04	3	(3,1)
+t	y	0.04	3	(4,1)
+t	y	0.04	4	(4,2)
+t	g	0.04	4	(3,3)
+t	y	0.04	4	(4,3)
+t	y	0.04	5	(5,2)
+t	k	0.04	5	(5,3)
+t	y	0.04	5	(5,1)
+t	y	0.04	6	(6,2)
+t	y	0.04	6	(6,3)
+t	y	0.04	6	(6,1)
+******
+otherprop_2C-f6	2	3	18
+Are more than 2/3 of the triangles blue?	Press SPACE to continue
+Are more than 2/3 of the triangles blue?	Press SPACE to continue	1
+Are more than 2/3 of the triangles blue?	Press F(NO) or J(YES) to answer	yes
+		
+t	b	0.04	1	(1,1)
+t	w	0.04	1	(2,1)
+t	b	0.04	1	(3,1)
+t	b	0.04	2	(1,2)
+t	w	0.04	2	(2,2)
+t	w	0.04	2	(1,3)
+t	k	0.04	3	(2,3)
+t	w	0.04	3	(3,2)
+t	b	0.04	3	(3,3)
+t	b	0.04	4	(4,3)
+t	b	0.04	4	(5,2)
+t	b	0.04	4	(4,2)
+t	b	0.04	5	(4,1)
+t	w	0.04	5	(5,1)
+t	b	0.04	5	(6,1)
+t	b	0.04	6	(6,2)
+t	w	0.04	6	(5,3)
+t	b	0.04	6	(6,3)
+******
+otherprop_2C-f10	2	3	18
+Are more than 3/4 of the triangles green?	Press SPACE to continue
+Are more than 3/4 of the triangles green?	Press SPACE to continue	1
+Are more than 3/4 of the triangles green?	Press F(NO) or J(YES) to answer	yes
+		
+t	g	0.04	1	(1,2)
+t	g	0.04	1	(1,1)
+t	b	0.04	1	(2,1)
+t	g	0.04	2	(1,3)
+t	g	0.04	2	(2,3)
+t	g	0.04	3	(2,2)
+t	g	0.04	3	(3,2)
+t	k	0.04	3	(3,3)
+t	g	0.04	3	(3,1)
+t	g	0.04	4	(4,2)
+t	g	0.04	4	(5,2)
+t	g	0.04	4	(4,3)
+t	g	0.04	5	(4,1)
+t	g	0.04	5	(5,1)
+t	g	0.04	5	(6,1)
+t	g	0.04	6	(5,3)
+t	b	0.04	6	(6,2)
+t	k	0.04	6	(6,3)
+******
+otherprop_3C-f1	2	3	18
+Are more than 1/10 of the triangles red?	Press SPACE to continue
+Are more than 1/10 of the triangles red?	Press SPACE to continue	1
+Are more than 1/10 of the triangles red?	Press F(NO) or J(YES) to answer	no
+		
+t	g	0.04	1	(1,2)
+t	w	0.04	1	(1,1)
+t	g	0.04	1	(2,1)
+t	g	0.04	2	(1,3)
+t	w	0.04	2	(2,3)
+t	g	0.04	2	(2,2)
+t	w	0.04	3	(3,1)
+t	g	0.04	3	(3,2)
+t	r	0.04	3	(4,1)
+t	g	0.04	4	(4,2)
+t	g	0.04	4	(3,3)
+t	w	0.04	4	(4,3)
+t	w	0.04	5	(5,2)
+t	g	0.04	5	(5,3)
+t	g	0.04	5	(5,1)
+t	g	0.04	6	(6,2)
+t	w	0.04	6	(6,3)
+t	g	0.04	6	(6,1)
+******
+otherprop_3C-f5	2	3	18
+Are about 90 percent of the triangles white?	Press SPACE to continue
+Are about 90 percent of the triangles white?	Press SPACE to continue	1
+Are about 90 percent of the triangles white?	Press F(NO) or J(YES) to answer	no
+		
+t	w	0.04	1	(1,2)
+t	w	0.04	1	(1,3)
+t	g	0.04	1	(1,1)
+t	w	0.04	2	(2,2)
+t	w	0.04	2	(3,2)
+t	g	0.04	2	(2,3)
+t	y	0.04	3	(4,1)
+t	w	0.04	3	(3,1)
+t	k	0.04	3	(2,1)
+t	k	0.04	4	(4,2)
+t	w	0.04	4	(3,3)
+t	y	0.04	4	(4,3)
+t	g	0.04	5	(5,2)
+t	g	0.04	5	(5,3)
+t	y	0.04	5	(6,3)
+t	w	0.04	6	(6,2)
+t	w	0.04	6	(6,1)
+t	y	0.04	6	(5,1)
+******
+otherprop_3C-f9	2	3	18
+Are more than 80 percent of the triangles yellow?	Press SPACE to continue
+Are more than 80 percent of the triangles yellow?	Press SPACE to continue	1
+Are more than 80 percent of the triangles yellow?	Press F(NO) or J(YES) to answer	yes
+		
+t	y	0.04	1	(1,2)
+t	k	0.04	1	(1,1)
+t	y	0.04	1	(2,1)
+t	y	0.04	2	(1,3)
+t	y	0.04	2	(2,3)
+t	y	0.04	2	(2,2)
+t	y	0.04	3	(3,2)
+t	y	0.04	3	(3,1)
+t	w	0.04	3	(4,1)
+t	y	0.04	4	(3,3)
+t	y	0.04	4	(4,3)
+t	y	0.04	4	(4,2)
+t	k	0.04	5	(5,2)
+t	y	0.04	5	(5,1)
+t	y	0.04	5	(6,1)
+t	b	0.04	6	(5,3)
+t	y	0.04	6	(6,2)
+t	k	0.04	6	(6,3)
+******
+few-f4	2	3	18
+Are few of the triangles blue?	Press SPACE to continue
+Are few of the triangles blue?	Press SPACE to continue	1
+Are few of the triangles blue?	Press F(NO) or J(YES) to answer	yes
+		
+t	y	0.04	1	(1,1)
+t	y	0.04	1	(1,2)
+t	k	0.04	1	(2,1)
+t	y	0.04	2	(1,3)
+t	b	0.04	2	(2,3)
+t	y	0.04	2	(2,2)
+t	y	0.04	3	(3,2)
+t	y	0.04	3	(3,3)
+t	y	0.04	3	(3,1)
+t	k	0.04	4	(4,2)
+t	y	0.04	4	(5,2)
+t	y	0.04	4	(4,3)
+t	y	0.04	5	(4,1)
+t	b	0.04	5	(5,1)
+t	k	0.04	5	(6,1)
+t	k	0.04	6	(5,3)
+t	b	0.04	6	(6,2)
+t	y	0.04	6	(6,3)
+******
+many-f2	2	3	18
+Are many of the triangles white?	Press SPACE to continue
+Are many of the triangles white?	Press SPACE to continue	1
+Are many of the triangles white?	Press F(NO) or J(YES) to answer	no
+		
+t	k	0.04	1	(1,1)
+t	w	0.04	1	(2,1)
+t	g	0.04	1	(1,2)
+t	g	0.04	2	(1,3)
+t	k	0.04	2	(2,3)
+t	w	0.04	2	(2,2)
+t	g	0.04	3	(3,2)
+t	g	0.04	3	(3,1)
+t	w	0.04	3	(3,3)
+t	g	0.04	4	(4,2)
+t	g	0.04	4	(4,3)
+t	k	0.04	4	(4,1)
+t	g	0.04	5	(5,2)
+t	g	0.04	5	(5,3)
+t	k	0.04	5	(6,3)
+t	w	0.04	6	(6,2)
+t	w	0.04	6	(5,1)
+t	k	0.04	6	(6,1)
+******
+many-f6	2	3	18
+Are many of the triangles green?	Press SPACE to continue
+Are many of the triangles green?	Press SPACE to continue	1
+Are many of the triangles green?	Press F(NO) or J(YES) to answer	no
+		
+t	y	0.04	1	(1,2)
+t	k	0.04	1	(1,1)
+t	y	0.04	1	(2,1)
+t	g	0.04	2	(2,2)
+t	y	0.04	2	(3,2)
+t	y	0.04	2	(3,1)
+t	k	0.04	3	(1,3)
+t	g	0.04	3	(2,3)
+t	y	0.04	3	(3,3)
+t	y	0.04	4	(4,2)
+t	y	0.04	4	(5,1)
+t	k	0.04	4	(4,1)
+t	y	0.04	5	(4,3)
+t	y	0.04	5	(5,3)
+t	k	0.04	5	(5,2)
+t	y	0.04	6	(6,1)
+t	k	0.04	6	(6,2)
+t	y	0.04	6	(6,3)
+******
