@@ -1,0 +1,567 @@
+ExampleID	Coder	Journal	Vol	No	Year	Pages	ExPg	ExNo	Example Sentence	Language	Argument	Predicate	GramFunction	ThetaRole	Gender	Number	Name?	Pronoun?	Content	Comments	ExType	Filename	
+NLLT_00151		NLLT	19	NA	2001	pp455–502	p456	XXb	ex:a|n n ya-q´ /n n yax + q´ a/|‘I say’ 1sg + SAY + PRES.SING	O											Constructed	file:Alderete2001_Article_Root-ControlledAccentInCupe?o.html	
+NLLT_00155		NLLT	19	NA	2001	pp455–502	p482	XXb	ex:kw a -´?-qa-t /kw a + i + q´|a+t /|‘I’m gonna eat ... ’ EAT + NOM + PRES + ABSO	O											Constructed	file:Alderete2001_Article_Root-ControlledAccentInCupe?o.html	
+NLLT_00156		NLLT	19	NA	2001	pp455–502	p482	XXc	ex:max-´ ?-qa-t a+t /|/max + i + q´|‘(I’m) gonna give’ GIVE + NOM + PRES + ABSO	O											Constructed	file:Alderete2001_Article_Root-ControlledAccentInCupe?o.html	
+NLLT_02168		NLLT	19	NA	2001	pp229–281	p231	4	"ex:Gestern habe sogar ICHF einen Roman gelesen.|yesterday have even I a novel read|Yesterday, even I read a novel."	O											Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+										O													
+NLLT_02170		NLLT	19	NA	2001	pp229–281	p240	18a	ex:(? )Seine SCHWESTER nur überlebte den Unfall.|his sister only survived the accident|Only his sister survived the accident.	O	his			E	M	S	N	Y	"V, K"	possessor	Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+											his sister	survive	S	E	F	S	N	N	"V, K"				
+										O													
+NLLT_02171		NLLT	19	NA	2001	pp229–281	p240	18b	ex:(? )Für die ZUSCHAUER sogar war das Spiel unerfreulich.|for the spectators even was the game unpleasant|Even the crowd considered the game unpleasant.	O	the spectators	consider	S	A	N	P	N	N	E		Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02172		NLLT	19	NA	2001	pp229–281	p241	19a	"ex:[CP Auch [C war ich sehr MÜDE]]F .|also was I very tired|Also, I was very tired."	O											Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02173		NLLT	19	NA	2001	pp229–281	p241	19b	ex:[CP Nur [C WEISS das keiner]F ].|only knows that nobody|It’s just that nobody knows about it.	O	nobody	knows	S	A	N	U	N	Y	B		Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02174		NLLT	19	NA	2001	pp229–281	p242	22a	ex:... weil man den Wagen nur in die Garage FAHRENF darf.	O										no translation	Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02175		NLLT	19	NA	2001	pp229–281	p244	25	ex:Nur die HARTENF kommen in den Garten.|only the hard come into the garden|Only the tough ones make it into the garden.	O	the tough ones	make it	S	A	N	P	N	N			Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02176		NLLT	19	NA	2001	pp229–281	p246	XXb	ex:?Ich habe [DP jeden Sohn nur vom GRAFEN] bewundert.|I have every son only of-the count admired|I admired only the count’s every son.	O	the count				M	S	N	Y	E	possessor	Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+										O	son	admire	O	P	M	S	Y	N	E				
+NLLT_02177		NLLT	19	NA	2001	pp229–281	p252	42	ex:(weil) ich nur GERDAF geküsst zu haben bereue|(because) I only Gerda kissed to have regret|a. I regret to have kissed nobody but Gerda.	O	I	regret	S	E	N	S	N	Y	E		Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+										O	I	kiss	S	A	N	S	N	Y	R				
+										O	nobody	kiss	O	P	N	S	N	N	R				
+										O	Gerda	kiss	O	P	F	S	Y	N	R				
+NLLT_02179		NLLT	19	NA	2001	pp229–281	p258	53	ex:They were advised to play only Rock’n Roll.	E	they	be advised	S	E	N	P	N	Y			Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+										E	they	play	S	A	N	P	N	Y	O				
+NLLT_02180		NLLT	19	NA	2001	pp229–281	p260	XXb	ex:[Seinei Frau]1 respektiert jeder Manni t1 .|his wife respects every-NOM man|Every man respects his wife.	O	every man	respect	S	A	M	S	N	N	E		Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+										O	his				M	S	N	Y	K	possessor			
+										O	wife	respect	O	P	F	S	N	N	"E, K"				
+NLLT_02181		NLLT	19	NA	2001	pp229–281	p263	XXb	ex:? LF: [CP has nobody retained [only the hope that we’ll ever|win again]]|Nobody retained only the hope that we ever win again.	E	Nobody	retain	S	A	N	P	N	Y	E		Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02182		NLLT	19	NA	2001	pp229–281	p265	XXb	ex:? LF: tries everybodyi PRO to [only that hei marijuana|smokes] hide|Everybody tries to only hide that they smoke marijuana.	E	everybody	try	S	A	N	P	N	Y			Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+										E	they	smoke	S	A	N	P	N	Y	O	illegal			
+NLLT_02184		NLLT	19	NA	2001	pp229–281	p267	XXb	ex:?Ich bin [AP froh [nur [CP dass MARTHA gekommen ist]]].|I am glad only that Martha come is|I am glad (only) that Martha came.	O	Martha	come	S	A	F	S	Y	N			Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02185		NLLT	19	NA	2001	pp229–281	p267	XXc	"ex:? Sie ging [PP ohne [nur [CP dass ICH wusste, warum]]].|she left without only that I knew why|She left without (only) me knowing why."	O	she	leave	S	A	F	S	N	Y			Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_02186		NLLT	19	NA	2001	pp229–281	p269	XXc	"ex:Maria will kommen, auch wenn sie nicht eingeladen ist.|Maria wants come even if she not invited is|Maria wants to come, even if she is not invited."	O	Maria	want	S	A	F	S	Y	N	E		Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+										O	she	be invited	S	P	F	S	N	Y					
+NLLT_02188		NLLT	19	NA	2001	pp229–281	p270	71	ex:Nur um welche Zeit wir GEGANGENF sind verraten wir nicht.|only at which time we left are tell we not|The only thing we don’t tell is at what time we left.	O											Constructed	file:B?ring-Hartmann2001_Article_TheSyntaxAndSemanticsOfFocus-S.html	
+NLLT_01422		NLLT	19	NA	2001	pp503–548	p506	5	ex:John made Billi out [ti to be a fool].	E	John	make out	S	A	M	S	Y	N	E		Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	Billi 	be	O	E	M	S	Y	N	E	Bill? (Billi seems odd)			
+NLLT_01423		NLLT	19	NA	2001	pp503–548	p506	6a	ex:Mary made himi out [ti to be a fool].|?|b. Mary made out [him to be a fool].	E	Mary 	make out	S	A	F	S	Y	N	E		Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+											him	be	O	?	M	S	N	Y	E				
+NLLT_01424		NLLT	19	NA	2001	pp503–548	p506	7a	ex:Mary picked himi up ti .|?|b. Mary picked up him.	O	Mary 	pick up	S	A	F	S	Y	N			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										O	him	pick up	O	P	M	S	N	Y					
+NLLT_01425		NLLT	19	NA	2001	pp503–548	p508	16	ex:It is 3% likely that every coin will land heads.	E											Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+NLLT_01426		NLLT	19	NA	2001	pp503–548	p510	17	ex:No large Mersenne number was proven to be prime.	E											Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+NLLT_01427		NLLT	19	NA	2001	pp503–548	p510	19	ex:No one is certain to solve the problem.	E	no one	be certain	S	E	N	S	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	no one 	solve	S	A	N	S	N	Y	B				
+NLLT_01428		NLLT	19	NA	2001	pp503–548	p513	30	ex:No one seems to anyone to be absent from class today.	E	no one	seems	S	E	N	S	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	no one	be absent	S	E	N	S	N	Y	B				
+NLLT_01429		NLLT	19	NA	2001	pp503–548	p515	35	ex:A unicorn walked in and coughed.	E											Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+NLLT_01430		NLLT	19	NA	2001	pp503–548	p515	38	ex:Everybody who shows up is likely to be a psycholinguist.	E	everybody	show up	S	A	N	P	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	everybody	likely	S	E	N	P	N	Y					
+										E	everybody	be	S	E	N	P	N	Y	OB				
+										E	psycholinguist	be	O/Q?	E	N	S	N	N	OB				
+NLLT_01431		NLLT	19	NA	2001	pp503–548	p515	39	ex:The one who will show up is likely to be a psycholinguist.	E	one	show up	S	A	N	S	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	one	likely	S	E	N	S	N	Y					
+										E	one	be	S	E	N	S	N	Y	OB				
+										E	psycholinguist	be	O/Q?	E	N	S	N	N	OB				
+NLLT_01432		NLLT	19	NA	2001	pp503–548	p516	40	ex:Nobody is believed to be in the reactor room.	E	nobody	be believed	S	E	N	S	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	nobody	be	S	E	N	S	N	Y	O				
+NLLT_01433		NLLT	19	NA	2001	pp503–548	p516	41	ex:Exactly one person is likely to get an offer.	E	person	likely	S	E	N	S	Y	N			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	person	get	S	A	N	S	Y	N	O				
+NLLT_01434		NLLT	19	NA	2001	pp503–548	p521	47	ex:Everybody who shows up is likely to be a psycholinguist.											same as 47	Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+NLLT_01435		NLLT	19	NA	2001	pp503–548	p521	49	ex:Pictures of himself frighten John.	E	John	frighten	O	P	M	S	Y	N	E		Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	himself				M	S	N	Y	E	anaphor			
+NLLT_01436		NLLT	19	NA	2001	pp503–548	p523	51	ex:Someone from New York is likely to win the lottery.	E	someone	likely	S	E	N	S	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	someone	win	S	A	N	S	N	Y					
+NLLT_01437		NLLT	19	NA	2001	pp503–548	p523	52	ex:e is likely someone from New York to win the lottery.	E	someone	win	S	A	N	S	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+NLLT_01439		NLLT	19	NA	2001	pp503–548	p531	66a	ex:? Wen hat niemand wo gesehen? German|who has nobody where seen|Where did nobody see who?	O	nobody	see	S	A	N	S	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										O	who	see	O	P	N	S	N	Y					
+NLLT_01440		NLLT	19	NA	2001	pp503–548	p533	71	ex:Billi seems to ti [John to be a genius].	E	Billi 	seem	S	E	M	S	Y	N			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	John	seem	Q 	E	M	S	Y	N					
+										E	Billi 	be	S	E	M	S	Y	N	"B, S"				
+NLLT_01441		NLLT	19	NA	2001	pp503–548	p533	72	ex:Theyi seem to himj [ti to like Johnk/? j ].	E	they	seem	S	E	N	P	N	Y			Constructed	file:Boeckx2001_Article_ScopeReconstructionAndA-Moveme.html	
+										E	him	seem	Q 	E	M	S	N	Y					
+										E	they	like	S	A	N	P	N	Y	E				
+										E	John	like	O	E	M	S	Y	N	E				
+NLLT_01889		NLLT	19	NA	2001	pp1–65	p5	XXb	ex:Hayi si Juan ha-sangan-i hao [f-um-a’gasi i kareta]|who UNM Juan E3S-say-DAT you WH.SU-wash the car|Who did Juan tell you washed the car?	O	Juan	tell	S	A	M	S	Y	N			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+										O	who	wash	S	A	N	S	N	Y	O				
+NLLT_01890		NLLT	19	NA	2001	pp1–65	p5	XXc	ex:Hafa um-istotba hao [ni malagao’-na i lahi-mu]|what WH.SU-disturb you COMP WH.OBL-want-3SG the son-your|What does it disturb you that your son wants?	O	son	want	S	A	M	S	N	Y	E		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01891		NLLT	19	NA	2001	pp1–65	p9	7a	ex:llegué|pro arrive-1.SG|I arrived.	O											Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01892		NLLT	19	NA	2001	pp1–65	p9	7b	ex:llegó|pro arrive-3.SG|He/she arrived.	O	he/she	arrive	S	A	N	S	N	Y			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01893		NLLT	19	NA	2001	pp1–65	p26	35a	ex:Shíl mé goN mbeadh sé ann|thought I PRT would-be he there|I thought that he would be there.	O	he	be	S	E	M	S	N	Y			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01894		NLLT	19	NA	2001	pp1–65	p26	35b	ex:Dúirt mé gurL shíl mé goN mbeadh sé ann|said I goN+PAST thought I PRT would-be he there|I said that I thought that he would be there.	O	he	be	S	E	M	S	N	Y			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01895		NLLT	19	NA	2001	pp1–65	p30	44	ex:Which violins are these sonatas easy to play on ?	O											Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01896		NLLT	19	NA	2001	pp1–65	p33	48a	ex:Marie en connaît la ?n.|Marie of-it knows the end|Marie knows the end of it.	O	Marie	knows	S	A	F	S	Y	N	B		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01897		NLLT	19	NA	2001	pp1–65	p33	48b	ex:La ?n en est désagréable.|the end of-it is unpleasant|The end of it is unpleasant.	O											Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01898		NLLT	19	NA	2001	pp1–65	p33	49a	ex:J’ai écouté le garçon avec la clef.|I have heard the boy with the key|I heard the boy with the key.	O	boy	hear	O	P	M	S	N	N			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01899		NLLT	19	NA	2001	pp1–65	p33	49b	"ex:*la clef j , avec laquelle j j’ai écouté le garçon...|the key with which I have heard the boy...|the key with which I heard the boy..."	O	boy	hear	O	P	M	S	N	N			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01900		NLLT	19	NA	2001	pp1–65	p33	50a	ex:Marie lit la ?n du livre.|Marie reads the end of-the book|Marie is reading the end of the book.	O	Marie	read	S	A	F	S	Y	N	B		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01901		NLLT	19	NA	2001	pp1–65	p33	50b	ex:le livre dont Marie lit la ?n...|the book of-which Marie reads the end...|the book of which Marie is reading the end...	O	Marie	read	S	A	F	S	Y	N	B		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01902		NLLT	19	NA	2001	pp1–65	p33	50c	ex:La ?n du livre est désagréable.|the end of-the book is unpleasant|The end of the book is unpleasant.	O											Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01903		NLLT	19	NA	2001	pp1–65	p33	50d	ex:le livre dont la ?n est désagréable...|the book of-which the end is unpleasant...|the book of which the end is unpleasant...	O											Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01904		NLLT	19	NA	2001	pp1–65	p44	71	ex:Hei gets angry whenEVER the people Sandyi loves criticize him.	E	Hei	get angry	S	E	M	S	Y	N	E		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+										E	Sandyi	love	S	A	U	S	Y	N	E				
+										E	people	love	O	P	N	P	N	N	E	both subject and object?			
+										E	people	criticize 	S	A	N	P	N	N	E				
+										E	him	criticize 	O	P	M	S	N	Y	E				
+NLLT_01905		NLLT	19	NA	2001	pp1–65	p45	73a	ex:Kim wondered how she could repair the sink.|b. This is the restaurant in which Kim and Sandy ?rst ordered|couscous.	E	Kim and Sandy	orer	S	A	F	P	Y	N			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01906		NLLT	19	NA	2001	pp1–65	p50	84	ex:Taimänu malago’mu pära areklanña si Pedro ni kareta|how WH[OBL].want FUT WH[OBL].?x Pedro OBL car|How do you want Pedro to ?x the car?	O	Pedro	fix	S	A	M	S	Y	N	"O,S"		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01907		NLLT	19	NA	2001	pp1–65	p52	87	ex:Who visits Alcatraz?	E	who	visit	S	A	N	S	N	Y			Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01908		NLLT	19	NA	2001	pp1–65	p58	98	ex:Tu a dit que/*qui cet homme est heureux.|you said that that man is happy|You said that this man is happy.	O	man	be	S	E	M	S	N	Y	E		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_01909		NLLT	19	NA	2001	pp1–65	p58	99	ex:*L’homme que tu a dit que/qu’ est heureux...|the-man that you said that is happy...|the man that you said is happy...	O	man	be	S	E	M	S	N	Y	E		Constructed	file:Bouma2001_Article_SatisfyingConstraintsOnExtract.html	
+NLLT_03001		NLLT	19	NA	2001	pp283–310	p285	3a	ex:Into the room Terry claims (? that) t walked a bunch of gorillas|b. Into which room does Terry claim (? that) t walked that bunch|of gorillas?	E	Terry	claim	S	A	M	S	Y	N			Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	bunch of gorillas	walk	S	A	N	S	N	N					
+NLLT_03002		NLLT	19	NA	2001	pp283–310	p290	3b	ex:? In no dog ’s cage was hanging on a hook its most attractive and expensive|i i|collari .	E											Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+NLLT_03003		NLLT	19	NA	2001	pp283–310	p290	3c	ex:? In no dog ’s cage its most attractive and expensive collar was hanging on a|i i|hook.	E											Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+NLLT_03004		NLLT	19	NA	2001	pp283–310	p292	XXe	ex:Into the room walked carefully the students in the class who had|heard about the social psych experiment that we were about to|perpetrate.	E	students	walk	S	A	N	P	N	N			Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	hear	S	A	N	P	N	Y	B				
+NLLT_03005		NLLT	19	NA	2001	pp283–310	p292	XXe	ex:I addressed carefully the students in the class who had heard|about the social psych experiment that we were about to|perpetrate.	E	students	address	O	P	N	P	N	N	O		Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	hear	S	A	N	P	N	Y	B				
+NLLT_03006		NLLT	19	NA	2001	pp283–310	p292	XXf	ex:I addressed the students in the class who had heard about|the social psych experiment that we were about to perpetrate|(extremely) carefully.	E	students	address	O	P	N	P	N	N	O		Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	hear	S	A	N	P	N	Y	B				
+NLLT_03007		NLLT	19	NA	2001	pp283–310	p293	XXe	ex:In the room slept ?tfully the students in the class who had|heard about the social psych experiment that we were about to|perpetrate.	E	students	sleep	S	A	N	P	N	N			Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	hear	S	A	N	P	N	Y	B				
+NLLT_03008		NLLT	19	NA	2001	pp283–310	p293	XXf	ex:In the room slept the students in the class who had heard about|the social psych experiment that we were about to perpetrate|(very) ?tfully.	E	students	sleep	S	A	N	P	N	N			Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	hear	S	A	N	P	N	Y	B				
+NLLT_03009		NLLT	19	NA	2001	pp283–310	p296	23a	ex:There slept ?tfully in the next room a group of the students in|the class who had heard about the social psych experiment that|we were about to perpetrate.	E	group ofstudents	sleep	S	A	N	S	N	N			Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	hear	S	A	N	P	N	Y	B				
+NLLT_03010		NLLT	19	NA	2001	pp283–310	p296	23b	ex:In the next room there slept ?tfully a group of the students in|the class who had heard about the social psych experiment that|we were about to perpetrate.	E	group ofstudents	sleep	S	A	N	S	N	N			Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	hear	S	A	N	P	N	Y	B				
+NLLT_03011		NLLT	19	NA	2001	pp283–310	p296	24a	ex:I expected Robin to walk into the room.|b. ? I expected t to walk Robin into the room/? I expected t to walk|into the room Robin.	E	Robin	walk	S	A	N	S	Y	N		ambiguous name	Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+NLLT_03012		NLLT	19	NA	2001	pp283–310	p308	XXc	ex:In the laboratory were dying their various horrible deaths|the more than ten thousand fruit ?ies that Dr. Zapp had|collected in his garden over the summer.	E	Dr. Zapp	collect	S	A	M	S	Y	N	"B, O"		Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+NLLT_03013		NLLT	19	NA	2001	pp283–310	p308	XXd	ex:Outside in the still upright hangar were heaving deep sighs|of relief the few remaining pilots who had not been chosen|to ?y in the worst hurricane since hurricanes had names.	E	pilots	heave	S	A	N	P	N	N	E		Constructed	file:Culicover-Levine2001_Article_StylisticInversionInEnglishARe.html	
+										E	who	be chosen	S	P	N	P	N	N					
+										E	who 	fly	S	A	N	P	N	N	O				
+NLLT_06678		NLLT	19	NA	2001	pp67–107	p71	XXb	"ex:I sent a dozen second-hand toddlers’ pants to Kim before care-|fully examining them, and one full box of beanbag toys to Chris|before carefully examining them; etc."	E	toddler's				N	P	N	N		possessor	Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	Kim	send	Q 	R	F	S	Y	N	S				
+										E	Chris	send	Q 	R	N	S	Y	N		ambiguous name			
+NLLT_06679		NLLT	19	NA	2001	pp67–107	p71	8a	ex:What did you send t to Sandy before carefully examining pg ?|b. Which parcel did you give t to the secretary without opening|pg ?	E	Sandy	send	Q 	R	F	S	Y	N			Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	secretary	give	Q 	R	N	S	N	N	S				
+NLLT_06680		NLLT	19	NA	2001	pp67–107	p73	8b	ex:¿ Que art´?culos asignaste a los estudiantes sin leer pg ?|what articles you-assigned to the students without to-read|What articles did you assign to the students without reading?	O	students	assign	Q 	R	N	P	N	N	B		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+NLLT_06681		NLLT	19	NA	2001	pp67–107	p73	XXb	ex:Quelle photo as-tu donne a qui sans la regarder?|which photo have-you given to whom without it looking-at|Which photo have you given to whom without looking at it?	O	whom	give	Q 	R	N	S	N	Y	O		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+NLLT_06682		NLLT	19	NA	2001	pp67–107	p73	14	ex:What did everyone buy for Alex?	E	everyone	buy	S	A	N	P	N	Y			Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	Alex	buy	Q 	R	M	S	Y	N					
+NLLT_06683		NLLT	19	NA	2001	pp67–107	p74	16a	ex:Who did everyone recommend (for the position)?|b. Who did everyone recommend (for the position) before inter-|viewing pg ?	E	who	recommend	O	P	N	S	N	Y	O		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	everyone	recommend	S	A	N	P	N	Y	O				
+NLLT_06684		NLLT	19	NA	2001	pp67–107	p74	16b	ex:Kim recommended Maura Cardwell before interviewing her;|Chris recommended Richard Neiman before interviewing him;|etc.	E	Kim	recommend	S	A	F	S	Y	N	O		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	Kim	interview	S	A	F	S	Y	N	O				
+										E	Maura Caldwell	recommend	O	P	F	S	Y	N	O				
+										E	her	interview	O	P	F	S	Y	N	O				
+										E	Chris	recommend	S	A	M	S	Y	N	O				
+										E 	Richard Neiman	recommend	O	P	M	S	Y	N	O				
+										E	Chris	interview	S	A	M	S	Y	N	O				
+										E	him	interview	O	P	M	S	Y	N	O				
+NLLT_06685		NLLT	19	NA	2001	pp67–107	p74	18a	ex:I know which paper you sent to every student.|b. I know which paper you sent to every student without reading|pg .	E	student	send	Q 	R	N	S	N	N	B 		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+NLLT_06686		NLLT	19	NA	2001	pp67–107	p75	19	ex:Which student bought which book?	E	student	buy	S	A	N	S	N	N	B		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+NLLT_06687		NLLT	19	NA	2001	pp67–107	p79	32a	ex:Who did everyone recommend (for the position)?|b. Who did everyone recommend (for the position) before inter-|viewing pg ?	E	who	recommend	O	P	N	S	N	Y	O	same as 06684	Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	everyone	recommend	S	A	N	P	N	Y	O				
+NLLT_06688		NLLT	19	NA	2001	pp67–107	p81	37	ex:John ?led every article without reading pg .	E	John	file	S	A	M	S	Y	N	BO		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+NLLT_06689		NLLT	19	NA	2001	pp67–107	p84	43a	"ex:If a man owns a donkey, he always beats it.|b. For every man and every donkey such that the former owns the|latter, he beats it."	E	man	own	S	A	M	S	N	N	O		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	donkey 	own	O	P	N	S	N	N					
+										E	he	beat	S	A	M	S	N	Y	V				
+										E	it	beat	O	A	N	S	N	Y	V	"""former"" and ""latter""?"			
+NLLT_06690		NLLT	19	NA	2001	pp67–107	p87	49a	ex:John offended t by not mentioning the fact that the committee|had elected pg provost – the famous physicist who won a Nobel|prize.	E	John	offend	S	A	M	S	Y	N	E	"""t""?"	Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	physicist	offend	O	P	N	S	N	N	E				
+										E	John	mention	S	A	M	S	Y	N	B				
+										E 	provost	elect	O	P	N	S	N	N	BO				
+										E	who	win	S	A	N	S	N	Y	BO	relative clause			
+NLLT_06691		NLLT	19	NA	2001	pp67–107	p87	49b	"ex:? [The famous physicist who won a Nobel prize], John offended|t by not mentioning the fact that the committee had elected pg|provost."	E	John	offend	S	A	M	S	Y	N	E		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	physicist	offend	O	P	N	S	N	N	E				
+										E 	who 	win	S	A	N	S	N	Y	BO				
+										E	John	mention	S	A	M	S	Y	N	B				
+										E	provost	elect	O	P	N	S	N	N	BO				
+NLLT_06692		NLLT	19	NA	2001	pp67–107	p88	51a	ex:Hij heeft deze artikelen [zonder pg te lezen] opgeborgen.|he has these articles without to read ?led|He has ?led these articles without reading them.	O	he	file	S	A	M	S	N	Y	BO		Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										O	he	read	S	A	M	S	N	Y	B				
+NLLT_06693		NLLT	19	NA	2001	pp67–107	p91	54a	ex:Was glaubst Hans mit wem Jakob jetzt spricht?|what believes Hans with whom Jakob now speaks|With whom does Hans think Jakob is now speaking?	O	Hans	think	S	A	M	S	Y	N			Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										O	Jakob	speak	S	A	M	S	Y	N					
+										O	whom	speak	Q 	E	N	S	N	Y		not sure if argument			
+NLLT_06694		NLLT	19	NA	2001	pp67–107	p91	54b	ex:Mit wem glaubst Hans Jakob jetzt spricht?|with whom believes Hans Jakob now speaks|With whom does Hans think Jakob is now speaking?	O	Hans	think	S	A	M	S	Y	N			Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										O	Jakob	speak	S	A	M	S	Y	N					
+										O	whom	speak	Q 	E	N	S	N	Y		not sure if argument			
+NLLT_06698		NLLT	19	NA	2001	pp67–107	p100	67	ex:[CP Howi [CP which carj did [IP you ?x tj ti ]]]?	E											Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+NLLT_06699		NLLT	19	NA	2001	pp67–107	p100	68a	"ex:? What did you show to whom without giving to?|b. ? whati did you show t to whomj [Oi,j without PRO giving pgi to|pgj ]?"	E	whom	show	Q 	R	N	S	N	Y			Constructed	file:Kim2001_Article_ChainCompositionAndUniformity.html	
+										E	whom	give	Q 	R	N	S	N	Y					
+NLLT_07471		NLLT	19	NA	2001	pp109–152	p112	2a	ex:Eric insisted that it would be ridiculous [to call for help].|b. That [covering themselves with mud] disturbed Spiro amused|Dick.	E	Eric	insist	S	A	M	S	Y 	N	E		Constructed	file:Landau2001_Article_ControlAndExtrapositionTheCase.html	
+										E	themelves	cover	O	P	N	P	N	Y					
+										E	Spiro	disturb	O	E	M	S	Y	N	E				
+										E	Dick	amuse	O	E	M	S	Y	N	E				
+NLLT_07472		NLLT	19	NA	2001	pp109–152	p117	2b	ex:Barnen förstod att a vara snälle gladde John|the-children understood that to be nice (pl.) pleased John|The children understood that to be nice (pl.) pleased John.	O	children	understand	S	A	N	P	N	N			Constructed	file:Landau2001_Article_ControlAndExtrapositionTheCase.html	
+										O	John	please	O	E	M	S	Y	N	E				
+NLLT_07473		NLLT	19	NA	2001	pp109–152	p126	21a	ex:? Mary1 thought that it pleased John [PRO1 to talk about herself].|b. ?Mary1 thought that it pleased the man greatly who hired her for|the job [PRO1 to talk about herself].	E	Mary	think	S	A	F	S	Y	N			Constructed	file:Landau2001_Article_ControlAndExtrapositionTheCase.html	
+										E	Mary	talk	S	A	F	S	Y	N					
+										E	John	please	O	E	M	S	Y	N	E				
+										E	man	please	O	E	M	S	N	N	E				
+										E	who	hire	S	A	N	S	N	Y	OS				
+										E	her	hire	O	P	F	S	N	Y	OS				
+NLLT_07474		NLLT	19	NA	2001	pp109–152	p134	41a	ex:? It would help Bill’s1 friends [PRO1 to behave himself in public].|b. It would help Bill’s1 con?dence [PRO1 to plan his itinerary in|advance].	E	Bill				M	S	Y	N	E	possessor	Constructed	file:Landau2001_Article_ControlAndExtrapositionTheCase.html	
+										E	Bill	plan	S	A	M	S	Y	N	B	stands for pro1?			
+NLLT_07611		NLLT	19	NA	2001	pp901–919	p909	4a	ex:There seemed to be a lion in the closet.|?|b. There seemed a lion to be in the closet.	E	lion	seem	S	E	N	S	N	N			Constructed	file:Lappin2001_Article_TheRevolutionMaximallyConfused.html	
+										E	lion	be	S	E	N	S	N	N					
+NLLT_07791		NLLT	19	NA	2001	pp683–735	p694	27a	ex:? Some visited more people than [B I claimed Bart visited ].|b. ? Some visited many people and [B I claimed Bart|visited many people].	E	some	visit	S	A	N	P	N	Y			Constructed	file:Lechner2001_Article_ReducedAndPhrasalComparatives.html	
+										E	people	visit	O	P	N	P	N	N					
+										E	Bart 	visit	S	A	M	S	Y	N					
+NLLT_07792		NLLT	19	NA	2001	pp683–735	p695	27b	ex:??Some refused/avoided/pretended to visit Sam and|others refused/avoided/pretended [?restructuring]|[CP to visit Otto].	E	some	refuse	S	A	N	P	N	Y	E		Constructed	file:Lechner2001_Article_ReducedAndPhrasalComparatives.html	
+										E	some	avoid	S	A	N	P	N	Y	E				
+										E	some	pretend	S	A	N	P	N	Y	E				
+										E	some 	visit	S	A	N	P	N	Y					
+										E	Sam	visit	O	P	M	S	Y	N					
+										E	Otto	visit	O	P	M	S	Y	N					
+NLLT_07793		NLLT	19	NA	2001	pp683–735	p696	30a	ex:More people promised/tried/wanted to visit Sam (on Monday)|than promised/tried/wanted [+restructuring] [CP[??nite] to visit Otto|(on Friday)].	E	people	promise	S	A	N	P	N	N			Constructed	file:Lechner2001_Article_ReducedAndPhrasalComparatives.html	
+										E	people	try	S	A	N	P	N	N					
+										E	people	want	S	A	N	P	N	N	E				
+										E	people	visit 	S	A	N	P	N	N		odd formatting?			
+										E	Sam	visit	O	P	M	S	Y	N					
+										E	Otto	visit	O	P	M	S	Y	N					
+NLLT_07794		NLLT	19	NA	2001	pp683–735	p696	30b	ex:? More people promised that they would visit Sam (on Monday)|than promised [CP[+?nite] that they would visit Otto (on Fri-|day)].	E	people	promise	S	A	N	P	N	N			Constructed	file:Lechner2001_Article_ReducedAndPhrasalComparatives.html	
+										E	people	visit 	S	A	N	P	N	N					
+										E 	Sam	visit	O	P	M	S	Y	N					
+										E	Otto	visit	O	P	M	S	Y	N					
+NLLT_07795		NLLT	19	NA	2001	pp683–735	p697	31	ex:??More people refused/avoided/pretended to visit Sam (on|Monday) than refused/avoided/pretended [?restructuring]|[CP to visit Otto (on Friday)].	E	people	refuse	S	A	N	P	N	N	E		Constructed	file:Lechner2001_Article_ReducedAndPhrasalComparatives.html	
+										E	people	avoid	S	A	N	P	N	N					
+										E	people	pretend	S	A	N	P	N	N					
+										E	people	visit 	S	A	N	P	N	N					
+										E	Sam	visit	O	P	M	S	Y	N					
+										E	Otto	visit	O	P	M	S	Y	N					
+NLLT_07798		NLLT	19	NA	2001	pp683–735	p720	78a	ex:Gestern hatk Hans mehr Bücher tk bestellt als gelesen tk .|yesterday has H. more books ordered than read|b. ? Gestern hatk Hans mehr Bücher tk bestellt als gelesen hat.	O	Hans	have	S	A	M	S	Y	N	B		Constructed	file:Lechner2001_Article_ReducedAndPhrasalComparatives.html	
+										O	Hans	read	S	A	M	S	Y	N	B				
+NLLT_07799		NLLT	19	NA	2001	pp683–735	p728	4a	ex:PC: John is older than me.|?|b. Source: John is older than me am.	E	John	be	S	E	M	S	Y	N	K		Constructed	file:Lechner2001_Article_ReducedAndPhrasalComparatives.html	
+NLLT_08130		NLLT	19	NA	2001	pp311–353	p312	XXb	ex:Hari pustakavannu tann-a hindee nooD-id-a.|Hari book-ACC self-GEN behind see-PST-3SM|Hari saw the book behind him(self).	O	Hari	see	S	A	M	S	Y	N	B		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08131		NLLT	19	NA	2001	pp311–353	p313	1a	ex:hari tann-annu hogaL-i-koND-a.|Hari self-ACC praise-PP-REFL.PST-3SM|Hari praised himself.	O	Hari	praise	S	A	M	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	praise	O	P	M	S	Y	N	E				
+NLLT_08132		NLLT	19	NA	2001	pp311–353	p313	XXd	ex:hari rashmi-yannu hogaL-id-a.|Hari Rashmi-ACC praise-PST-3SM|Hari praised Rashmi.	O	Hari	praise	S	A	M	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	Rashmi	praise	O	P	F	S	Y	N	E				
+NLLT_08133		NLLT	19	NA	2001	pp311–353	p313	2a	ex:baagil-u muchi-tu.|door-NOM close-PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08134		NLLT	19	NA	2001	pp311–353	p313	2b	ex:baagil-u muchi-koND-itu.|door-NOM close-PP-REFL.PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08135		NLLT	19	NA	2001	pp311–353	p314	2c	ex:hari baagil-annu much-id-a.|Hari door-ACC close-PST-3SM|Hari closed the door.	O	Hari	close	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08136		NLLT	19	NA	2001	pp311–353	p315	XXb	ex:hari kannu-gaL-annu tere-du-koND-a.|Hari eye-PL-ACC open-PP-REFL.PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08137		NLLT	19	NA	2001	pp311–353	p316	4a	ex:rashmi-ge tannu ishta-aada.|Rashmi-DAT self-NOM linking-becomes|Rashmi likes herself.	O	Rashmi	like	S	A	F	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	herself	like	O	P	F	S	N	Y	E				
+NLLT_08138		NLLT	19	NA	2001	pp311–353	p316	5a	ex:hari kannu-gaL-annu tere-du-koND-a.|Hari eye-PL-ACC open-PP-REFL.PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N		same as 08136	Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08139		NLLT	19	NA	2001	pp311–353	p316	5b	ex:baagil-u much-i-koND-itu.|door-NOM close-PP-REFL.PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08140		NLLT	19	NA	2001	pp311–353	p317	6a	ex:raaju tann-a angiy-annu hari-d-a.|Raaju-NOM self-GEN shirt-ACC tear-PST-3SM|Raaju tore his shirt.	O	Raaju 	tear	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y	V	possessor			
+NLLT_08141		NLLT	19	NA	2001	pp311–353	p317	6b	ex:raaju tann-a angiy-annu hari-du-koND-a.|Raaju-NOM self-GEN shirt-ACC tear-PP-REFL-PST-3SM|Raaju got his shirt torn.	O	Raaju 	get	S	E	M	S	Y	N	V	experiencer?	Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08142		NLLT	19	NA	2001	pp311–353	p317	6c	ex:raaju hariy-a angiy-annu hari-d-a.|Raaju-NOM Hari-GEN shirt-ACC tear-PST-3SM|Raaju tore his shirt.	O	Raaju 	tear	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08143		NLLT	19	NA	2001	pp311–353	p318	7a	ex:hari-yu tann-a kal-annu mur-id-a.|Hari-NOM self-GEN leg-ACC break-PST-3SM|Hari broke his leg (accidentally).	O	Hari	break	S	E	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y	V	possessor			
+NLLT_08144		NLLT	19	NA	2001	pp311–353	p318	7b	ex:hari-yu tann-a kal-annu mur-idu-koND-a.|Hari-NOM self-GEN leg-ACC break-PP-REFL.PST-3SM|Hari broke his leg (deliberately).	O	Hari	break	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O 	his				M	S	N	Y	V	possessor			
+NLLT_08145		NLLT	19	NA	2001	pp311–353	p318	8a	ex:hari-yu tann-a tale-yannu eTT-id-a.|Hari-NOM self-GEN head-ACC lift-PST-3SM|Hari lifted his head.	O	Hari	lift	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O 	his				M	S	N	Y		possessor			
+NLLT_08146		NLLT	19	NA	2001	pp311–353	p318	8b	ex:hari-yu tann-a tale-yannu eTT-i-koND-a.|Hari-NOM self-GEN head-ACC lift-PP-REFL.PST-3SM|Hari lifted his head.	O	Hari	lift	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O 	his				M	S	N	Y		possessor			
+NLLT_08147		NLLT	19	NA	2001	pp311–353	p318	9a	ex:hari-yu kannu-gaL-annu tere-d-a.|Hari-NOM eye-PL-ACC open-PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08148		NLLT	19	NA	2001	pp311–353	p319	9b	ex:hari-yu kannu-gaL-annu tere-du-koND-a.|Hari-NOM eye-PL-ACC open-PP-REFL.PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08149		NLLT	19	NA	2001	pp311–353	p319	10a	ex:#hari-yu tann-a kal-annu kooli-ninda mur-id-a.|Hari-NOM self-GEN leg-ACC stick-INSTR break-PST-3SM|Hari broke his leg with a stick.	O	Hari	break	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08150		NLLT	19	NA	2001	pp311–353	p319	11a	ex:#hari-yu tann-a tale-yannu kai-gaL-inda eTT-id-a.|Hari-NOM self-GEN head-ACC hand-PL-INSTR lift-PST-3SM|Hari lifted his head with his hands.	O	Hari	lift	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O 	his				M	S	N	Y		possessor			
+NLLT_08151		NLLT	19	NA	2001	pp311–353	p320	12a	ex:#hari-yu kannu-gaL-annu kai-gaL-inda tere-d-a.|Hari-NOM eye-PL-ACC hand-PL-INSTR open-PST-3SM|Hari opened his eyes with his hands.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08152		NLLT	19	NA	2001	pp311–353	p320	14	ex:Rashmi baagil-annu kai-gaL-inda much-id-aLu.|Rashmi door-ACC hand-PL-INSTR close-PST-3SF|Rashmi closed the door with her hands.	O	Rashmi	close	S	A	F	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	her				F	S	N	Y		possessor			
+NLLT_08153		NLLT	19	NA	2001	pp311–353	p322	16a	ex:naan-u baagil-annu much-i-de.|I-NOM door-ACC close-PST-1S|I closed the door.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08154		NLLT	19	NA	2001	pp311–353	p322	XXc	ex:baagil-u much-i-tu.|door-NOM close-PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08155		NLLT	19	NA	2001	pp311–353	p322	XXd	ex:baagil-u much-i-koND-itu.|door-NOM close-PP-REFL.PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08156		NLLT	19	NA	2001	pp311–353	p322	17a	ex:divya-la celuv-ige divaakara mana soot-a.|Divya-GEN beauty-DAT Divakara-NOM mind lose.PST-3SM|Divakara lost his mind because of Divya’s beauty.	O	Divakara	lose mind	S	E	M	S	Y	N	ER		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	Divya				U	S	Y	N	SR				
+NLLT_08157		NLLT	19	NA	2001	pp311–353	p322	17b	ex:caL-ige avan-ige jvara bant-u.|cold-DAT he-DAT fever-NOM come-PST-3SN|He got a fever because of the cold.	O	he	get fever	S	E	M	S	N	Y			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08158		NLLT	19	NA	2001	pp311–353	p323	18a	ex:gaaL-ige baagil-u much-i-koND-itu.|wind-DAT door-NOM close-PP-REFL.PST-3SN|The door closed because of the wind.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08160		NLLT	19	NA	2001	pp311–353	p325	22	ex:John broke the vase.	E	John	break	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08162		NLLT	19	NA	2001	pp311–353	p328	29	ex:hari baagil-annu much-id-a|Hari door-ACC close-PST-3SM|Hari closed the door.	O	Hari	close	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08164		NLLT	19	NA	2001	pp311–353	p329	18a	ex:gaaL-ige baagil-u much-i-koND-itu.|wind-DAT door-NOM close-PP-REFL.PST-3SN|The door closed because of the wind.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08165		NLLT	19	NA	2001	pp311–353	p330	34	ex:hari-yu kannu-gal-annu tere-du-koND-a.|Hari-NOM eye-PL-ACC open-PP-REFL.PST-3SM|Hari opened his eyes (with some instrument).	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08166		NLLT	19	NA	2001	pp311–353	p331	37	ex:hari kannu-gaL-annu tere-d-a.|Hari-NOM eye-PL-ACC open-PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08167		NLLT	19	NA	2001	pp311–353	p332	39a	ex:hari tanna naaligey-annu chaach-id-a.|Hari self-GEN tongue-ACC stick.out-PST-3SM|Hari stuck out his tongue.	O	Hari	stick out	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08168		NLLT	19	NA	2001	pp311–353	p332	39b	ex:hari tanna naaligey-annu chaach-i-koND-a.|Hari self-GEN tongue-ACC stick.out-PP-REFL.PST-3SM|Hari stuck out his tongue.	O	Hari	stick out	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08169		NLLT	19	NA	2001	pp311–353	p334	40a	ex:hari-yu (tann-annu) hoDe-du-koNDa.|Hari-NOM (self-ACC) hit-PP-REFL.PST-3SM|Hari hit himself.	O	Hari	hit	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	hit	O	P	M	S	Y	N	V				
+NLLT_08170		NLLT	19	NA	2001	pp311–353	p335	42a	ex:rashmi-ge hari ishta-aad-a.|Rashmi-DAT Hari-NOM liking-become.NPST-3SM|Rashmi likes Hari.	O	Rashmi	like	S	A	F	S	Y	N	ER		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	Hari	like	O	P	M	S	Y	N	ER				
+NLLT_08171		NLLT	19	NA	2001	pp311–353	p335	42b	ex:rashmi-ge tannu ishta-aad-a.|rashmi-DAT self-NOM liking-become.NPST-3SM|Rashmi likes herself.	O	Rashmi	like	S	A	F	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	herself	like	O	P	F	S	N	Y	E				
+NLLT_08172		NLLT	19	NA	2001	pp311–353	p336	45	ex:?? Hari tann-annu priitisu-koLL-utt-aane.|Hari self-ACC love-REFL-NPST-3SM|Hari loves himself.	O	Hari	love	S	A	M	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	love	O	P	M	S	N	Y	E				
+NLLT_08173		NLLT	19	NA	2001	pp311–353	p337	46	ex:Hari mattu Rashmi priitisu-koLL-utt-aare.|Hari and Rashmi love-REFL-NPST-3PL|Hari and Rashmi love each other.	O	Hari	love	S	A	M	S	Y	N	ER		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	Rashmi	love	S	A	F	S	Y	N	ER				
+										O 	each other	love	O	P	N	S	N	Y	ER				
+NLLT_08174		NLLT	19	NA	2001	pp311–353	p337	47a	ex:Hari tann-annu mechi-koLL-utt-aane.|Hari self-ACC like-REFL-NPST-3SM|Hari likes himself.	O	Hari	like	S	A	M	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	like	O	P	M	S	N	Y	E				
+NLLT_08175		NLLT	19	NA	2001	pp311–353	p337	47b	ex:Rashmi tann-annu hachi-koLL-utt-aaLe.|Rashmi self-ACC be.fond.of-REFL-NPST-3SF|Rashmi is fond of herself.	O	Rashmi	be (fond)	S	E	F	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	herself	be (fond)	Q	E	F	S	N	Y	E	experiencer?			
+NLLT_08176		NLLT	19	NA	2001	pp311–353	p338	XXb	ex:avan-ige beva-t-itu.|he-DAT sweat-PST-3SN|He sweated.	O	he	sweat	S	E	M	S	N	Y	S		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08177		NLLT	19	NA	2001	pp311–353	p338	49a	ex:avan-u beva-tu-koND-a.|he-NOM sweat-PP-REFL.PST-3SM|He sweated.	O	he	sweat	S	E	M	S	N	Y	S		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08178		NLLT	19	NA	2001	pp311–353	p338	50	ex:rashmi awan-age-taane hari-yannu tooris-id-aLu.|Rashmi he-DAT-self Hari-ACC show-PST-3SF|Rashmi showed Hari to himself.	O	Rashmi	show	S	A	F	S	Y	N	A		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	Hari	show	O	P	M	S	Y	N	A				
+										O	himself	show	Q	R	M	S	N	Y	A				
+NLLT_08179		NLLT	19	NA	2001	pp311–353	p339	53a	ex:hari santooshag-iruw-aage kaNis-utt-aane.|Hari happy-be-PRED seem-PRES-3SM|Hari seems to be happy.	O	Hari	seem	S	E	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	Hari	be	S	E	M	S	Y	N	E				
+NLLT_08180		NLLT	19	NA	2001	pp311–353	p339	53b	ex:hari tann-age santooshaag-iruw-aage kaNis-utt-aane.|Hari self-DAT happy-be-PRED seem-PRES-3SM|Hari seems to himself to be happy.	O	Hari	seem	S	E	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	seem	Q	R	M	S	N	Y		recipient?			
+										O	Hari	be	S	E	M	S	Y	N	E				
+NLLT_08181		NLLT	19	NA	2001	pp311–353	p339	53c	ex:? hari tan-age santooshaag-iruw-aage kaNis-koLL-utt-aane.|Hari self-DAT happy-be-PRED seem-REFL-PST-3SM|Hari seems to himself to be happy.	O	Hari	seem	S	E	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	seem	Q	R	M	S	N	Y		recipient?			
+										O	Hari	be	S	E	M	S	Y	N	E				
+NLLT_08182		NLLT	19	NA	2001	pp311–353	p340	XXc	ex:hari tannu rashmi-yannu hoDe-d-a anta heeL-id-a.|Hari self-NOM Rashmi-ACC hit-PST-3SM that say-PST-3SM|Hari said that he hit Rashmi.	O	Hari	say	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	he	hit	S	A	M	S	N	Y	V				
+										O	Rashmi	hit	O	P	F	S	Y	N	V				
+NLLT_08183		NLLT	19	NA	2001	pp311–353	p340	56a	ex:baagil-u much-i-koND-itu.|door-NOM close-PP-REFL.PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08184		NLLT	19	NA	2001	pp311–353	p340	56b	ex:baagil-u much-i-tu.|door-NOM close-PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08185		NLLT	19	NA	2001	pp311–353	p341	57a	"ex:gaal-ige baagil-u much-i-koND-itu.|wind-DAT door-NOM close-PP-REFL.PST-3SN|Because of the wind, the door closed."	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08186		NLLT	19	NA	2001	pp311–353	p341	57b	"ex:? gaal-ige baagil-u much-i-tu.|wind-DAT dor-NOM close-PST-3SN|Because of the wind, the door closed."	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08187		NLLT	19	NA	2001	pp311–353	p343	60	ex:hari (tann-annu) hoDe-du-koND-a.|Hari (self-ACC) hit-PP-REFL.PST-3SM|Hari hit himself.	O	Hari	hit	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	hit	O	P	M	S	N	Y	V				
+NLLT_08188		NLLT	19	NA	2001	pp311–353	p344	61a	ex:hari kannu-gaL-annu tere-d-a.|Hari eye-PL-ACC open-PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08189		NLLT	19	NA	2001	pp311–353	p344	61b	ex:hari kannu-gaL-annu tere-du-koND-a.|Hari eye-pl-ACC open-PP-REFL.PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08190		NLLT	19	NA	2001	pp311–353	p344	62a	ex:? hari kannu-gaL-annu kai-gaL-inda tere-d-a.|Hari eye-PL-ACC hand-PL-INSTR open-PST-3SM|Hari opened his eyes with his hands.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08191		NLLT	19	NA	2001	pp311–353	p345	63	ex:hari (tann-age) pustaka-vannu koTTu-koND-a.|Hari (self-DAT) book-ACC give.PP-REFL.PST-3SM|Hari gave himself a book.	O	Hari	give	S	A	M	S	Y	N	B		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	give	Q	R	M	S	N	Y	B				
+NLLT_08193		NLLT	19	NA	2001	pp311–353	p345	64	ex:hari (? tann-age) kannu-gaL-annu tere-du-koND-a.|Hari (? self-DAT) eye-PL-ACC open-PP-REFL.PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08194		NLLT	19	NA	2001	pp311–353	p346	65a	ex:Maria si guarda.|Maria REFL watches|Maria watches herself.	O	Maria	watch	S	A	F	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	herself	watch	O	P	F	S	N	Y					
+NLLT_08195		NLLT	19	NA	2001	pp311–353	p346	65b	ex:Il vetro si rompe.|The glass REFL breaks|The glass breaks.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08196		NLLT	19	NA	2001	pp311–353	p347	XXb	ex:? Gianni si preoccupa.|Gianni REFL worries|Gianni worries himself.	O	Gianni	worry	S	A	M	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	worry	O	P	M	S	N	Y	E				
+NLLT_08197		NLLT	19	NA	2001	pp311–353	p347	69	ex:Gianni si preoccupa di questo.|Gianni REFL worries of this|gianni gets worried from this.	O	Gianni	worry	S	E	M	S	Y	N	E		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08198		NLLT	19	NA	2001	pp311–353	p348	71	ex:Gianni si sembra simpatico.|Gianni REFL seem nice|Gianni seems to himself to be nice.	O	Gianni	seem	S	E	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	Gianni	be	S	E	M	S	Y	N					
+NLLT_08199		NLLT	19	NA	2001	pp311–353	p348	72a	ex:On zastrelil-sja.|he shot-REFL|He shot himself.	O	He	shoot	S	A	M	S	N	Y	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	shoot	O	P	M	S	N	Y	V				
+NLLT_08200		NLLT	19	NA	2001	pp311–353	p349	72b	ex:On zastrelil sebja.|he shot self|He shot himself.	O	He	shoot	S	A	M	S	N	Y	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	shoot	O	P	M	S	N	Y	V				
+NLLT_08201		NLLT	19	NA	2001	pp311–353	p349	73a	ex:hari hoDe-du-koND-a.|Hari hit-PP-REFL.PST-3SM|Hari hit himself.	O	Hari	hit	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	hit	O	P	M	S	N	Y	V				
+NLLT_08202		NLLT	19	NA	2001	pp311–353	p349	XXc	ex:hari tann-annu hoDe-du-koND-a.|Hari self-ACC hit-PP-REFL.PST-3SM|Hari hit himself.	O	Hari	hit	S	A	M	S	Y	N	V		Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	himself	hit	O	P	M	S	N	Y	V				
+NLLT_08203		NLLT	19	NA	2001	pp311–353	p351	XXb	ex:baagil-u much-i-koND-itu.|door-NOM close-PP-REFL.PST-3SN|The door closed.	O											Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+NLLT_08204		NLLT	19	NA	2001	pp311–353	p351	XXc	ex:hari kannu-gaL-annu tere-du-koND-a.|Hari eye-PL-ACC open-PP-REFL.PST-3SM|Hari opened his eyes.	O	Hari	open	S	A	M	S	Y	N			Constructed	file:Lidz2001_Article_TheArgumentStructureOfVerbalRe.html	
+										O	his				M	S	N	Y		possessor			
+NLLT_08614		NLLT	19	NA	2001	pp153–197	p155	1a	ex:Ne kai e Sione e tau talo aki e huki.|Pst eat Erg Sione Abs Pl taro with Abs fork|Sione ate the taros with a fork.	O	Sione	eat	S	A	U	S	Y	N			Constructed	file:Massam2001_Article_PseudoNounIncorporationInNiuea.html	
+NLLT_08615		NLLT	19	NA	2001	pp153–197	p155	1b	ex:Ne tohitohi a Sione.|Pst writing Abs Sione|Sione was writing.	O	Sione	write	S	A	U	S	Y	N	B		Constructed	file:Massam2001_Article_PseudoNounIncorporationInNiuea.html	
+NLLT_08616		NLLT	19	NA	2001	pp153–197	p158	6a	ex:Ne inu kofe kono a Mele.|Pst drink coffee bitter Abs Mele|Mary drank bitter coffee.	O	Mary	drink	S	A	F	S	Y	N			Constructed	file:Massam2001_Article_PseudoNounIncorporationInNiuea.html	
+NLLT_08617		NLLT	19	NA	2001	pp153–197	p159	XXh	ex:Ne fai fale lanu moana a ia.|Pst have house colour blue Abs he|He had a blue house.	O	He	have	S	A	M	S	N	Y			Constructed	file:Massam2001_Article_PseudoNounIncorporationInNiuea.html	
+NLLT_08618		NLLT	19	NA	2001	pp153–197	p160	XXb	ex:Ne kai sipi mo e ika mitaki a Sione|Pst eat chip Comtv Abs ?sh good Abs Sione.|Sione ate good ?sh and chips.	O	Sione	eat	S	A	U	S	Y	N			Constructed	file:Massam2001_Article_PseudoNounIncorporationInNiuea.html	
+NLLT_08619		NLLT	19	NA	2001	pp153–197	p170	16	ex:I went berry-picking to make jam with.	E											Constructed	file:Massam2001_Article_PseudoNounIncorporationInNiuea.html	
+NLLT_08620		NLLT	19	NA	2001	pp153–197	p171	18a	ex:Ko e fanogonogo a lautolu ke he tau lologo.|Pres listen Abs they to Pl songs|They were listening to songs.	O	They	listen	S	A	N	P	N	Y			Constructed	file:Massam2001_Article_PseudoNounIncorporationInNiuea.html	
+NLLT_00513		NLLT	20	NA	2002	pp451–490	p475	10	ex:How couth his behavior is!	E	his				M	S	N	Y	A	possessor	Constructed	file:Aronoff-Fuhrhop2002_Article_RestrictingSuffixCombinationsI.html	
+NLLT_01399		NLLT	20	NA	2002	pp197–267	p209	14a	ex:? Dom kastade mejj inte ut tj|they threw me not out|They didn’t throw me out.	O	They	throw (out)	S	A	N	P	N	Y	V		Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01400		NLLT	20	NA	2002	pp197–267	p210	15a	ex:[IP Sam [I? -s] [VP eat- Spam]]|b. O-------O ? Morphological/PF-Merger|c. Sam eats Spam.	E	Sam	eat	S	A	M	S	Y	N			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01401		NLLT	20	NA	2002	pp197–267	p211	18a	ex:[CP When [C? [I? -s]] [IP Sam [I? t ] [VP eat- ham]]]|b. O - - - - - ? - - - - - - - - - - - O ? Adjacency Disrupted|c. When does Sam eat ham?	E	Sam	eat	S	A	M	S	Y	N			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01402		NLLT	20	NA	2002	pp197–267	p211	19a	ex:[CP Who [C? [I? -s]] [IP tSUBJ [I? t ] [VP eat- ham]]]|b. O - - - - - - - - - - - - - - - - - - - O ? Merger Successful|c. Who eats ham?	E	who	eat	S	A	N	S	N	Y			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01403		NLLT	20	NA	2002	pp197–267	p212	21a	ex:[IP Sam [I? -s] never [VP eat- anything]].|b. O-----------O ? Morphological Merger|c. Sam never eats anything.	E	Sam	eat	S	A	M	S	Y	N			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01404		NLLT	20	NA	2002	pp197–267	p214	24a	ex:... dass Rex Wurstsemmeln essen wird.|... that Rex sausage.buns eat will|... that Rex will eat sausage buns.	O	Rex	eat	S	A	M	S	Y	N		dog?	Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01405		NLLT	20	NA	2002	pp197–267	p227	43a	ex:Eg ok.|I read seldom this book.|I seldom read this book.	E											Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01406		NLLT	20	NA	2002	pp197–267	p228	45a	ex:St´ ? vasann|the.students put the.butter all in the.pocket|The students all put the butter in their pockets.	E	students	put	S	A	N	P	N	Y			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+										E	their				N	P	N	Y		possessor			
+NLLT_01407		NLLT	20	NA	2002	pp197–267	p236	51a	ex:Vad smutsade Kalle ner?|what dirtied K. down|What did Kalle (make) dirty?	O	Kalle	make	S	A	U	S	Y	N	A		Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01408		NLLT	20	NA	2002	pp197–267	p239	57a	ex:? Kalle smutsade den ner|K. dirtied it down.|Kalle made it dirty.	O	Kalle	make	S	A	U	S	Y	N	A		Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01409		NLLT	20	NA	2002	pp197–267	p239	57b	ex:Kalle tog dem av|K. took them off|Kalle took them off.	O	Kalle 	take (off)	S	A	U	S	Y	N			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01410		NLLT	20	NA	2002	pp197–267	p239	58a	ex:? Jag vet [att Kalle läste den inte]|I know that K. read it not|I know that Kalle didn’t rad it.	O	Kalle	read	S	A	U	S	Y	N	B		Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01411		NLLT	20	NA	2002	pp197–267	p240	60a	ex:? Tröjan blev smutsad ner|shirt.the AUX dirtied down|The shirt was made dirty.	O											Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01412		NLLT	20	NA	2002	pp197–267	p241	61a	ex:Jag gav inte Elsa den|I gave not Elsa it.|I didn’t give it to Elsa.	O	Elsa	give	Q	R	F	S	Y	N			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01413		NLLT	20	NA	2002	pp197–267	p241	62a	ex:Eg okinni|I returned man.the.DAT not book.the.QDAT|I did not return the book to the man.	O	man	give	Q	R	M	S	Y	N	B		Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01414		NLLT	20	NA	2002	pp197–267	p242	63a	ex:Henni var skilað peningunum.|she was returned money.the.QDAT|(lit.) She was returned the money.	O	she	return	S	R	F	S	Y	N			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01415		NLLT	20	NA	2002	pp197–267	p242	64a	ex:Jens blev givet bogen.|J. became given book.the|Jens was given the book.	O	Jens	give	S	R	U	S	Y	N	B		Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01416		NLLT	20	NA	2002	pp197–267	p248	67a	ex:Some applicantsi seem to each otheri to be eligible for the job.|b. ? There seem to each otheri to be some applicantsi eligible for|job.	E	applicants	seem	S	E	N	P	N	N			Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+										E	each other	seem	Q	E	N	P	N	Y					
+										E	applicants	be	S	E	N	P	N	N	O				
+NLLT_01417		NLLT	20	NA	2002	pp197–267	p249	XXc	ex:Es hat ja doch ein Junge den Zaun gestrichen (German)|EXPL has indeed a boy the fence painted|A boy has indeed painted the fence.	O	boy	paint	S	A	M	S	Y	N	S		Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01418		NLLT	20	NA	2002	pp197–267	p257	66b	ex: There seem(? s) to be some unicorns in the garden.	E											Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_01419		NLLT	20	NA	2002	pp197–267	p257	77	ex:Some unicorns seem to be in the garden.	E											Constructed	file:Bobaljik2002_Article_A-ChainsAtThePf-InterfaceCopie.html	
+NLLT_06615		NLLT	20	NA	2002	pp553–621	p558	11	ex:Adjunct islands|?|a. My sister drives as carefully as I avoid accidents when I drive.	E	sister	drive	S	A	F	S	N	N			Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06616		NLLT	20	NA	2002	pp553–621	p558	13a	ex:Michael has more scoring titles than Kim says he has.|b. Michael has more scoring titles than Kim says Dennis plans to|get tattoos.	E	Michael	have	S	A	M	S	Y	N			Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	Kim 	say	S	A	F	S	Y	N					
+										E	he	have	S	A	M	S	N	Y					
+										E	Dennis	plan	S	A	M	S	Y	N					
+NLLT_06617		NLLT	20	NA	2002	pp553–621	p561	25a	ex:I threw away more books than I kept without reading e.|b. Jerome followed more suspects than Arthur interrogated|without arresting e.	E	Jerome	follow	S	A	M	S	Y	N	O		Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	suspects	follow	S	P	N	P	N	N	O				
+										E	Arthur	interrogate	S	A	M	S	Y	N	O				
+										E	Arthur 	arrest	S	A	M	S	Y	N	O				
+NLLT_06618		NLLT	20	NA	2002	pp553–621	p563	30a	ex:? Christmas makes as many children as happy as birthdays make.|b. ? Max persuaded more people to buy more cars than you per-|suaded to buy.	E	children	make	O	P	N	P	N	N	E		Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	children	happy	O	E	N	P	N	N	E	Object?			
+										E	Max	persuade	S	A	M	S	Y	N	O				
+										E	people	persuade	Q	P	N	P	N	N	O				
+										E	people	buy	Q	A	N	P	N	N		Oblique?			
+NLLT_06619		NLLT	20	NA	2002	pp553–621	p563	31a	ex:Christmas makes as many people as happy as it makes unhappy.|b. Max persuaded more people to buy more cars than you per-|suaded to buy trucks.	E	people	make	O	P	N	P	N	N	E		Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	people	happy	O	E	N	P	N	N	E	Object?			
+										E	people	unhappy	O	E	N	P	N	N	E	Object?			
+										E	Max	persuade	S	A	M	S	Y	N	O				
+										E	people	persuade	Q	P	N	P	N	N	O				
+										E	people	buy	Q	A	N	P	N	N		Oblique?			
+NLLT_06620		NLLT	20	NA	2002	pp553–621	p566	37a	ex:More Democrats abstained than (? the) Republicans voted.|b. Dennis bought more new ties than he bought (? some) new|shirts.	E	democrats	abstain	S	A	N	P	N	N	O		Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	Republicans	vote	S	A	N	P	N	N	O				
+										E	Dennis	buy	S	A	M	S	Y	N					
+										E	he	buy	S	A	M	S	Y	N					
+NLLT_06621		NLLT	20	NA	2002	pp553–621	p568	46a	ex:? Max sold as many of the men as many of the cars as you sold.|b. ? Max sold as many of the men as many of the cars as you sold|of the women of the trucks.	E	Max	sell	S	A	M	S	Y	N	O		Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	men	sell	Q	R	M	P	N	N	O				
+										E	women	sell	Q	R	F	P	N	N	O				
+NLLT_06622		NLLT	20	NA	2002	pp553–621	p569	48a	ex:Max sold as many men as many cars as you sold trucks.|b. ? Max sold as many of the men as many of the cars as you sold|of the trucks.	E	Max	sell	S	A	M	S	Y	N	O		Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	men	sell	Q	R	M	P	N	N	O				
+NLLT_06623		NLLT	20	NA	2002	pp553–621	p575	61a	ex:Every quantity of beans should be served with much rice.|b. Every quantity of beans should be served with that much/the|same quantity of rice.	E											Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06624		NLLT	20	NA	2002	pp553–621	p577	65	ex:Which student made sure that which speaker got home safely?	E	student	make (sure)	S	A	N	S	N	N			Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	speaker	get home	S	A	N	S	N	N					
+NLLT_06625		NLLT	20	NA	2002	pp553–621	p577	66	ex:Some student made sure that each speaker got home safely.	E	student	make (sure)	S	A	N	S	N	N			Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	speaker	get home	S	A	N	S	N	N					
+NLLT_06626		NLLT	20	NA	2002	pp553–621	p581	78a	ex:I persuaded as many senators to buy as many cars as you per-|suaded to buy trucksj after getting opponents of ei to put bombs|in ej .	E	senators	persuade	Q	P	N	P	N	N	O		Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	senators	buy	Q	A	N	P	N	N	O	oblique?			
+										E	opponents	get 	Q	P	N	P	N	N	V				
+										E	opponents	put	Q	A	N	P	N	N	V	oblique?			
+NLLT_06628		NLLT	20	NA	2002	pp553–621	p587	89	ex:The galaxy contains more stars than the eye can see.	E											Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06629		NLLT	20	NA	2002	pp553–621	p588	90a	"ex:Kim could see stars, but I couldn’t see [DP any [NP stars]]|b. Kim heard about Lee’s discovery before I heard about [DP Pat’s|[NP discovery]]."	E	Kim 	see	S	A	F	S	Y	N			Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	Kim 	hear	S	A	F	S	Y	N					
+										E	Lee				M	S	Y	N	B	possessor			
+										E	Pat				M	S	Y	N	B	possessor			
+NLLT_06630		NLLT	20	NA	2002	pp553–621	p588	91	"ex:Kim could see stars, but I couldn’t see [DP [NP starts]]."	E	Kim 	see	S	A	F	S	Y	N			Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06631		NLLT	20	NA	2002	pp553–621	p592	95	ex:Michael has more scoring titles than Dennis has tattoos.	E	Michael	have	S	A	M	S	Y	N			Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+										E	Dennis	have	S	A	M	S	Y	N					
+NLLT_06632		NLLT	20	NA	2002	pp553–621	p594	99a	ex:There’s more ?sh than there’s rice in the pot.|b. More old books were read than I thought (that) new books were|read.	E											Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06633		NLLT	20	NA	2002	pp553–621	p596	103	ex:I read more of the abstract than I read of the article.	E											Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06635		NLLT	20	NA	2002	pp553–621	p602	XXb	ex:? University of?cials convinced more researchers to join more|committees than they had ever convinced researchers to join|before.												Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06636		NLLT	20	NA	2002	pp553–621	p602	XXc	ex:?University of?cials convinced more researchers to join more|committees than they had ever convinced to join committees|before.												Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06637		NLLT	20	NA	2002	pp553–621	p604	108	ex:Dennis has more tattoos than Michael has.												Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06638		NLLT	20	NA	2002	pp553–621	p604	110	ex:Dennis has more tattoos than Michael does.												Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06639		NLLT	20	NA	2002	pp553–621	p608	119a	ex:La mesa es m´ as large que ancha es la puerta.|the table is more long than wide is the door|The table is longer than the door is wide.												Constructed	file:Kennedy2002_Article_ComparativeDeletionAndOptimali.html	
+NLLT_06640		NLLT	20	NA	2002	pp339–412	p340	2a	ex:Robin n’aime pas Stacey.|Robin (n’)likes NEG Stacey|Robin does not like Stacey.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06641		NLLT	20	NA	2002	pp339–412	p343	8a	ex:A system of lexical representation.|b. Principles specifying the nature of headed phrases and their|relation to those lexical representations.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06642		NLLT	20	NA	2002	pp339–412	p347	12a	"ex:The Generalized Head Feature Principle (GHFP), which – by|default – identi?es the value of all features of the mother with|that of the head daughter in all headed phrases."												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06643		NLLT	20	NA	2002	pp339–412	p355	29a	ex:Kim regrets [not [having read the book]].|b. We asked him [not [to try to read the book]].|c. Duty made them [not [miss the weekly meeting]].												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06644		NLLT	20	NA	2002	pp339–412	p355	30a	ex:[Ne pas [repeindre sa maison]] est une négligence.|ne not paint one’s house is a negligence|‘Not to paint one’s house is negligent.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06645		NLLT	20	NA	2002	pp339–412	p356	33a	ex:[Not [speaking English]] is a disadvantage.|b.*[Speaking not English] is a disadvantage.|c.*Lee likes not Kim.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06646		NLLT	20	NA	2002	pp339–412	p356	35a	ex:*Pat [not VP[f in] [left]].|b.*Pat certainly [not VP[f in] [talked to me]]|c.*Pat [not VP[f in] [always agreed with me]].												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06647		NLLT	20	NA	2002	pp339–412	p356	36a	ex:I saw Pat acting rude and [not VP[prp] [saying hello]].|b. I asked him to [not VP[bse] [leave the bar]].|c. Their having [not VP[psp] [told the truth]] was upsetting.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06648		NLLT	20	NA	2002	pp339–412	p357	38a	"ex:Il est recommandé de [ne pas [ne pas [travailler]]], malgré le|beau temps.|‘It is advisable to not not work, in spite of the beautiful weather.’"												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06649		NLLT	20	NA	2002	pp339–412	p357	38b	ex:Il est recommandé de [ne jamais [ne pas [travailler pendant plus|de 15 jours]]].|‘It’s advisable to never not work more than 15 days.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06650		NLLT	20	NA	2002	pp339–412	p357	39	"ex:(Everyone’s turning the offer down, but I’m wavering...)|?I can’t believe you would consider [not [not [taking advantage of the|offer]]]."												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06651		NLLT	20	NA	2002	pp339–412	p358	40a	ex:Le Général a osé ne pas obéir aux ordres.|the General has dared ne not to obey to the orders|‘The general dared [not to obey the orders].’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06652		NLLT	20	NA	2002	pp339–412	p359	48a	ex:Kim veut ne pas repeindre la maison|Kim wants not to-paint the house|‘Kim wants not to paint the house’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06653		NLLT	20	NA	2002	pp339–412	p360	48b	ex:Il est recommandé de [ne jamais [travailler pendant plus|de 15 jours]].|‘It’s advisable to never work more than 15 days.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06654		NLLT	20	NA	2002	pp339–412	p363	59a	ex:*Paul ne travaille pas pas quand il fait beau|Paul ne works not not when it makes beautiful|‘Paul doesn’t work when the weather’s nice.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06655		NLLT	20	NA	2002	pp339–412	p365	63a	ex:Le Général a osé ne pas obéir aux ordres.|the General has dared ne not to obey to the orders|‘The general dared not to obey the orders.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06656		NLLT	20	NA	2002	pp339–412	p366	68	"ex:They said they wanted to join us,|a. *but not join us they can.|b. but join us they cannot."												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06657		NLLT	20	NA	2002	pp339–412	p369	77a	"ex:They cannot (just) [not take advantage of that offer], can they?.|b. You children may not (simply) [not do your homework] (and still|pass the course)."												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06658		NLLT	20	NA	2002	pp339–412	p370	80	ex:Kim ne peut pas faire ça.|Kim ne can not to.do that|‘Kim cannot do that.’ (is not able to do that)												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06659		NLLT	20	NA	2002	pp339–412	p370	81	ex:Kim ne devrait pas faire ça.|Kim ne should not to.do that|‘Kim should not do that.’ (is obliged not to do that)												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06660		NLLT	20	NA	2002	pp339–412	p371	82a	ex:Kim ne doit pas faire ça.|Kim ne must not to.do that|‘Kim must not do that.’ (is obligated not to do that) or												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06661		NLLT	20	NA	2002	pp339–412	p371	82b	ex:Il ne faut pas crier.|it ne is.necessary not to.shout|‘It is forbidden (necessary not) to shout.’ or												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06662		NLLT	20	NA	2002	pp339–412	p375	90a	ex:*They WILL not be there. (Will they?)|b. *Leslie CAN not do that. (Can she?)|c. *Leslie CAN so/too do that.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06663		NLLT	20	NA	2002	pp339–412	p376	92	ex:Kleptomaniacs cannot NOT steal.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06664		NLLT	20	NA	2002	pp339–412	p379	100a	ex:Je pensais ne pas devoir partir à l’école aujourd’hui.|I thought ne not ‘have to’ go to school today|‘I thought I must not go to school today.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06665		NLLT	20	NA	2002	pp339–412	p389	120a	ex:*Mes amis souvent/rarement sont malheureux très longtemps.|My friends often/rarely are unhappy for long periods|b. Mes amis sont souvent/rarement malheureux très longtemps.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06666		NLLT	20	NA	2002	pp339–412	p389	121a	ex:*Mes amis souvent/rarement m’ont aidé.|My friends often/rarely have helped me|b. Mes amis m’ont souvent/rarement aidé.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06667		NLLT	20	NA	2002	pp339–412	p390	126	ex:Jean regrette de [ne jamais [venir à Paris]].|Jean regrets of ne never to.come to Paris|‘Jean regrets never coming to Paris.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06668		NLLT	20	NA	2002	pp339–412	p391	127a	ex:Paul croit [[bien [déclamer]] Proust].|Paul believes well of.to.recite Proust|‘Paul believes he recites Proust well.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06669		NLLT	20	NA	2002	pp339–412	p391	127b	ex:Paul croit [déclamer bien Proust].|Paul believes of.to.recite well Proust|‘Paul believes he recites Proust well.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06670		NLLT	20	NA	2002	pp339–412	p391	128a	ex:Paul espérait mieux manger et boire.|Paul hoped better to.eat and to.drink|‘Paul hoped to eat better and to drink.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06671		NLLT	20	NA	2002	pp339–412	p391	128b	ex:Paul mange et boit mieux aujourd’hui.|Paul eats and drinks better today|‘Paul eats and drinks better today.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06672		NLLT	20	NA	2002	pp339–412	p391	129a	ex:Paul écoutera attentivement l’orateur.|Paul will.listen(to) attentively the.speaker|‘Paul will listen to the speaker attentively.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06673		NLLT	20	NA	2002	pp339–412	p392	129b	ex:Marie lit souvent Proust.|Marie reads often Proust|‘Marie often reads Proust.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06674		NLLT	20	NA	2002	pp339–412	p392	131	ex:Dominique aime evidemment Ronnie.|Dominique likes evidemment Ronnie|‘Dominique obviously likes Ronnie.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06675		NLLT	20	NA	2002	pp339–412	p393	134a	ex:Ne pas parler le français est un grand désavantage en ce cas.|ne not to speak French is a great disadvantage in this case|b.*Ne parler pas le français est un grand désavantage en ce cas.												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06676		NLLT	20	NA	2002	pp339–412	p394	136a	ex:Fréquemment parler bien le français est un grand avantage.|frequently speak well French is a great advantage|‘To frequently speak French well is a great advantage.’												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_06677		NLLT	20	NA	2002	pp339–412	p394	136b	"ex:Fréquemment parler parfaitement le français...|frequently speak perfectly French ...|‘To frequently speak French perfectly,...’"												Constructed	file:Kim-Sag2002_Article_NegationWithoutHead-Movement.html	
+NLLT_08790		NLLT	20	NA	2002	pp413–450	p417	1a	"ex:Agreement markers consist of the referential features (phi-|features) of the arguments, or a subset of those features. As such|they are part of the referential system of the language."												Constructed	file:Meir2002_Article_ACross-ModalityPerspectiveOnVe.html	
+NLLT_08791		NLLT	20	NA	2002	pp413–450	p417	1b	"ex:Functionally, agreement is a grammatical device for the iden-|ti?cation and keeping track of referents over a stretch of|discourse (Lehmann 1988; Wunderlich 1994)."												Constructed	file:Meir2002_Article_ACross-ModalityPerspectiveOnVe.html	
+NLLT_08792		NLLT	20	NA	2002	pp413–450	p425	3	ex:Principles of Sign Language Agreement Morphology:|a. The direction of the path movement of agreement verbs is from|source to goal.												Constructed	file:Meir2002_Article_ACross-ModalityPerspectiveOnVe.html	
+NLLT_08793		NLLT	20	NA	2002	pp413–450	p428	5a	ex:va chew-k|house make-REALIS|He built a house.												Constructed	file:Meir2002_Article_ACross-ModalityPerspectiveOnVe.html	
+NLLT_08794		NLLT	20	NA	2002	pp413–450	p428	5b	ex:va ny-chew-i-k|house 3/1-make-BENEFECTIVE-REALIS|He built a house for me.												Constructed	file:Meir2002_Article_ACross-ModalityPerspectiveOnVe.html	
+NLLT_08795		NLLT	20	NA	2002	pp413–450	p428	XXb	"ex:There are two main types of verbs in the language: verbs which|do not in?ect for agreement (plain verbs), and verbs which|agree (agreement verbs and spatial verbs)."												Constructed	file:Meir2002_Article_ACross-ModalityPerspectiveOnVe.html	
+NLLT_09125		NLLT	20	NA	2002	pp101–156	p106	5	ex:Foot binarity|F T B IN: A foot must be binary at either the syllabic or moraic|level.												Constructed	file:OlaOrie-Pulleyblank2002_Article_YorubaVowelElisionMinimalityEf.html	
+NLLT_09763		NLLT	20	NA	2002	pp623–689	p624	1a	"ex:Ames, as the FBI eventually discovered, was a spy. ‘CP-As’|b. Ames stole important documents, as the FBI said he had.|‘Predicate-As’"												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09764		NLLT	20	NA	2002	pp623–689	p631	17	"ex:C OMPLEX DP I SLAND|a. ? Americans have a right to cheap gas, just as George espoused|his belief that the world should accept t."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09765		NLLT	20	NA	2002	pp623–689	p632	18	"ex:Wh-I SLAND|?|a. Chuck rides a unicycle, just as Sue asked me whether I knew t."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09766		NLLT	20	NA	2002	pp623–689	p633	23a	"ex:[Fix the car]1 , I wonder whether he will t1 .|b. He said he ?xed the car, which1 they had earlier asked him|whether he would t1 ."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09767		NLLT	20	NA	2002	pp623–689	p636	31a	"ex:Ames stole the document, as the spy who tried to attested t.|b. Ames stole the document, as Chuck claimed t before the enemy|did ."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09768		NLLT	20	NA	2002	pp623–689	p637	31b	"ex:? [Abuse my ferret] , I refused to accept that he could t even after seeing him|4 4|t4 ."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09769		NLLT	20	NA	2002	pp623–689	p638	34	ex:Clyde plon tha naakh aan yaa .rai?|Clyde rob bank how.QUES|How did Clyde rob the bank?												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09770		NLLT	20	NA	2002	pp623–689	p638	35	"ex:Th u .rian a.roy yaa th ii kh on ee.ch ian laai kh on ruu.|durians delicious, as C Asians many CLASS. know|Durians are delicious, as many Asians know."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09771		NLLT	20	NA	2002	pp623–689	p639	38a	"ex:Buzz has been ?ying longer than has Chuck (? been (?ying)).|b. By the end of the trip, Klaus will have seen many bats, as will|Eddie (? have (seen))."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09772		NLLT	20	NA	2002	pp623–689	p646	55	"ex:She sent, as you said, her loving father a request for funds."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09773		NLLT	20	NA	2002	pp623–689	p646	56	ex:She sent recently her loving father a request for funds.												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09774		NLLT	20	NA	2002	pp623–689	p652	67	"ex:Tito, as you know, paid to visit the moon.|a. (67) conventionally implicates that you know Tito visited the|moon."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09775		NLLT	20	NA	2002	pp623–689	p662	86a	"ex:James believes that, as you said, space has four dimensions.|b. James was certain ten years ago that, as Wiles proved the other|day, Fermat’s Last Theorem is correct."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09776		NLLT	20	NA	2002	pp623–689	p663	88	"ex:[PP1 As the senator asserted on Monday], Ames sold, [PP2 as his|wife had admitted by that Wednesday], many vital secrets to the|enemy."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09777		NLLT	20	NA	2002	pp623–689	p678	120a	"ex:No one in the department stole the ?le, as Joe alleged.|b. [CP [NegP NEG [IP someone in the department stole the ?le]]]|c."												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_09778		NLLT	20	NA	2002	pp623–689	p679	121	ex:Some men aren’t chauvinists – all men are chauvinists.												Constructed	file:Potts2002_Article_TheSyntaxAndSemanticsOfAs-pare.html	
+NLLT_10526		NLLT	20	NA	2002	pp691–724	p692	2	ex:Henni var kalt|her(D) was cold|She was freezing.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10527		NLLT	20	NA	2002	pp691–724	p692	3	ex:Hana vantaði vinnu|her(A) lacked job(A)|She lacked/needed a job.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10528		NLLT	20	NA	2002	pp691–724	p692	4	ex:Hennar var saknað|her(G) was missed|She was missed.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10529		NLLT	20	NA	2002	pp691–724	p694	7	ex:Mir ist kalt|me(D) is cold|I am freezing.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10530		NLLT	20	NA	2002	pp691–724	p694	8	ex:Mir wurde geholfen|me(D) was helped|I was helped (by somebody).												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10531		NLLT	20	NA	2002	pp691–724	p695	13	ex:Mne legko govorit’ po-russki|me(D) easy to.speak in Russian|It is easy for me to speak Russian.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10532		NLLT	20	NA	2002	pp691–724	p695	14	ex:Mne uxodit’|me(D) to.leave|I have to leave.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10533		NLLT	20	NA	2002	pp691–724	p697	16	ex:Im ne na? cat’ rabotat’ odnim|them(D) not to.begin to.work alone(D)|It is not (in the cards) for them to begin to work alone.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10534		NLLT	20	NA	2002	pp691–724	p700	32	ex:Takim ljudjam ne rabotat’ odnim|such people(D) not to.work alone|It is not (in the cards) for such people to work alone.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10535		NLLT	20	NA	2002	pp691–724	p700	33	ex:Viktor glup|Victor(N) stupid(short form)|Victor is stupid.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10536		NLLT	20	NA	2002	pp691–724	p700	34	ex:Viktor byl glupym|Victor(N) was(M.SG) stupid(IM)|Victor was stupid.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10537		NLLT	20	NA	2002	pp691–724	p701	36	ex:Mne uxodit’|me(D) to.leave|I have to leave.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10538		NLLT	20	NA	2002	pp691–724	p701	37	ex:Mne bylo uxodit’|me(D) was(N.SG) to.leave|I had to leave.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10539		NLLT	20	NA	2002	pp691–724	p701	38	ex:M´ er ber að fara|me(D) bears to leave|I have to leave / It is my duty to leave.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10540		NLLT	20	NA	2002	pp691–724	p702	32	ex:Takim ljudjam ne rabotat’ odnim|such people(D) not to.work alone|It is not (in the cards) for such people to work alone.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10541		NLLT	20	NA	2002	pp691–724	p702	41	ex:Svona f´ olki ber ekki að vinna einu|such people(D) bears not to work alone|It is not for such people to work alone.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10542		NLLT	20	NA	2002	pp691–724	p703	44	ex:Takomu professoru ne nužno deneg|such professor(D) [is] not necessary(N.SG) money(G)|That kind of professor doesn’t need money.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10543		NLLT	20	NA	2002	pp691–724	p703	45	ex:Borisu bylo veselo|Boris(D) was(N.SG) merry(N.SG)|Boris had fun.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10544		NLLT	20	NA	2002	pp691–724	p704	46	ex:Toj rukopisi ne byt’ opublikovannoj|that manuscript(DF.SG) not to.be published(IF.SG)|It is not (in the cards) for that manuscript to be published.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10545		NLLT	20	NA	2002	pp691–724	p705	49	"ex:SECONDARY AGREEMENT, i.e., non-predication-bounded agree-|ment of a secondary adjectival or participial predicate with an|‘antecedent’."												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10546		NLLT	20	NA	2002	pp691–724	p705	50	ex:Mennirnir hafa sennilega verið drukknir|men.the(NM.PL) have(3PL) probably been drunk(NM.PL)|The men have probably been drunk.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10547		NLLT	20	NA	2002	pp691–724	p705	51	ex:Konan hefur oft verið kosin|woman.the(NF.SG) has(3SG) often been elected(NF.SG)|The woman has often been elected.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10548		NLLT	20	NA	2002	pp691–724	p705	54	ex:Mennirnir vonuðust til [að verða kosnir]|men.the(NM.PL) hoped for to be elected(NM.PL)|The men hoped to be elected.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10549		NLLT	20	NA	2002	pp691–724	p707	57	ex:Konan hefur oft verið kosin|woman.the(NF.SG) has (3SG) often been elected(NF.SG)|The woman has often been elected.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10550		NLLT	20	NA	2002	pp691–724	p707	62	ex:Stelpurnar höfðu verið illar|girls.the(NF.PL) had(3PL) been bad(NF.PL)|The girls had been angry.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10551		NLLT	20	NA	2002	pp691–724	p708	65	ex:Stelpunum hafði verið illt|girls.the(D) had(3SG) been bad(N/AN.SG)|The girls had been ill/felt badly.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10552		NLLT	20	NA	2002	pp691–724	p708	66	ex:Stelpunni voru gefnir hestarnir|girl.the(DF.SG) were(3PL) given(NM.PL) horses.the(NM.PL)|The girl was given the horses.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10553		NLLT	20	NA	2002	pp691–724	p708	68	ex:I að erum bara við|it are(1PL) only we(N)|It is only us.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10554		NLLT	20	NA	2002	pp691–724	p710	76	ex:Henni leið illa drukkinni|her(DF.SG) felt(3SG) badly drunk(DF.SG)|She felt bad (when) drunk.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10555		NLLT	20	NA	2002	pp691–724	p710	78	ex:Henni leið illa sem presti/prestur|her(DF.SG) felt(3SG) badly as priest(D/N)|She was unhappy as a priest.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10556		NLLT	20	NA	2002	pp691–724	p713	87	"ex:ICELANDIC PRIMARY AGREEMENT is crucially predication-bounded|and contingent on nominative case; hence, non-nominative|arguments never control primary agreement in Icelandic."												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10557		NLLT	20	NA	2002	pp691–724	p713	89	ex:Toj rukopisi ne byt’ opublikovannoj|that manuscript(DF.SG) not to.be published(IF.SG)|It is not (in the cards) for that manuscript to be published.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10558		NLLT	20	NA	2002	pp691–724	p714	91	ex:Ivan ne xo?cet [prijti domoj p’janym]|Ivan(NM.SG) not wants to.come home drunk(IM.SG)|Ivan does not want to come home drunk.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10559		NLLT	20	NA	2002	pp691–724	p714	92	ex:Ja proposil Ivana [ne prixodit’ p’janym]|I(N) asked Ivan(AM.SG) not to.come drunk(IM.SG)|I asked Ivan not to come drunk.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10560		NLLT	20	NA	2002	pp691–724	p714	93	ex:Boris sdelal vse vozmožnoe [? ctoby PRO rabotat’ odnomu]|Boris(N) did all possible in.order PRO to.work alone(D)|Boris did everything possible to work alone.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10561		NLLT	20	NA	2002	pp691–724	p717	93	ex:Boris sdelal vse vozmožnoe [? ctoby PRO rabotat’ odnomu]|Boris(N) did all possible in.order PRO to.work alone(D)|Boris did everything possible to work alone.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10562		NLLT	20	NA	2002	pp691–724	p717	101	ex:Boris rabotaet odin|Boris(N) works alone(N)|Boris works alone.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10563		NLLT	20	NA	2002	pp691–724	p718	104	ex:Ljuda priexala pokupat’ maslo sama/? samoj|Ljuda(N) came to.buy butter herself(N/? D)|Ljuda came to buy the butter herself.												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10564		NLLT	20	NA	2002	pp691–724	p720	108	"ex:Ja znaju, emu nravimsja my|I know him(D) like(1PL) we(N)|I know that he likes us."												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10565		NLLT	20	NA	2002	pp691–724	p720	109	"ex:Ja znaju, emu nravites’ vy|I know him(D) like(2PL) you(NPL)|I know that he likes us."												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_10566		NLLT	20	NA	2002	pp691–724	p720	110	"ex:Ja znaju, emu nravjatsja oni|I know him(D) like(3PL) they(N)|I know that he likes them."												Constructed	file:SigurDsson2002_Article_ToBeAnObliqueSubjectRussianVsI.html	
+NLLT_11453		NLLT	20	NA	2002	pp725–758	p726	1a	ex:i porta-la denti.|SCL bring(1sg)-it inside|I’m bringing it inside.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11454		NLLT	20	NA	2002	pp725–758	p726	1b	ex:i porti denta-la.|SCL bring(1sg) inside-it|I’m bringing it inside.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11455		NLLT	20	NA	2002	pp725–758	p726	2a	ex:i moengia-la denti.|SCL eat(1sg)-it inside|I’m eating it inside.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11456		NLLT	20	NA	2002	pp725–758	p727	3a	ex:I porti la torta.|SCL bring(1sg) the cake|I’m bringing the cake.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11457		NLLT	20	NA	2002	pp725–758	p728	3b	ex:i porta-la.5|SCL bring(1sg)-it(fem.sg)|I’m bringing it.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11458		NLLT	20	NA	2002	pp725–758	p729	XXb	ex:i porti mi-lla.7|SCL bring(1sg) NEG-it|I’m not bringing it.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11459		NLLT	20	NA	2002	pp725–758	p729	6a	ex:i vœnghi Maria gi` a da dü agni.|SCL see(1sg) Maria already of two years|I’ve already been seeing Maria for two years.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11460		NLLT	20	NA	2002	pp725–758	p729	6b	ex:i vangumma gi` a-nni da dü agni.|SCL see(1pl) already-us of two years|We’ve already been seeing each other for two years.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11461		NLLT	20	NA	2002	pp725–758	p729	7a	ex:i vœnghi piö la mata.|SCL see(1sg) anymore the girl|I don’t see the girl anymore.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11462		NLLT	20	NA	2002	pp725–758	p730	8	ex:i mœngi piö-nnu.9|SCL eat(1sg) anymore-of.them|I’m not eating anymore of them.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11463		NLLT	20	NA	2002	pp725–758	p730	9	ex:i mœngiu-nu piö|SCL eat(1sg)-of.them anymore|I’m not eating anymore of them.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11464		NLLT	20	NA	2002	pp725–758	p730	10	ex:i mœngiu-nu.|SCL eat(1sg)-of.them|I’m eating some of them.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11465		NLLT	20	NA	2002	pp725–758	p731	11a	ex:i faga-la ns´ e.|SCL do(1sg)-it like.so|I’m doing it like this.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11466		NLLT	20	NA	2002	pp725–758	p731	12a	ex:i trata-lu mal.|SCL treat(1sg)-him badly|I treat him badly.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11467		NLLT	20	NA	2002	pp725–758	p731	13	"ex:dopu sceni, i mœngi sempri la torta.|after dinner SCL eat(1sg) always the cake|After dinner, I always eat cake."												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11468		NLLT	20	NA	2002	pp725–758	p731	14a	ex:i mœngia-la sempri.|SCL eat(1sg)-it always|I always eat it.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11469		NLLT	20	NA	2002	pp725–758	p732	15	ex:Parlar-gli sarebbe un errore.|to.speak-him would-be a mistake|To speak to him would be a mistake.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11470		NLLT	20	NA	2002	pp725–758	p732	16	ex:Lui parler serait une erreur.|to-him to.speak would-be a mistake|To speak to him would be a mistake.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11471		NLLT	20	NA	2002	pp725–758	p733	19	ex:en ben parlar ...|of.it well to.speak|To speak well of it ...												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11472		NLLT	20	NA	2002	pp725–758	p734	21	ex:i porta-la.|SCL bring(1sg)-it(fem.sg)|I’m bringing it.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11473		NLLT	20	NA	2002	pp725–758	p734	22	ex:i porti mi-lla.|SCL bring(1sg) NEG-it|I’m not bringing it.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11474		NLLT	20	NA	2002	pp725–758	p735	24a	ex:durm` ? piö sarissi brüttu.|to.sleep anymore would.be horrible|To not sleep anymore would be bad.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11475		NLLT	20	NA	2002	pp725–758	p739	34a	"ex:Lui non ha pi` u sempre vinto, da allora.|he NEG has more always won, since then (my gloss)|He has not any longer always won, since then."												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11476		NLLT	20	NA	2002	pp725–758	p744	38a	ex:i o vüstu la torta.|SCL have(1sg) seen the cake|I saw the cake.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11477		NLLT	20	NA	2002	pp725–758	p744	38b	ex:i o vüsta-la|SCL have(1sg) seen-it(fem.sg)|I saw it.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11478		NLLT	20	NA	2002	pp725–758	p744	39a	ex:i o piö vüsta-la|SCL have(1sg) anymore seen-her|I haven’t seen her anymore.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11479		NLLT	20	NA	2002	pp725–758	p745	41	ex:i o vüst piö-lla.|SCL have(1sg) seen anymore-her|I haven’t seen her anymore.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11480		NLLT	20	NA	2002	pp725–758	p745	42	ex:i o vüsta-la piö.|SCL have(1sg) seen-her anymore|I haven’t seen her anymore.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11481		NLLT	20	NA	2002	pp725–758	p746	43a	ex:i porti denta-la|SCL bring(1sg) inside-it|I’m bringing it inside.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11482		NLLT	20	NA	2002	pp725–758	p746	XXc	ex:i mötti sö-llu.|SCL put(1sg) on-it|I’m putting it on top.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11483		NLLT	20	NA	2002	pp725–758	p746	XXd	ex:tal porti vi-llu.|SCL bring(2sg) away-it|You’re bringing it away.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+NLLT_11484		NLLT	20	NA	2002	pp725–758	p747	44a	ex:? i porta-la denti.|SCL bring(1sg)-it inside|I’m bringing it inside.												Constructed	file:Tortora2002_Article_RomanceEnclisisPrepositionsAnd.html	
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							

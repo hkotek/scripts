@@ -1,0 +1,137 @@
+---
+title: "ProGRESS coding"
+output: html_notebook
+author: Hadas Kotek (modified from Sarah Babinski)
+date: 13 Feb 2019
+---
+
+This script reads in txt files of coded data for the ProGRESS project and processes them.
+
+setup: 
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE)
+rm(list = ls()) #clears the workspace
+library(lme4)
+library(dplyr)
+library(ggplot2)
+library(RColorBrewer)
+```
+
+get list of files:
+
+```{r}
+files = list.files(pattern=".txt")
+x = read.csv(files[1], sep="\t", header=T, na.strings = NA, row.names = NULL)[ ,1:23]
+```
+
+read in and combine: 
+
+```{r}
+progress = data.frame()
+
+for (i in files) {
+  df = read.csv(i, sep="\t", header=T, na.strings = NA, row.names = NULL)[ ,1:23]
+  colnames(df) = colnames(x)
+  df$codingfile = rep(i, length(df$Year))
+  progress = rbind(progress, df)
+}
+```
+
+fill in empty cells: 
+
+```{r}
+for (i in 1:length(progress$ExampleID)) {
+  progress$ExampleID[i] = ifelse(progress$ExampleID[i]=="", progress$ExampleID[i-1],
+                            progress$ExampleID[i])
+  progress$Coder[i] = ifelse(progress$Coder[i]=="", progress$Coder[i-1],
+                            progress$Coder[i])
+  progress$Journal[i] = ifelse(progress$Journal[i]=="", progress$Journal[i-1],
+                            progress$Journal[i])
+  progress$Vol[i] = ifelse(is.na(progress$Vol[i])==T, progress$Vol[i-1], progress$Vol[i])
+  progress$No[i] = ifelse(is.na(progress$No[i])==T, progress$No[i-1], progress$No[i])
+  progress$Year[i] = ifelse(is.na(progress$Year[i])==T, progress$Year[i-1],
+                            progress$Year[i])
+  progress$Pages[i] = ifelse(progress$Pages[i]=="", progress$Pages[i-1],
+                            progress$Pages[i])
+  progress$ExPg[i] = ifelse(progress$ExPg[i]=="", progress$ExPg[i-1],
+                            progress$ExPg[i])
+  progress$ExNo[i] = ifelse(progress$ExNo[i]=="", progress$ExNo[i-1],
+                            progress$ExNo[i])
+  progress$Example.Sentence[i] = ifelse(progress$Example.Sentence[i]=="",
+                            progress$Example.Sentence[i-1],
+                            progress$Example.Sentence[i])
+  progress$ExType[i] = ifelse(progress$ExType[i]=="", progress$ExType[i-1],
+                            progress$ExType[i])
+  progress$Filename[i] = ifelse(progress$Filename[i]=="", progress$Filename[i-1],
+                            progress$Filename[i])
+}
+```
+
+plot some bar graphs!
+
+```{r}
+gender.df = subset(progress, Gender %in% c("M","F","A","U"))
+gender.df$Gender = as.factor(gender.df$Gender)
+
+gendbar = ggplot(data=gender.df, aes(x=Gender, fill=Gender)) + geom_bar() +
+  scale_fill_brewer(palette = "Set1")
+gendbar
+
+pdf(file="gender-across-journals.pdf")
+gendbar
+dev.off()
+
+gendbar = ggplot(data=gender.df, aes(x=Journal, fill=Gender, group=Gender)) + geom_bar() +
+  scale_fill_brewer(palette = "Set1")
+gendbar
+
+pdf(file="gender-within-journals.pdf")
+gendbar
+dev.off()
+
+gram.df = subset(gender.df, GramFunction %in% c("S", "O", "Q"))
+
+gendbar = ggplot(data=gram.df, aes(x=Gender, fill=GramFunction, group=GramFunction)) +
+  geom_bar() + scale_fill_brewer(palette = "Set1")
+gendbar
+
+pdf(file="gramfunc.pdf")
+gendbar
+dev.off()
+  
+gendbar = ggplot(data=gram.df, aes(x=interaction(Gender,Journal), fill=GramFunction, group=GramFunction)) +
+  geom_bar() + scale_fill_brewer(palette = "Set1")
+gendbar
+
+pdf(file="gramfunc-byj.pdf")
+gendbar
+dev.off()
+
+names = subset(gender.df, Name.%in% c("Y","N"))
+
+gendbar = ggplot(data=names, aes(x=Name., fill=Gender, group=Gender)) +
+  geom_bar() + scale_fill_brewer(palette = "Set1")
+gendbar
+
+pdf(file="names-xname.pdf")
+gendbar
+dev.off()
+
+gendbar = ggplot(data=names, aes(x=Gender, fill=Name., group=Name.)) +
+  geom_bar() + scale_fill_brewer(palette = "Set1")
+gendbar
+
+pdf(file="names-xgender.pdf")
+gendbar
+dev.off()
+
+gendbar = ggplot(data=names, aes(x=interaction(Gender,Journal), fill=Name., group=Name.))+
+  geom_bar() + scale_fill_brewer(palette = "Set1")
+gendbar
+
+pdf(file="names-byj.pdf")
+gendbar
+dev.off()
+```
+
