@@ -3,7 +3,7 @@ Gender project (PROGRESS 2019) visualization script
 
 Summary:
 --------
-R script for large-scale data project (modified script from Sarah Babinsi, who created the Rmarkdown annotations), as well as annotation guidelines for the project, and a brief project description.
+R script for large-scale data project (modified script from Sarah Babinski, who created the Rmarkdown annotations), as well as annotation guidelines for the project, and a brief project description.
 
 
 Project description: 
